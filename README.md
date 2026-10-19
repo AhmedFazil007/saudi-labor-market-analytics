@@ -24,7 +24,7 @@ The four final Power BI screenshots are available in `assets/screenshots/`:
 
 ## Dataset and approach
 
-The simulated dataset covers **28 quarters (2019 Q1–2025 Q4)**, with **8,960 records** across Saudi cities and economic sectors. I used Power BI, Power Query and DAX to build four report pages. The repository also includes prepared analysis CSVs, a SQLite database and summary JSON; the original Python and SQL scripts are not included in this upload.
+The simulated dataset covers **28 quarters (2019 Q1–2025 Q4)**, with **8,960 records** across Saudi cities and economic sectors. I used Power BI, Power Query and DAX to build four report pages. The repository also includes prepared analysis CSVs, a SQLite database, summary JSON, a [Python analysis script](python/analyze_labor.py) and [SQLite queries](sql/labor_market_analysis.sql).
 
 For **2025 Q4**, the synthetic data gives approximately **260,722 employed people**, **13,826 vacancies**, a **5.30% vacancy-to-employment ratio** and an **employment-weighted monthly salary of SAR 5,309**.
 
@@ -43,10 +43,14 @@ To open the report:
 
 The Power BI project is an editable **PBIP** folder structure with a separate report and semantic model. A **PBIX** copy is also included. The screenshots show the report rendered in Power BI Desktop, but interactions and every filter combination have not been independently tested.
 
+## Reproduce the analysis
+
+From the repository root, run `python python/analyze_labor.py` (Python standard library only). It reads the source CSV and writes analysis summaries and the SQLite database to `analysis/`. Open the database with a SQLite client to run the queries in `sql/labor_market_analysis.sql`.
+
 ## What I would improve next
 
 I would make the workforce donuts follow the selected quarter, then add a compact summary of which sectors have the highest vacancy ratios rather than only the most vacancies. If I were using this for real workforce planning, I'd validate the trends against official labor-market publications before drawing policy or hiring conclusions.
 
 ## Repository status
 
-**Published:** The PBIP project, PBIX report, source CSV, analysis outputs and four Power BI screenshots are in this repository. The Python and SQL source scripts are not currently included; those would be useful additions for reproducing the analysis outside Power BI.
+**Published:** The PBIP project, PBIX report, source CSV, analysis outputs and four Power BI screenshots are in this repository. The Python and SQL analysis scripts are included in their respective folders.
