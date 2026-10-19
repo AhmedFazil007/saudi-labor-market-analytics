@@ -1,0 +1,79 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "a560522b7d17445699e9",
+  "position": {
+    "x": 28,
+    "y": 247,
+    "z": 5000,
+    "height": 293,
+    "width": 565,
+    "tabOrder": 5000
+  },
+  "visual": {
+    "visualType": "donutChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Labor"
+                    }
+                  },
+                  "Property": "nationality_group"
+                }
+              },
+              "queryRef": "Labor.nationality_group",
+              "nativeQueryRef": "nationality_group",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Labor"
+                    }
+                  },
+                  "Property": "Estimated Employment"
+                }
+              },
+              "queryRef": "Labor.Estimated Employment",
+              "nativeQueryRef": "Estimated Employment"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Employment by nationality'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

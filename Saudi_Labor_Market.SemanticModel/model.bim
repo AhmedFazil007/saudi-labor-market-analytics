@@ -1,0 +1,297 @@
+{
+  "compatibilityLevel": 1606,
+  "model": {
+    "annotations": [
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"Labor\",\"CSVFilePath\"]"
+      },
+      {
+        "name": "PBI_ProTooling",
+        "value": "[\"DevMode\"]"
+      }
+    ],
+    "culture": "en-US",
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "expressions": [
+      {
+        "name": "CSVFilePath",
+        "annotations": [
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
+          },
+          {
+            "name": "PBI_ResultType",
+            "value": "Text"
+          }
+        ],
+        "expression": "\"C:\\Users\\fazil\\Downloads\\Saudi_Labor_Market_PowerBI_GitHub_Ready\\data\\02_labor_market_quarterly_synthetic.csv\" meta [IsParameterQuery=true, Type=\"Text\", IsParameterQueryRequired=true]",
+        "kind": "m",
+        "lineageTag": "cb81a2c3-6181-441b-8b04-4f32ee87de3c"
+      }
+    ],
+    "sourceQueryCulture": "en-US",
+    "tables": [
+      {
+        "name": "Labor",
+        "annotations": [
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navigation"
+          },
+          {
+            "name": "PBI_ResultType",
+            "value": "Exception"
+          }
+        ],
+        "columns": [
+          {
+            "name": "quarter",
+            "dataType": "string",
+            "lineageTag": "e31d9594-fee1-462a-959d-bdc42977a688",
+            "sourceColumn": "quarter",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "city",
+            "dataType": "string",
+            "lineageTag": "6eb0d2ab-fd28-4c07-872e-dad67e85bf98",
+            "sourceColumn": "city",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "region",
+            "dataType": "string",
+            "lineageTag": "3683cdc0-47fe-4693-912b-76d770813208",
+            "sourceColumn": "region",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "economic_sector",
+            "dataType": "string",
+            "lineageTag": "063b6c7b-b1b2-4371-a35d-c3545cf4e510",
+            "sourceColumn": "economic_sector",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "nationality_group",
+            "dataType": "string",
+            "lineageTag": "5ff91c44-477e-4b6e-9444-b13a1823a4f3",
+            "sourceColumn": "nationality_group",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "gender",
+            "dataType": "string",
+            "lineageTag": "a382aac7-247b-4311-a589-9a253dc59765",
+            "sourceColumn": "gender",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "estimated_employed_people",
+            "dataType": "int64",
+            "lineageTag": "f8506d1a-2c18-40d0-8e88-7936a8614ad2",
+            "sourceColumn": "estimated_employed_people",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "estimated_average_monthly_salary_sar",
+            "dataType": "double",
+            "lineageTag": "73b1d953-3435-43d0-ae1b-6cb6ae2d6c09",
+            "sourceColumn": "estimated_average_monthly_salary_sar",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "estimated_open_vacancies",
+            "dataType": "int64",
+            "lineageTag": "77c82c5e-77f3-48db-aec0-abc55bf67e72",
+            "sourceColumn": "estimated_open_vacancies",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "vacancy_to_employment_pct",
+            "dataType": "double",
+            "lineageTag": "7208348f-b510-4250-8470-0c6cf0a4820f",
+            "sourceColumn": "vacancy_to_employment_pct",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Year",
+            "dataType": "int64",
+            "lineageTag": "9b2ea25d-8507-4b59-9717-b6e7bc8aadc3",
+            "sourceColumn": "Year",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "QuarterNumber",
+            "dataType": "int64",
+            "lineageTag": "d51fdad7-e81a-4602-86a6-7b0ad97da9da",
+            "sourceColumn": "QuarterNumber",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "QuarterIndex",
+            "dataType": "int64",
+            "lineageTag": "93b2a141-df02-44ae-8a42-146fa64438a8",
+            "sourceColumn": "QuarterIndex",
+            "summarizeBy": "sum"
+          }
+        ],
+        "lineageTag": "d45e3e50-dc9d-47e0-88a0-fc6b38c4a972",
+        "measures": [
+          {
+            "name": "Estimated Employment",
+            "expression": "SUM(Labor[estimated_employed_people])",
+            "formatString": "#,0",
+            "lineageTag": "bc9f7d83-fc70-45b8-bde3-6feff970465b"
+          },
+          {
+            "name": "Estimated Vacancies",
+            "expression": "SUM(Labor[estimated_open_vacancies])",
+            "formatString": "#,0",
+            "lineageTag": "a4fde3f1-8759-48bd-b807-453ff5c5c1dd"
+          },
+          {
+            "name": "Vacancy Rate",
+            "expression": "DIVIDE([Estimated Vacancies],[Estimated Employment])",
+            "formatString": "0.00%",
+            "lineageTag": "c2c5bb21-aa18-45c6-a12c-376275d630d3"
+          },
+          {
+            "name": "Weighted Monthly Salary SAR",
+            "expression": "DIVIDE(SUMX(Labor,Labor[estimated_employed_people]*Labor[estimated_average_monthly_salary_sar]),[Estimated Employment])",
+            "formatString": "\"SAR \"#,0",
+            "lineageTag": "e4d6dbde-d1ce-4ea6-ae02-cea3453cb7dd"
+          },
+          {
+            "name": "Saudi Employment",
+            "expression": "CALCULATE([Estimated Employment],Labor[nationality_group]=\"Saudi\")",
+            "formatString": "#,0",
+            "lineageTag": "fd062c01-9362-4b91-a621-8ed042d1be87"
+          },
+          {
+            "name": "Non-Saudi Employment",
+            "expression": "CALCULATE([Estimated Employment],Labor[nationality_group]=\"Non-Saudi\")",
+            "formatString": "#,0",
+            "lineageTag": "1523ccd9-0bc1-4e1b-b19b-0a5c7cefe8da"
+          },
+          {
+            "name": "Female Employment",
+            "expression": "CALCULATE([Estimated Employment],Labor[gender]=\"Female\")",
+            "formatString": "#,0",
+            "lineageTag": "c2d2ff3f-1d99-4661-b3e1-7fcfe0a4e59a"
+          },
+          {
+            "name": "Female Employment Share",
+            "expression": "DIVIDE([Female Employment],[Estimated Employment])",
+            "formatString": "0.0%",
+            "lineageTag": "37542ed6-247c-4b52-bf0d-6551aa1b69c0"
+          },
+          {
+            "name": "Saudi Employment Share",
+            "expression": "DIVIDE([Saudi Employment],[Estimated Employment])",
+            "formatString": "0.0%",
+            "lineageTag": "3bc04d5e-37f3-445d-b5d7-929b67660a67"
+          },
+          {
+            "name": "Employment Previous Quarter",
+            "expression": "VAR Q = MAX(Labor[QuarterIndex]) RETURN IF(Q>MINX(ALL(Labor[QuarterIndex]),Labor[QuarterIndex]),CALCULATE([Estimated Employment],FILTER(ALL(Labor[QuarterIndex],Labor[quarter]),Labor[QuarterIndex]=Q-1)))",
+            "formatString": "#,0",
+            "lineageTag": "088d80f7-99f3-4e00-bc2d-f418675f9058"
+          },
+          {
+            "name": "Employment QoQ %",
+            "expression": "DIVIDE([Latest Quarter Employment]-[Employment Previous Quarter],[Employment Previous Quarter])",
+            "formatString": "+0.0%;-0.0%;0.0%",
+            "lineageTag": "e162c3c5-ac64-4140-a730-a4b77e26b001"
+          },
+          {
+            "name": "Vacancies Previous Quarter",
+            "expression": "VAR Q = MAX(Labor[QuarterIndex]) RETURN IF(Q>MINX(ALL(Labor[QuarterIndex]),Labor[QuarterIndex]),CALCULATE([Estimated Vacancies],FILTER(ALL(Labor[QuarterIndex],Labor[quarter]),Labor[QuarterIndex]=Q-1)))",
+            "formatString": "#,0",
+            "lineageTag": "a1056a40-5802-417a-942b-01b4df36700b"
+          },
+          {
+            "name": "Vacancies QoQ %",
+            "expression": "DIVIDE([Latest Quarter Vacancies]-[Vacancies Previous Quarter],[Vacancies Previous Quarter])",
+            "formatString": "+0.0%;-0.0%;0.0%",
+            "lineageTag": "a975d832-bae4-4459-826d-ba3f15d58088"
+          },
+          {
+            "name": "Latest Quarter Employment",
+            "expression": "VAR Q = MAX(Labor[QuarterIndex]) RETURN CALCULATE([Estimated Employment],FILTER(ALL(Labor[QuarterIndex],Labor[quarter]),Labor[QuarterIndex]=Q))",
+            "formatString": "#,0",
+            "lineageTag": "50cc2c6a-4633-496e-bd05-944ad39ba6a4"
+          },
+          {
+            "name": "Latest Quarter Vacancies",
+            "expression": "VAR Q = MAX(Labor[QuarterIndex]) RETURN CALCULATE([Estimated Vacancies],FILTER(ALL(Labor[QuarterIndex],Labor[quarter]),Labor[QuarterIndex]=Q))",
+            "formatString": "#,0",
+            "lineageTag": "b0977af1-ec0d-4865-8849-58619bca8f83"
+          },
+          {
+            "name": "Latest Quarter Weighted Salary",
+            "expression": "VAR Q = MAX(Labor[QuarterIndex]) RETURN CALCULATE([Weighted Monthly Salary SAR],FILTER(ALL(Labor[QuarterIndex],Labor[quarter]),Labor[QuarterIndex]=Q))",
+            "formatString": "\"SAR \"#,0",
+            "lineageTag": "9580096d-2367-41fd-8c86-0b76b7169dd3"
+          },
+          {
+            "name": "Latest Quarter Vacancy Rate",
+            "expression": "DIVIDE([Latest Quarter Vacancies],[Latest Quarter Employment])",
+            "formatString": "0.00%",
+            "lineageTag": "fcf84e57-3312-4274-87c5-8d92724c4e4b"
+          },
+          {
+            "name": "Latest Quarter Saudi Employment",
+            "expression": "CALCULATE([Latest Quarter Employment],Labor[nationality_group]=\"Saudi\")",
+            "formatString": "#,0",
+            "lineageTag": "6767baaf-b4bb-4980-8aee-bab19effa9c0"
+          },
+          {
+            "name": "Latest Quarter Female Employment",
+            "expression": "CALCULATE([Latest Quarter Employment],Labor[gender]=\"Female\")",
+            "formatString": "#,0",
+            "lineageTag": "49e3335d-eade-4aa8-90e1-00350b381711"
+          },
+          {
+            "name": "Latest Quarter Saudi Share",
+            "expression": "DIVIDE([Latest Quarter Saudi Employment],[Latest Quarter Employment])",
+            "formatString": "0.0%",
+            "lineageTag": "ef504b82-7c84-41ed-b87f-41b716abcfb6"
+          },
+          {
+            "name": "Latest Quarter Female Share",
+            "expression": "DIVIDE([Latest Quarter Female Employment],[Latest Quarter Employment])",
+            "formatString": "0.0%",
+            "lineageTag": "18a0528d-197c-44d5-90cb-7be1deda2e19"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "Labor",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Source = Csv.Document(File.Contents(CSVFilePath), [Delimiter=\",\", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),",
+                "    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),",
+                "    Types = Table.TransformColumnTypes(Headers, {{\"quarter\", type text}, {\"city\", type text}, {\"region\", type text}, {\"economic_sector\", type text}, {\"nationality_group\", type text}, {\"gender\", type text}, {\"estimated_employed_people\", Int64.Type}, {\"estimated_average_monthly_salary_sar\", type number}, {\"estimated_open_vacancies\", Int64.Type}, {\"vacancy_to_employment_pct\", type number}}, \"en-US\"),",
+                "    AddYear = Table.AddColumn(Types, \"Year\", each Number.FromText(Text.Start([quarter], 4)), Int64.Type),",
+                "    AddQuarterNumber = Table.AddColumn(AddYear, \"QuarterNumber\", each Number.FromText(Text.End([quarter], 1)), Int64.Type),",
+                "    AddQuarterIndex = Table.AddColumn(AddQuarterNumber, \"QuarterIndex\", each [Year] * 4 + [QuarterNumber], Int64.Type)",
+                "in",
+                "    AddQuarterIndex"
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
