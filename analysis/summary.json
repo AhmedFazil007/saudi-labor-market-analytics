@@ -1,0 +1,21 @@
+{
+  "dataset": "Synthetic modeled city-sector cohort estimates, not official Saudi labor statistics",
+  "latest_quarter": "2025Q4",
+  "observations": 8960,
+  "cities": 10,
+  "sectors": 8,
+  "quarters": 28,
+  "latest": {
+    "employed": 260722,
+    "vacancies": 13826,
+    "weighted_salary_sar": 5309.0,
+    "vacancy_ratio_pct": 5.3
+  },
+  "first_quarter": {
+    "quarter": "2019Q1",
+    "employed": 226450,
+    "vacancies": 11900,
+    "weighted_salary_sar": 5274.28,
+    "vacancy_ratio_pct": 5.26
+  }
+}

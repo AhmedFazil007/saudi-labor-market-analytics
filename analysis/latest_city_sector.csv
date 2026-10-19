@@ -1,0 +1,2241 @@
+quarter,city,economic_sector,employed,vacancies,weighted_salary_sar,vacancy_ratio_pct
+2019Q1,Abha,Construction,2781,111,4405.83,3.99
+2019Q1,Abha,Finance & Insurance,890,67,4509.99,7.53
+2019Q1,Abha,Healthcare,1711,93,5314.63,5.44
+2019Q1,Abha,Hospitality & Tourism,1732,136,5529.72,7.85
+2019Q1,Abha,Information Technology,1125,86,5470.78,7.64
+2019Q1,Abha,Manufacturing,1928,84,4653.63,4.36
+2019Q1,Abha,Transport & Logistics,2355,107,5561.14,4.54
+2019Q1,Abha,Wholesale & Retail,2877,139,5400.25,4.83
+2019Q1,Al Ahsa,Construction,2755,119,5520.91,4.32
+2019Q1,Al Ahsa,Finance & Insurance,876,44,6108.01,5.02
+2019Q1,Al Ahsa,Healthcare,2142,113,4958.37,5.28
+2019Q1,Al Ahsa,Hospitality & Tourism,2137,132,6214.88,6.18
+2019Q1,Al Ahsa,Information Technology,1256,121,5701.68,9.63
+2019Q1,Al Ahsa,Manufacturing,1933,106,4597.03,5.48
+2019Q1,Al Ahsa,Transport & Logistics,2344,117,4958.96,4.99
+2019Q1,Al Ahsa,Wholesale & Retail,2761,103,6210.12,3.73
+2019Q1,Dammam,Construction,5182,247,4477.59,4.77
+2019Q1,Dammam,Finance & Insurance,1635,74,4834.15,4.53
+2019Q1,Dammam,Healthcare,3598,196,4987.83,5.45
+2019Q1,Dammam,Hospitality & Tourism,3970,271,4710.87,6.83
+2019Q1,Dammam,Information Technology,2305,192,6194.16,8.33
+2019Q1,Dammam,Manufacturing,3544,157,4255.53,4.43
+2019Q1,Dammam,Transport & Logistics,4714,205,6189.08,4.35
+2019Q1,Dammam,Wholesale & Retail,5781,246,5021.0,4.26
+2019Q1,Jeddah,Construction,5030,226,5807.81,4.49
+2019Q1,Jeddah,Finance & Insurance,1731,98,5216.34,5.66
+2019Q1,Jeddah,Healthcare,3619,226,4645.08,6.24
+2019Q1,Jeddah,Hospitality & Tourism,3570,270,4765.51,7.56
+2019Q1,Jeddah,Information Technology,2237,176,5525.58,7.87
+2019Q1,Jeddah,Manufacturing,3449,143,5057.59,4.15
+2019Q1,Jeddah,Transport & Logistics,4175,156,7098.78,3.74
+2019Q1,Jeddah,Wholesale & Retail,5734,240,5653.34,4.19
+2019Q1,Khobar,Construction,5394,249,5294.21,4.62
+2019Q1,Khobar,Finance & Insurance,1691,61,5692.52,3.61
+2019Q1,Khobar,Healthcare,3628,205,5571.05,5.65
+2019Q1,Khobar,Hospitality & Tourism,3958,255,5405.45,6.44
+2019Q1,Khobar,Information Technology,2447,218,5183.14,8.91
+2019Q1,Khobar,Manufacturing,3488,148,4993.6,4.24
+2019Q1,Khobar,Transport & Logistics,4442,211,6217.54,4.75
+2019Q1,Khobar,Wholesale & Retail,5576,246,5925.64,4.41
+2019Q1,Madinah,Construction,2852,109,4924.17,3.82
+2019Q1,Madinah,Finance & Insurance,817,26,6444.14,3.18
+2019Q1,Madinah,Healthcare,2005,119,4763.05,5.94
+2019Q1,Madinah,Hospitality & Tourism,2252,136,5012.69,6.04
+2019Q1,Madinah,Information Technology,1013,81,6806.9,8.0
+2019Q1,Madinah,Manufacturing,1865,74,4561.93,3.97
+2019Q1,Madinah,Transport & Logistics,2095,96,5819.34,4.58
+2019Q1,Madinah,Wholesale & Retail,3439,165,4317.51,4.8
+2019Q1,Makkah,Construction,2962,117,5239.37,3.95
+2019Q1,Makkah,Finance & Insurance,1300,84,4902.16,6.46
+2019Q1,Makkah,Healthcare,1923,141,5773.36,7.33
+2019Q1,Makkah,Hospitality & Tourism,2592,172,5508.69,6.64
+2019Q1,Makkah,Information Technology,1368,127,5727.43,9.28
+2019Q1,Makkah,Manufacturing,1823,80,4712.05,4.39
+2019Q1,Makkah,Transport & Logistics,1915,99,5267.18,5.17
+2019Q1,Makkah,Wholesale & Retail,3217,131,5243.44,4.07
+2019Q1,Riyadh,Construction,7082,326,5360.07,4.6
+2019Q1,Riyadh,Finance & Insurance,2210,112,5168.36,5.07
+2019Q1,Riyadh,Healthcare,4753,251,4449.96,5.28
+2019Q1,Riyadh,Hospitality & Tourism,4707,336,5067.81,7.14
+2019Q1,Riyadh,Information Technology,2979,269,6002.8,9.03
+2019Q1,Riyadh,Manufacturing,4801,204,5355.3,4.25
+2019Q1,Riyadh,Transport & Logistics,5840,258,5378.24,4.42
+2019Q1,Riyadh,Wholesale & Retail,7456,360,4849.71,4.83
+2019Q1,Tabuk,Construction,2737,92,4618.82,3.36
+2019Q1,Tabuk,Finance & Insurance,847,44,5824.08,5.19
+2019Q1,Tabuk,Healthcare,1582,97,6364.25,6.13
+2019Q1,Tabuk,Hospitality & Tourism,1884,153,5548.69,8.12
+2019Q1,Tabuk,Information Technology,1041,81,5070.67,7.78
+2019Q1,Tabuk,Manufacturing,1967,61,4958.52,3.1
+2019Q1,Tabuk,Transport & Logistics,2395,122,5269.38,5.09
+2019Q1,Tabuk,Wholesale & Retail,2736,106,5045.41,3.87
+2019Q1,Taif,Construction,2570,132,4794.98,5.14
+2019Q1,Taif,Finance & Insurance,665,57,6014.86,8.57
+2019Q1,Taif,Healthcare,1586,103,5389.45,6.49
+2019Q1,Taif,Hospitality & Tourism,2088,159,5491.04,7.61
+2019Q1,Taif,Information Technology,1120,89,4345.15,7.95
+2019Q1,Taif,Manufacturing,1952,86,4573.4,4.41
+2019Q1,Taif,Transport & Logistics,2466,104,5085.43,4.22
+2019Q1,Taif,Wholesale & Retail,3047,147,5112.64,4.82
+2019Q2,Abha,Construction,2985,140,5468.57,4.69
+2019Q2,Abha,Finance & Insurance,900,48,6521.0,5.33
+2019Q2,Abha,Healthcare,1798,95,5513.32,5.28
+2019Q2,Abha,Hospitality & Tourism,2024,144,6564.25,7.11
+2019Q2,Abha,Information Technology,1339,126,4653.06,9.41
+2019Q2,Abha,Manufacturing,2063,106,4122.15,5.14
+2019Q2,Abha,Transport & Logistics,2298,106,5457.56,4.61
+2019Q2,Abha,Wholesale & Retail,3215,141,5870.08,4.39
+2019Q2,Al Ahsa,Construction,2626,103,4940.74,3.92
+2019Q2,Al Ahsa,Finance & Insurance,1101,51,6071.22,4.63
+2019Q2,Al Ahsa,Healthcare,1610,93,6173.43,5.78
+2019Q2,Al Ahsa,Hospitality & Tourism,2001,131,5094.59,6.55
+2019Q2,Al Ahsa,Information Technology,1219,95,5027.86,7.79
+2019Q2,Al Ahsa,Manufacturing,1800,99,4027.43,5.5
+2019Q2,Al Ahsa,Transport & Logistics,2317,116,4211.84,5.01
+2019Q2,Al Ahsa,Wholesale & Retail,2950,116,4087.01,3.93
+2019Q2,Dammam,Construction,5444,239,5102.33,4.39
+2019Q2,Dammam,Finance & Insurance,1409,75,5637.12,5.32
+2019Q2,Dammam,Healthcare,3115,189,5874.25,6.07
+2019Q2,Dammam,Hospitality & Tourism,3756,249,6638.47,6.63
+2019Q2,Dammam,Information Technology,2402,223,3831.46,9.28
+2019Q2,Dammam,Manufacturing,3619,164,4380.15,4.53
+2019Q2,Dammam,Transport & Logistics,4304,181,5188.7,4.21
+2019Q2,Dammam,Wholesale & Retail,5896,290,5610.14,4.92
+2019Q2,Jeddah,Construction,5422,246,4609.43,4.54
+2019Q2,Jeddah,Finance & Insurance,1604,75,5799.55,4.68
+2019Q2,Jeddah,Healthcare,3322,208,5161.5,6.26
+2019Q2,Jeddah,Hospitality & Tourism,4221,277,4578.3,6.56
+2019Q2,Jeddah,Information Technology,2148,203,5631.02,9.45
+2019Q2,Jeddah,Manufacturing,3532,144,4969.23,4.08
+2019Q2,Jeddah,Transport & Logistics,4091,160,5711.87,3.91
+2019Q2,Jeddah,Wholesale & Retail,5588,219,4370.1,3.92
+2019Q2,Khobar,Construction,5100,247,4624.71,4.84
+2019Q2,Khobar,Finance & Insurance,1702,79,4952.63,4.64
+2019Q2,Khobar,Healthcare,3347,214,5248.95,6.39
+2019Q2,Khobar,Hospitality & Tourism,3608,274,5958.5,7.59
+2019Q2,Khobar,Information Technology,2302,186,6063.42,8.08
+2019Q2,Khobar,Manufacturing,3292,136,4558.95,4.13
+2019Q2,Khobar,Transport & Logistics,4336,206,4900.41,4.75
+2019Q2,Khobar,Wholesale & Retail,5541,236,5871.52,4.26
+2019Q2,Madinah,Construction,2429,101,4365.45,4.16
+2019Q2,Madinah,Finance & Insurance,756,22,6087.71,2.91
+2019Q2,Madinah,Healthcare,2009,140,5156.66,6.97
+2019Q2,Madinah,Hospitality & Tourism,2032,147,6152.24,7.23
+2019Q2,Madinah,Information Technology,1063,106,5544.5,9.97
+2019Q2,Madinah,Manufacturing,2171,88,4248.64,4.05
+2019Q2,Madinah,Transport & Logistics,2417,124,4898.38,5.13
+2019Q2,Madinah,Wholesale & Retail,2857,150,5469.32,5.25
+2019Q2,Makkah,Construction,2790,140,4868.32,5.02
+2019Q2,Makkah,Finance & Insurance,1039,21,7221.24,2.02
+2019Q2,Makkah,Healthcare,1867,114,5434.85,6.11
+2019Q2,Makkah,Hospitality & Tourism,2151,144,3871.06,6.69
+2019Q2,Makkah,Information Technology,972,79,4982.1,8.13
+2019Q2,Makkah,Manufacturing,1860,76,4831.25,4.09
+2019Q2,Makkah,Transport & Logistics,2037,100,5345.9,4.91
+2019Q2,Makkah,Wholesale & Retail,3304,137,5402.15,4.15
+2019Q2,Riyadh,Construction,6580,303,4185.3,4.6
+2019Q2,Riyadh,Finance & Insurance,2232,123,5253.05,5.51
+2019Q2,Riyadh,Healthcare,4384,259,4685.54,5.91
+2019Q2,Riyadh,Hospitality & Tourism,5143,390,6263.16,7.58
+2019Q2,Riyadh,Information Technology,2865,213,5791.11,7.43
+2019Q2,Riyadh,Manufacturing,4433,194,5310.9,4.38
+2019Q2,Riyadh,Transport & Logistics,5244,235,6317.82,4.48
+2019Q2,Riyadh,Wholesale & Retail,7941,356,4406.16,4.48
+2019Q2,Tabuk,Construction,2827,122,5179.82,4.32
+2019Q2,Tabuk,Finance & Insurance,701,38,5352.47,5.42
+2019Q2,Tabuk,Healthcare,1771,91,5465.82,5.14
+2019Q2,Tabuk,Hospitality & Tourism,2331,195,4312.11,8.37
+2019Q2,Tabuk,Information Technology,1288,101,3855.31,7.84
+2019Q2,Tabuk,Manufacturing,1862,104,4863.34,5.59
+2019Q2,Tabuk,Transport & Logistics,1705,95,5941.02,5.57
+2019Q2,Tabuk,Wholesale & Retail,2964,145,5427.63,4.89
+2019Q2,Taif,Construction,2583,124,5195.76,4.8
+2019Q2,Taif,Finance & Insurance,877,53,5672.19,6.04
+2019Q2,Taif,Healthcare,1694,103,6337.43,6.08
+2019Q2,Taif,Hospitality & Tourism,2073,139,6261.35,6.71
+2019Q2,Taif,Information Technology,1423,126,5114.87,8.85
+2019Q2,Taif,Manufacturing,1717,80,5234.94,4.66
+2019Q2,Taif,Transport & Logistics,2166,98,5011.28,4.52
+2019Q2,Taif,Wholesale & Retail,3246,118,6337.07,3.64
+2019Q3,Abha,Construction,2441,111,4607.96,4.55
+2019Q3,Abha,Finance & Insurance,789,43,5610.73,5.45
+2019Q3,Abha,Healthcare,1728,115,4882.83,6.66
+2019Q3,Abha,Hospitality & Tourism,1910,128,4798.4,6.7
+2019Q3,Abha,Information Technology,1495,115,4771.16,7.69
+2019Q3,Abha,Manufacturing,1823,96,5158.34,5.27
+2019Q3,Abha,Transport & Logistics,2460,102,6988.4,4.15
+2019Q3,Abha,Wholesale & Retail,3016,150,5333.49,4.97
+2019Q3,Al Ahsa,Construction,2776,140,4980.54,5.04
+2019Q3,Al Ahsa,Finance & Insurance,1062,73,6051.13,6.87
+2019Q3,Al Ahsa,Healthcare,2057,96,5968.48,4.67
+2019Q3,Al Ahsa,Hospitality & Tourism,2189,124,4963.55,5.66
+2019Q3,Al Ahsa,Information Technology,800,51,5449.62,6.38
+2019Q3,Al Ahsa,Manufacturing,1671,70,4540.26,4.19
+2019Q3,Al Ahsa,Transport & Logistics,2838,144,6056.69,5.07
+2019Q3,Al Ahsa,Wholesale & Retail,3444,164,5941.02,4.76
+2019Q3,Dammam,Construction,5501,238,5570.19,4.33
+2019Q3,Dammam,Finance & Insurance,1578,88,4868.39,5.58
+2019Q3,Dammam,Healthcare,3716,213,5475.12,5.73
+2019Q3,Dammam,Hospitality & Tourism,4065,292,6202.12,7.18
+2019Q3,Dammam,Information Technology,2012,141,5625.84,7.01
+2019Q3,Dammam,Manufacturing,3591,167,5607.93,4.65
+2019Q3,Dammam,Transport & Logistics,4288,205,6385.86,4.78
+2019Q3,Dammam,Wholesale & Retail,6314,297,6741.34,4.7
+2019Q3,Jeddah,Construction,5312,227,4860.04,4.27
+2019Q3,Jeddah,Finance & Insurance,1785,91,5660.28,5.1
+2019Q3,Jeddah,Healthcare,3739,224,6294.39,5.99
+2019Q3,Jeddah,Hospitality & Tourism,3857,267,5999.82,6.92
+2019Q3,Jeddah,Information Technology,2269,212,5285.65,9.34
+2019Q3,Jeddah,Manufacturing,3415,154,4789.28,4.51
+2019Q3,Jeddah,Transport & Logistics,4298,182,5688.61,4.23
+2019Q3,Jeddah,Wholesale & Retail,5750,296,6017.59,5.15
+2019Q3,Khobar,Construction,5396,230,5352.8,4.26
+2019Q3,Khobar,Finance & Insurance,1850,75,5170.53,4.05
+2019Q3,Khobar,Healthcare,3282,185,6591.94,5.64
+2019Q3,Khobar,Hospitality & Tourism,3383,228,5735.44,6.74
+2019Q3,Khobar,Information Technology,2494,220,4568.23,8.82
+2019Q3,Khobar,Manufacturing,3437,164,4276.05,4.77
+2019Q3,Khobar,Transport & Logistics,4522,181,5017.36,4.0
+2019Q3,Khobar,Wholesale & Retail,5821,272,5433.87,4.67
+2019Q3,Madinah,Construction,2997,122,3873.02,4.07
+2019Q3,Madinah,Finance & Insurance,767,47,6167.48,6.13
+2019Q3,Madinah,Healthcare,1808,116,6530.06,6.42
+2019Q3,Madinah,Hospitality & Tourism,2001,124,5923.74,6.2
+2019Q3,Madinah,Information Technology,1360,112,5737.46,8.24
+2019Q3,Madinah,Manufacturing,1904,72,5126.28,3.78
+2019Q3,Madinah,Transport & Logistics,2511,102,5335.61,4.06
+2019Q3,Madinah,Wholesale & Retail,2904,140,4351.37,4.82
+2019Q3,Makkah,Construction,2906,116,4582.28,3.99
+2019Q3,Makkah,Finance & Insurance,1066,54,5063.28,5.07
+2019Q3,Makkah,Healthcare,1659,86,6445.49,5.18
+2019Q3,Makkah,Hospitality & Tourism,2084,150,6138.35,7.2
+2019Q3,Makkah,Information Technology,1087,103,5214.32,9.48
+2019Q3,Makkah,Manufacturing,1861,90,5426.28,4.84
+2019Q3,Makkah,Transport & Logistics,2492,118,4985.72,4.74
+2019Q3,Makkah,Wholesale & Retail,3032,140,4644.61,4.62
+2019Q3,Riyadh,Construction,6848,290,6342.84,4.23
+2019Q3,Riyadh,Finance & Insurance,2439,133,4924.56,5.45
+2019Q3,Riyadh,Healthcare,4803,285,5899.5,5.93
+2019Q3,Riyadh,Hospitality & Tourism,5178,372,6233.79,7.18
+2019Q3,Riyadh,Information Technology,2886,252,5681.28,8.73
+2019Q3,Riyadh,Manufacturing,4870,220,3555.9,4.52
+2019Q3,Riyadh,Transport & Logistics,5892,260,4215.31,4.41
+2019Q3,Riyadh,Wholesale & Retail,7897,353,5473.99,4.47
+2019Q3,Tabuk,Construction,2867,117,4155.96,4.08
+2019Q3,Tabuk,Finance & Insurance,965,42,5425.74,4.35
+2019Q3,Tabuk,Healthcare,1734,100,5071.75,5.77
+2019Q3,Tabuk,Hospitality & Tourism,1987,143,5288.04,7.2
+2019Q3,Tabuk,Information Technology,1013,82,5064.98,8.09
+2019Q3,Tabuk,Manufacturing,1723,69,4933.86,4.0
+2019Q3,Tabuk,Transport & Logistics,2207,99,6515.46,4.49
+2019Q3,Tabuk,Wholesale & Retail,3206,127,5265.4,3.96
+2019Q3,Taif,Construction,3205,170,4475.7,5.3
+2019Q3,Taif,Finance & Insurance,869,44,6023.71,5.06
+2019Q3,Taif,Healthcare,2265,142,6040.04,6.27
+2019Q3,Taif,Hospitality & Tourism,1930,147,5333.11,7.62
+2019Q3,Taif,Information Technology,1219,89,4605.02,7.3
+2019Q3,Taif,Manufacturing,1931,75,4597.42,3.88
+2019Q3,Taif,Transport & Logistics,2178,95,5032.65,4.36
+2019Q3,Taif,Wholesale & Retail,2999,158,5896.89,5.27
+2019Q4,Abha,Construction,2608,112,4547.62,4.29
+2019Q4,Abha,Finance & Insurance,663,44,6001.91,6.64
+2019Q4,Abha,Healthcare,1798,105,4442.51,5.84
+2019Q4,Abha,Hospitality & Tourism,2163,142,5077.71,6.56
+2019Q4,Abha,Information Technology,1633,127,5255.14,7.78
+2019Q4,Abha,Manufacturing,1667,84,4841.16,5.04
+2019Q4,Abha,Transport & Logistics,2498,93,5942.45,3.72
+2019Q4,Abha,Wholesale & Retail,3119,142,6204.09,4.55
+2019Q4,Al Ahsa,Construction,2209,99,4147.43,4.48
+2019Q4,Al Ahsa,Finance & Insurance,929,41,5621.75,4.41
+2019Q4,Al Ahsa,Healthcare,1620,95,4165.18,5.86
+2019Q4,Al Ahsa,Hospitality & Tourism,1798,134,6094.62,7.45
+2019Q4,Al Ahsa,Information Technology,1347,96,5615.0,7.13
+2019Q4,Al Ahsa,Manufacturing,1757,55,5978.06,3.13
+2019Q4,Al Ahsa,Transport & Logistics,2563,115,4888.76,4.49
+2019Q4,Al Ahsa,Wholesale & Retail,3245,146,5157.82,4.5
+2019Q4,Dammam,Construction,5440,256,4759.43,4.71
+2019Q4,Dammam,Finance & Insurance,1892,91,4995.34,4.81
+2019Q4,Dammam,Healthcare,3186,172,5650.52,5.4
+2019Q4,Dammam,Hospitality & Tourism,3743,252,6140.86,6.73
+2019Q4,Dammam,Information Technology,2077,160,5070.23,7.7
+2019Q4,Dammam,Manufacturing,3669,169,5314.04,4.61
+2019Q4,Dammam,Transport & Logistics,4303,196,4764.51,4.55
+2019Q4,Dammam,Wholesale & Retail,5609,258,6169.04,4.6
+2019Q4,Jeddah,Construction,5332,255,5947.73,4.78
+2019Q4,Jeddah,Finance & Insurance,1761,65,5295.35,3.69
+2019Q4,Jeddah,Healthcare,3213,217,4331.96,6.75
+2019Q4,Jeddah,Hospitality & Tourism,3908,283,5707.18,7.24
+2019Q4,Jeddah,Information Technology,2302,189,5865.95,8.21
+2019Q4,Jeddah,Manufacturing,3781,191,4964.93,5.05
+2019Q4,Jeddah,Transport & Logistics,4323,192,4688.25,4.44
+2019Q4,Jeddah,Wholesale & Retail,5756,276,5517.01,4.79
+2019Q4,Khobar,Construction,5388,224,4822.61,4.16
+2019Q4,Khobar,Finance & Insurance,1405,53,4339.94,3.77
+2019Q4,Khobar,Healthcare,3373,212,5310.87,6.29
+2019Q4,Khobar,Hospitality & Tourism,3935,269,6367.01,6.84
+2019Q4,Khobar,Information Technology,2189,181,5351.92,8.27
+2019Q4,Khobar,Manufacturing,3707,153,5086.21,4.13
+2019Q4,Khobar,Transport & Logistics,4316,200,5208.35,4.63
+2019Q4,Khobar,Wholesale & Retail,6086,303,5051.01,4.98
+2019Q4,Madinah,Construction,2768,109,4746.21,3.94
+2019Q4,Madinah,Finance & Insurance,1073,46,5398.97,4.29
+2019Q4,Madinah,Healthcare,1746,108,4613.26,6.19
+2019Q4,Madinah,Hospitality & Tourism,1984,142,5663.15,7.16
+2019Q4,Madinah,Information Technology,1071,80,5948.67,7.47
+2019Q4,Madinah,Manufacturing,1847,114,5540.92,6.17
+2019Q4,Madinah,Transport & Logistics,2300,101,6535.83,4.39
+2019Q4,Madinah,Wholesale & Retail,3650,152,5188.12,4.16
+2019Q4,Makkah,Construction,2734,127,6217.6,4.65
+2019Q4,Makkah,Finance & Insurance,849,30,5907.08,3.53
+2019Q4,Makkah,Healthcare,1694,91,6084.85,5.37
+2019Q4,Makkah,Hospitality & Tourism,2240,170,4478.26,7.59
+2019Q4,Makkah,Information Technology,1050,99,5111.08,9.43
+2019Q4,Makkah,Manufacturing,2056,131,4713.94,6.37
+2019Q4,Makkah,Transport & Logistics,2074,116,5433.4,5.59
+2019Q4,Makkah,Wholesale & Retail,2822,145,5819.47,5.14
+2019Q4,Riyadh,Construction,6653,282,5063.1,4.24
+2019Q4,Riyadh,Finance & Insurance,2079,87,4956.58,4.18
+2019Q4,Riyadh,Healthcare,4458,264,4643.59,5.92
+2019Q4,Riyadh,Hospitality & Tourism,4984,329,5351.76,6.6
+2019Q4,Riyadh,Information Technology,3101,255,5950.19,8.22
+2019Q4,Riyadh,Manufacturing,4455,174,5411.71,3.91
+2019Q4,Riyadh,Transport & Logistics,5844,269,5728.96,4.6
+2019Q4,Riyadh,Wholesale & Retail,8041,377,4017.82,4.69
+2019Q4,Tabuk,Construction,2815,107,4221.36,3.8
+2019Q4,Tabuk,Finance & Insurance,902,64,4769.04,7.1
+2019Q4,Tabuk,Healthcare,1684,95,5761.14,5.64
+2019Q4,Tabuk,Hospitality & Tourism,1974,157,4997.31,7.95
+2019Q4,Tabuk,Information Technology,959,73,5299.12,7.61
+2019Q4,Tabuk,Manufacturing,1904,117,5488.02,6.14
+2019Q4,Tabuk,Transport & Logistics,2230,118,5845.07,5.29
+2019Q4,Tabuk,Wholesale & Retail,3178,147,5239.42,4.63
+2019Q4,Taif,Construction,2580,95,5035.15,3.68
+2019Q4,Taif,Finance & Insurance,934,40,5245.69,4.28
+2019Q4,Taif,Healthcare,1685,123,5599.7,7.3
+2019Q4,Taif,Hospitality & Tourism,2070,161,5061.09,7.78
+2019Q4,Taif,Information Technology,791,56,4904.97,7.08
+2019Q4,Taif,Manufacturing,1718,78,4819.55,4.54
+2019Q4,Taif,Transport & Logistics,2380,117,5514.0,4.92
+2019Q4,Taif,Wholesale & Retail,3331,171,6679.46,5.13
+2020Q1,Abha,Construction,2868,104,5494.34,3.63
+2020Q1,Abha,Finance & Insurance,934,52,5769.23,5.57
+2020Q1,Abha,Healthcare,1887,114,4900.32,6.04
+2020Q1,Abha,Hospitality & Tourism,2207,137,5071.52,6.21
+2020Q1,Abha,Information Technology,1180,90,5957.09,7.63
+2020Q1,Abha,Manufacturing,1862,75,4550.4,4.03
+2020Q1,Abha,Transport & Logistics,2366,110,5117.66,4.65
+2020Q1,Abha,Wholesale & Retail,3343,150,5382.87,4.49
+2020Q1,Al Ahsa,Construction,2761,138,5214.72,5.0
+2020Q1,Al Ahsa,Finance & Insurance,1158,53,5959.98,4.58
+2020Q1,Al Ahsa,Healthcare,1684,86,5737.8,5.11
+2020Q1,Al Ahsa,Hospitality & Tourism,1952,125,6052.51,6.4
+2020Q1,Al Ahsa,Information Technology,1311,113,6453.4,8.62
+2020Q1,Al Ahsa,Manufacturing,1836,90,4907.68,4.9
+2020Q1,Al Ahsa,Transport & Logistics,2550,118,5812.52,4.63
+2020Q1,Al Ahsa,Wholesale & Retail,3035,147,5777.04,4.84
+2020Q1,Dammam,Construction,5530,242,4356.09,4.38
+2020Q1,Dammam,Finance & Insurance,1621,74,5228.58,4.57
+2020Q1,Dammam,Healthcare,3421,184,6158.1,5.38
+2020Q1,Dammam,Hospitality & Tourism,4536,324,4934.75,7.14
+2020Q1,Dammam,Information Technology,2314,179,5046.1,7.74
+2020Q1,Dammam,Manufacturing,3819,171,5629.41,4.48
+2020Q1,Dammam,Transport & Logistics,4562,207,4696.7,4.54
+2020Q1,Dammam,Wholesale & Retail,6050,233,5341.55,3.85
+2020Q1,Jeddah,Construction,5186,217,5403.27,4.18
+2020Q1,Jeddah,Finance & Insurance,1626,112,5022.7,6.89
+2020Q1,Jeddah,Healthcare,3469,207,5441.92,5.97
+2020Q1,Jeddah,Hospitality & Tourism,3896,278,5063.63,7.14
+2020Q1,Jeddah,Information Technology,2123,169,5731.23,7.96
+2020Q1,Jeddah,Manufacturing,3202,163,5739.14,5.09
+2020Q1,Jeddah,Transport & Logistics,4294,171,5264.82,3.98
+2020Q1,Jeddah,Wholesale & Retail,6110,262,4829.99,4.29
+2020Q1,Khobar,Construction,5488,247,4662.85,4.5
+2020Q1,Khobar,Finance & Insurance,1588,80,4940.34,5.04
+2020Q1,Khobar,Healthcare,3570,205,5994.52,5.74
+2020Q1,Khobar,Hospitality & Tourism,3805,280,4074.01,7.36
+2020Q1,Khobar,Information Technology,2409,191,5479.27,7.93
+2020Q1,Khobar,Manufacturing,3718,145,5488.73,3.9
+2020Q1,Khobar,Transport & Logistics,4481,208,5691.5,4.64
+2020Q1,Khobar,Wholesale & Retail,5760,261,5228.89,4.53
+2020Q1,Madinah,Construction,2719,166,5111.91,6.11
+2020Q1,Madinah,Finance & Insurance,916,43,5093.93,4.69
+2020Q1,Madinah,Healthcare,1858,94,5823.27,5.06
+2020Q1,Madinah,Hospitality & Tourism,2029,158,4896.47,7.79
+2020Q1,Madinah,Information Technology,1394,122,5685.35,8.75
+2020Q1,Madinah,Manufacturing,1893,74,4804.07,3.91
+2020Q1,Madinah,Transport & Logistics,2536,102,5281.72,4.02
+2020Q1,Madinah,Wholesale & Retail,3136,145,6000.11,4.62
+2020Q1,Makkah,Construction,2747,136,4723.66,4.95
+2020Q1,Makkah,Finance & Insurance,1042,52,5978.0,4.99
+2020Q1,Makkah,Healthcare,2275,168,5412.65,7.38
+2020Q1,Makkah,Hospitality & Tourism,2284,172,5095.79,7.53
+2020Q1,Makkah,Information Technology,1151,83,5701.82,7.21
+2020Q1,Makkah,Manufacturing,1785,80,5264.5,4.48
+2020Q1,Makkah,Transport & Logistics,2297,91,6138.0,3.96
+2020Q1,Makkah,Wholesale & Retail,3294,156,4801.26,4.74
+2020Q1,Riyadh,Construction,7096,342,3997.19,4.82
+2020Q1,Riyadh,Finance & Insurance,2283,82,4860.88,3.59
+2020Q1,Riyadh,Healthcare,4657,271,4748.74,5.82
+2020Q1,Riyadh,Hospitality & Tourism,5418,396,5223.27,7.31
+2020Q1,Riyadh,Information Technology,3038,278,5398.64,9.15
+2020Q1,Riyadh,Manufacturing,4549,199,4054.18,4.37
+2020Q1,Riyadh,Transport & Logistics,5770,226,4408.4,3.92
+2020Q1,Riyadh,Wholesale & Retail,7866,355,5814.43,4.51
+2020Q1,Tabuk,Construction,2966,119,4902.88,4.01
+2020Q1,Tabuk,Finance & Insurance,882,72,6986.41,8.16
+2020Q1,Tabuk,Healthcare,2069,124,5565.39,5.99
+2020Q1,Tabuk,Hospitality & Tourism,1914,123,4793.43,6.43
+2020Q1,Tabuk,Information Technology,1639,139,5670.53,8.48
+2020Q1,Tabuk,Manufacturing,2156,117,4897.01,5.43
+2020Q1,Tabuk,Transport & Logistics,2085,91,5191.81,4.36
+2020Q1,Tabuk,Wholesale & Retail,3300,135,6555.59,4.09
+2020Q1,Taif,Construction,3100,146,5411.84,4.71
+2020Q1,Taif,Finance & Insurance,732,23,5286.31,3.14
+2020Q1,Taif,Healthcare,1724,113,5488.82,6.55
+2020Q1,Taif,Hospitality & Tourism,1834,118,5864.43,6.43
+2020Q1,Taif,Information Technology,1252,119,6987.56,9.5
+2020Q1,Taif,Manufacturing,1940,71,4883.19,3.66
+2020Q1,Taif,Transport & Logistics,2541,114,5280.22,4.49
+2020Q1,Taif,Wholesale & Retail,3279,130,6326.97,3.96
+2020Q2,Abha,Construction,2526,111,5026.79,4.39
+2020Q2,Abha,Finance & Insurance,552,19,5578.01,3.44
+2020Q2,Abha,Healthcare,1568,79,5180.48,5.04
+2020Q2,Abha,Hospitality & Tourism,2063,170,5693.15,8.24
+2020Q2,Abha,Information Technology,927,98,6617.74,10.57
+2020Q2,Abha,Manufacturing,1802,101,4949.18,5.6
+2020Q2,Abha,Transport & Logistics,2185,96,4120.12,4.39
+2020Q2,Abha,Wholesale & Retail,3331,163,5349.69,4.89
+2020Q2,Al Ahsa,Construction,2594,109,3779.08,4.2
+2020Q2,Al Ahsa,Finance & Insurance,810,39,5020.04,4.81
+2020Q2,Al Ahsa,Healthcare,1725,116,4863.28,6.72
+2020Q2,Al Ahsa,Hospitality & Tourism,2114,163,4736.91,7.71
+2020Q2,Al Ahsa,Information Technology,1312,135,5400.14,10.29
+2020Q2,Al Ahsa,Manufacturing,1798,58,5001.9,3.23
+2020Q2,Al Ahsa,Transport & Logistics,2411,128,5461.19,5.31
+2020Q2,Al Ahsa,Wholesale & Retail,2862,124,5573.85,4.33
+2020Q2,Dammam,Construction,5543,270,4648.55,4.87
+2020Q2,Dammam,Finance & Insurance,1868,67,4620.82,3.59
+2020Q2,Dammam,Healthcare,3625,186,5301.02,5.13
+2020Q2,Dammam,Hospitality & Tourism,4154,286,5927.44,6.88
+2020Q2,Dammam,Information Technology,2325,205,5090.65,8.82
+2020Q2,Dammam,Manufacturing,3743,183,3693.68,4.89
+2020Q2,Dammam,Transport & Logistics,4537,232,5755.19,5.11
+2020Q2,Dammam,Wholesale & Retail,5996,256,5787.55,4.27
+2020Q2,Jeddah,Construction,5178,247,4887.78,4.77
+2020Q2,Jeddah,Finance & Insurance,1896,97,4572.21,5.12
+2020Q2,Jeddah,Healthcare,3369,174,5469.47,5.16
+2020Q2,Jeddah,Hospitality & Tourism,4063,285,4875.9,7.01
+2020Q2,Jeddah,Information Technology,2355,230,5775.21,9.77
+2020Q2,Jeddah,Manufacturing,3570,166,4987.76,4.65
+2020Q2,Jeddah,Transport & Logistics,4408,210,4952.36,4.76
+2020Q2,Jeddah,Wholesale & Retail,5961,260,5417.87,4.36
+2020Q2,Khobar,Construction,5772,244,4548.81,4.23
+2020Q2,Khobar,Finance & Insurance,1774,84,5530.68,4.74
+2020Q2,Khobar,Healthcare,3638,233,4722.81,6.4
+2020Q2,Khobar,Hospitality & Tourism,4064,277,6620.88,6.82
+2020Q2,Khobar,Information Technology,2265,197,4378.33,8.7
+2020Q2,Khobar,Manufacturing,3313,148,4506.59,4.47
+2020Q2,Khobar,Transport & Logistics,4415,181,6489.17,4.1
+2020Q2,Khobar,Wholesale & Retail,6146,280,6221.47,4.56
+2020Q2,Madinah,Construction,2850,117,7027.3,4.11
+2020Q2,Madinah,Finance & Insurance,808,49,4975.94,6.06
+2020Q2,Madinah,Healthcare,1805,104,5120.17,5.76
+2020Q2,Madinah,Hospitality & Tourism,1943,120,5713.55,6.18
+2020Q2,Madinah,Information Technology,1382,121,5206.77,8.76
+2020Q2,Madinah,Manufacturing,2136,94,3729.76,4.4
+2020Q2,Madinah,Transport & Logistics,2270,77,4352.1,3.39
+2020Q2,Madinah,Wholesale & Retail,3125,151,5977.44,4.83
+2020Q2,Makkah,Construction,2917,97,5867.46,3.33
+2020Q2,Makkah,Finance & Insurance,953,47,5455.82,4.93
+2020Q2,Makkah,Healthcare,2278,128,6361.77,5.62
+2020Q2,Makkah,Hospitality & Tourism,1999,116,4942.86,5.8
+2020Q2,Makkah,Information Technology,1450,115,6067.11,7.93
+2020Q2,Makkah,Manufacturing,1725,74,5145.89,4.29
+2020Q2,Makkah,Transport & Logistics,2428,91,5815.66,3.75
+2020Q2,Makkah,Wholesale & Retail,2927,144,5034.02,4.92
+2020Q2,Riyadh,Construction,7148,304,5173.84,4.25
+2020Q2,Riyadh,Finance & Insurance,2424,99,5380.52,4.08
+2020Q2,Riyadh,Healthcare,4564,270,5744.17,5.92
+2020Q2,Riyadh,Hospitality & Tourism,5072,359,5834.36,7.08
+2020Q2,Riyadh,Information Technology,3248,289,5513.57,8.9
+2020Q2,Riyadh,Manufacturing,4566,197,4961.19,4.31
+2020Q2,Riyadh,Transport & Logistics,5515,259,4900.49,4.7
+2020Q2,Riyadh,Wholesale & Retail,7903,315,5344.39,3.99
+2020Q2,Tabuk,Construction,2563,89,5018.37,3.47
+2020Q2,Tabuk,Finance & Insurance,788,41,6586.36,5.2
+2020Q2,Tabuk,Healthcare,1704,102,5062.04,5.99
+2020Q2,Tabuk,Hospitality & Tourism,2124,153,5021.53,7.2
+2020Q2,Tabuk,Information Technology,1154,77,5286.1,6.67
+2020Q2,Tabuk,Manufacturing,1960,110,5083.1,5.61
+2020Q2,Tabuk,Transport & Logistics,2527,103,5997.27,4.08
+2020Q2,Tabuk,Wholesale & Retail,3030,137,4742.0,4.52
+2020Q2,Taif,Construction,3054,145,4300.55,4.75
+2020Q2,Taif,Finance & Insurance,831,25,5068.77,3.01
+2020Q2,Taif,Healthcare,1636,121,4989.27,7.4
+2020Q2,Taif,Hospitality & Tourism,1862,128,5675.29,6.87
+2020Q2,Taif,Information Technology,914,74,5120.77,8.1
+2020Q2,Taif,Manufacturing,1808,85,4282.56,4.7
+2020Q2,Taif,Transport & Logistics,2081,105,4306.45,5.05
+2020Q2,Taif,Wholesale & Retail,3299,166,4986.25,5.03
+2020Q3,Abha,Construction,2690,132,4063.87,4.91
+2020Q3,Abha,Finance & Insurance,969,35,4291.45,3.61
+2020Q3,Abha,Healthcare,1899,138,4709.7,7.27
+2020Q3,Abha,Hospitality & Tourism,2292,147,4969.82,6.41
+2020Q3,Abha,Information Technology,1305,107,5099.88,8.2
+2020Q3,Abha,Manufacturing,1941,79,5133.63,4.07
+2020Q3,Abha,Transport & Logistics,2611,132,5664.25,5.06
+2020Q3,Abha,Wholesale & Retail,2892,151,5602.75,5.22
+2020Q3,Al Ahsa,Construction,2794,121,5279.08,4.33
+2020Q3,Al Ahsa,Finance & Insurance,762,49,4803.08,6.43
+2020Q3,Al Ahsa,Healthcare,1800,119,4756.65,6.61
+2020Q3,Al Ahsa,Hospitality & Tourism,2313,162,5041.6,7.0
+2020Q3,Al Ahsa,Information Technology,1187,87,5611.53,7.33
+2020Q3,Al Ahsa,Manufacturing,1819,82,5569.26,4.51
+2020Q3,Al Ahsa,Transport & Logistics,2251,89,4835.42,3.95
+2020Q3,Al Ahsa,Wholesale & Retail,3148,118,5780.2,3.75
+2020Q3,Dammam,Construction,5366,261,4621.89,4.86
+2020Q3,Dammam,Finance & Insurance,1841,72,6052.76,3.91
+2020Q3,Dammam,Healthcare,3361,204,4715.63,6.07
+2020Q3,Dammam,Hospitality & Tourism,4203,293,6490.07,6.97
+2020Q3,Dammam,Information Technology,2117,175,5039.79,8.27
+2020Q3,Dammam,Manufacturing,3937,159,5024.7,4.04
+2020Q3,Dammam,Transport & Logistics,4518,203,3483.62,4.49
+2020Q3,Dammam,Wholesale & Retail,6022,264,4619.68,4.38
+2020Q3,Jeddah,Construction,5608,241,4949.95,4.3
+2020Q3,Jeddah,Finance & Insurance,1858,115,6093.88,6.19
+2020Q3,Jeddah,Healthcare,3469,213,5825.65,6.14
+2020Q3,Jeddah,Hospitality & Tourism,3858,289,6113.27,7.49
+2020Q3,Jeddah,Information Technology,2316,173,6282.99,7.47
+2020Q3,Jeddah,Manufacturing,3603,149,5671.24,4.14
+2020Q3,Jeddah,Transport & Logistics,4719,208,5198.3,4.41
+2020Q3,Jeddah,Wholesale & Retail,6292,284,6174.85,4.51
+2020Q3,Khobar,Construction,5370,231,4638.43,4.3
+2020Q3,Khobar,Finance & Insurance,1805,61,6226.02,3.38
+2020Q3,Khobar,Healthcare,3797,223,5314.25,5.87
+2020Q3,Khobar,Hospitality & Tourism,4023,283,5516.26,7.03
+2020Q3,Khobar,Information Technology,2251,183,4350.9,8.13
+2020Q3,Khobar,Manufacturing,3439,149,4961.31,4.33
+2020Q3,Khobar,Transport & Logistics,4411,189,5598.39,4.28
+2020Q3,Khobar,Wholesale & Retail,5845,274,4822.48,4.69
+2020Q3,Madinah,Construction,3027,108,4553.77,3.57
+2020Q3,Madinah,Finance & Insurance,884,29,4749.51,3.28
+2020Q3,Madinah,Healthcare,1617,101,4570.48,6.25
+2020Q3,Madinah,Hospitality & Tourism,1909,131,6212.19,6.86
+2020Q3,Madinah,Information Technology,1415,109,4870.98,7.7
+2020Q3,Madinah,Manufacturing,2104,86,4897.17,4.09
+2020Q3,Madinah,Transport & Logistics,2252,95,5471.52,4.22
+2020Q3,Madinah,Wholesale & Retail,3051,131,5719.2,4.29
+2020Q3,Makkah,Construction,2943,121,4299.49,4.11
+2020Q3,Makkah,Finance & Insurance,820,55,5149.46,6.71
+2020Q3,Makkah,Healthcare,1685,106,6745.19,6.29
+2020Q3,Makkah,Hospitality & Tourism,1824,132,5047.08,7.24
+2020Q3,Makkah,Information Technology,1191,109,5742.24,9.15
+2020Q3,Makkah,Manufacturing,2039,70,5087.15,3.43
+2020Q3,Makkah,Transport & Logistics,2492,116,5595.51,4.65
+2020Q3,Makkah,Wholesale & Retail,3147,170,5968.37,5.4
+2020Q3,Riyadh,Construction,6966,312,4686.61,4.48
+2020Q3,Riyadh,Finance & Insurance,2345,97,5098.06,4.14
+2020Q3,Riyadh,Healthcare,4785,314,6291.13,6.56
+2020Q3,Riyadh,Hospitality & Tourism,5039,326,5118.54,6.47
+2020Q3,Riyadh,Information Technology,2920,248,4804.14,8.49
+2020Q3,Riyadh,Manufacturing,4539,233,5740.81,5.13
+2020Q3,Riyadh,Transport & Logistics,6007,287,5450.07,4.78
+2020Q3,Riyadh,Wholesale & Retail,8075,355,4766.65,4.4
+2020Q3,Tabuk,Construction,2820,119,4777.72,4.22
+2020Q3,Tabuk,Finance & Insurance,1242,81,5866.93,6.52
+2020Q3,Tabuk,Healthcare,1981,119,5235.38,6.01
+2020Q3,Tabuk,Hospitality & Tourism,2282,146,5243.83,6.4
+2020Q3,Tabuk,Information Technology,1042,91,5314.27,8.73
+2020Q3,Tabuk,Manufacturing,1952,91,4241.23,4.66
+2020Q3,Tabuk,Transport & Logistics,2459,84,4678.97,3.42
+2020Q3,Tabuk,Wholesale & Retail,3201,132,5064.23,4.12
+2020Q3,Taif,Construction,2934,91,4670.8,3.1
+2020Q3,Taif,Finance & Insurance,1051,62,5100.14,5.9
+2020Q3,Taif,Healthcare,2050,105,5200.24,5.12
+2020Q3,Taif,Hospitality & Tourism,2090,171,5225.34,8.18
+2020Q3,Taif,Information Technology,1525,126,5636.44,8.26
+2020Q3,Taif,Manufacturing,1861,73,4665.38,3.92
+2020Q3,Taif,Transport & Logistics,2376,79,5301.47,3.32
+2020Q3,Taif,Wholesale & Retail,3375,141,4729.11,4.18
+2020Q4,Abha,Construction,3194,114,5170.6,3.57
+2020Q4,Abha,Finance & Insurance,823,14,5815.28,1.7
+2020Q4,Abha,Healthcare,1788,99,5428.06,5.54
+2020Q4,Abha,Hospitality & Tourism,2264,168,5342.19,7.42
+2020Q4,Abha,Information Technology,1277,104,4470.39,8.14
+2020Q4,Abha,Manufacturing,1722,90,4831.55,5.23
+2020Q4,Abha,Transport & Logistics,2403,117,5820.05,4.87
+2020Q4,Abha,Wholesale & Retail,3344,192,5068.91,5.74
+2020Q4,Al Ahsa,Construction,2945,132,5077.63,4.48
+2020Q4,Al Ahsa,Finance & Insurance,824,43,5118.84,5.22
+2020Q4,Al Ahsa,Healthcare,1746,105,5380.82,6.01
+2020Q4,Al Ahsa,Hospitality & Tourism,2246,143,4559.82,6.37
+2020Q4,Al Ahsa,Information Technology,934,81,5894.27,8.67
+2020Q4,Al Ahsa,Manufacturing,1952,82,5798.4,4.2
+2020Q4,Al Ahsa,Transport & Logistics,2517,96,4319.0,3.81
+2020Q4,Al Ahsa,Wholesale & Retail,3123,135,5139.46,4.32
+2020Q4,Dammam,Construction,5409,246,5041.41,4.55
+2020Q4,Dammam,Finance & Insurance,1464,58,4683.16,3.96
+2020Q4,Dammam,Healthcare,3575,218,5513.68,6.1
+2020Q4,Dammam,Hospitality & Tourism,4117,298,5432.66,7.24
+2020Q4,Dammam,Information Technology,2071,180,6126.64,8.69
+2020Q4,Dammam,Manufacturing,3697,165,5333.92,4.46
+2020Q4,Dammam,Transport & Logistics,4423,175,5703.16,3.96
+2020Q4,Dammam,Wholesale & Retail,6191,274,5301.67,4.43
+2020Q4,Jeddah,Construction,5570,256,5855.46,4.6
+2020Q4,Jeddah,Finance & Insurance,2086,78,5241.36,3.74
+2020Q4,Jeddah,Healthcare,3348,217,4529.8,6.48
+2020Q4,Jeddah,Hospitality & Tourism,4330,300,5365.8,6.93
+2020Q4,Jeddah,Information Technology,2389,216,6187.82,9.04
+2020Q4,Jeddah,Manufacturing,3766,166,5363.39,4.41
+2020Q4,Jeddah,Transport & Logistics,4702,218,5293.78,4.64
+2020Q4,Jeddah,Wholesale & Retail,5973,264,5369.3,4.42
+2020Q4,Khobar,Construction,5452,243,5786.48,4.46
+2020Q4,Khobar,Finance & Insurance,1624,100,5485.31,6.16
+2020Q4,Khobar,Healthcare,3484,213,5441.23,6.11
+2020Q4,Khobar,Hospitality & Tourism,4162,279,4867.18,6.7
+2020Q4,Khobar,Information Technology,2179,165,5168.25,7.57
+2020Q4,Khobar,Manufacturing,3374,154,5518.76,4.56
+2020Q4,Khobar,Transport & Logistics,4351,216,5350.02,4.96
+2020Q4,Khobar,Wholesale & Retail,5749,232,6422.25,4.04
+2020Q4,Madinah,Construction,2899,100,4468.73,3.45
+2020Q4,Madinah,Finance & Insurance,1132,27,6714.9,2.39
+2020Q4,Madinah,Healthcare,1780,123,5510.62,6.91
+2020Q4,Madinah,Hospitality & Tourism,2250,146,6683.22,6.49
+2020Q4,Madinah,Information Technology,1736,151,5270.53,8.7
+2020Q4,Madinah,Manufacturing,1898,85,6327.56,4.48
+2020Q4,Madinah,Transport & Logistics,2495,119,5398.83,4.77
+2020Q4,Madinah,Wholesale & Retail,3133,150,6378.0,4.79
+2020Q4,Makkah,Construction,2868,128,3762.77,4.46
+2020Q4,Makkah,Finance & Insurance,1134,60,4995.26,5.29
+2020Q4,Makkah,Healthcare,1585,110,6097.95,6.94
+2020Q4,Makkah,Hospitality & Tourism,2003,127,5940.61,6.34
+2020Q4,Makkah,Information Technology,1267,103,6181.5,8.13
+2020Q4,Makkah,Manufacturing,1796,83,5900.81,4.62
+2020Q4,Makkah,Transport & Logistics,2352,120,6026.01,5.1
+2020Q4,Makkah,Wholesale & Retail,3037,137,5573.11,4.51
+2020Q4,Riyadh,Construction,7018,338,5651.61,4.82
+2020Q4,Riyadh,Finance & Insurance,2342,98,5091.76,4.18
+2020Q4,Riyadh,Healthcare,4645,274,4638.56,5.9
+2020Q4,Riyadh,Hospitality & Tourism,5439,372,5140.35,6.84
+2020Q4,Riyadh,Information Technology,3051,245,5139.5,8.03
+2020Q4,Riyadh,Manufacturing,4762,209,5474.24,4.39
+2020Q4,Riyadh,Transport & Logistics,5872,241,5653.1,4.1
+2020Q4,Riyadh,Wholesale & Retail,7886,358,4533.16,4.54
+2020Q4,Tabuk,Construction,2910,117,5845.73,4.02
+2020Q4,Tabuk,Finance & Insurance,1064,47,4456.83,4.42
+2020Q4,Tabuk,Healthcare,1802,111,6170.92,6.16
+2020Q4,Tabuk,Hospitality & Tourism,2127,146,5090.56,6.86
+2020Q4,Tabuk,Information Technology,918,68,5738.15,7.41
+2020Q4,Tabuk,Manufacturing,1810,90,3320.23,4.97
+2020Q4,Tabuk,Transport & Logistics,2325,90,5150.5,3.87
+2020Q4,Tabuk,Wholesale & Retail,2914,111,5108.54,3.81
+2020Q4,Taif,Construction,3289,138,5177.24,4.2
+2020Q4,Taif,Finance & Insurance,990,30,5968.54,3.03
+2020Q4,Taif,Healthcare,1654,67,4942.98,4.05
+2020Q4,Taif,Hospitality & Tourism,1879,115,5269.09,6.12
+2020Q4,Taif,Information Technology,1316,97,4943.42,7.37
+2020Q4,Taif,Manufacturing,1896,83,5062.67,4.38
+2020Q4,Taif,Transport & Logistics,2177,102,5493.72,4.69
+2020Q4,Taif,Wholesale & Retail,3204,127,4871.16,3.96
+2021Q1,Abha,Construction,2980,158,4944.4,5.3
+2021Q1,Abha,Finance & Insurance,873,25,5349.58,2.86
+2021Q1,Abha,Healthcare,1973,111,5598.54,5.63
+2021Q1,Abha,Hospitality & Tourism,2244,133,6483.33,5.93
+2021Q1,Abha,Information Technology,1444,101,5391.51,6.99
+2021Q1,Abha,Manufacturing,1915,96,5141.12,5.01
+2021Q1,Abha,Transport & Logistics,2262,118,5103.49,5.22
+2021Q1,Abha,Wholesale & Retail,3106,151,5545.29,4.86
+2021Q1,Al Ahsa,Construction,2697,94,4357.9,3.49
+2021Q1,Al Ahsa,Finance & Insurance,1175,58,4441.73,4.94
+2021Q1,Al Ahsa,Healthcare,2036,142,5312.88,6.97
+2021Q1,Al Ahsa,Hospitality & Tourism,2304,157,5399.93,6.81
+2021Q1,Al Ahsa,Information Technology,1280,126,5557.49,9.84
+2021Q1,Al Ahsa,Manufacturing,2120,79,5007.45,3.73
+2021Q1,Al Ahsa,Transport & Logistics,2366,105,5472.97,4.44
+2021Q1,Al Ahsa,Wholesale & Retail,3095,126,5718.0,4.07
+2021Q1,Dammam,Construction,5753,232,4954.85,4.03
+2021Q1,Dammam,Finance & Insurance,1786,83,4295.83,4.65
+2021Q1,Dammam,Healthcare,3281,175,5838.68,5.33
+2021Q1,Dammam,Hospitality & Tourism,4290,316,5455.44,7.37
+2021Q1,Dammam,Information Technology,2555,210,5949.13,8.22
+2021Q1,Dammam,Manufacturing,3635,144,6054.97,3.96
+2021Q1,Dammam,Transport & Logistics,4659,213,5466.97,4.57
+2021Q1,Dammam,Wholesale & Retail,5806,255,5635.8,4.39
+2021Q1,Jeddah,Construction,5859,274,5558.35,4.68
+2021Q1,Jeddah,Finance & Insurance,1890,74,5823.2,3.92
+2021Q1,Jeddah,Healthcare,3528,179,5526.73,5.07
+2021Q1,Jeddah,Hospitality & Tourism,4088,284,6301.07,6.95
+2021Q1,Jeddah,Information Technology,2018,166,4706.84,8.23
+2021Q1,Jeddah,Manufacturing,3804,178,5286.61,4.68
+2021Q1,Jeddah,Transport & Logistics,4665,223,6265.52,4.78
+2021Q1,Jeddah,Wholesale & Retail,5994,287,5236.29,4.79
+2021Q1,Khobar,Construction,5640,254,6771.2,4.5
+2021Q1,Khobar,Finance & Insurance,1791,76,4632.73,4.24
+2021Q1,Khobar,Healthcare,3506,230,6622.05,6.56
+2021Q1,Khobar,Hospitality & Tourism,4045,266,5112.45,6.58
+2021Q1,Khobar,Information Technology,2132,184,5260.28,8.63
+2021Q1,Khobar,Manufacturing,3631,158,5306.42,4.35
+2021Q1,Khobar,Transport & Logistics,4884,213,5472.93,4.36
+2021Q1,Khobar,Wholesale & Retail,6113,279,5113.45,4.56
+2021Q1,Madinah,Construction,2833,138,4717.85,4.87
+2021Q1,Madinah,Finance & Insurance,956,39,4942.45,4.08
+2021Q1,Madinah,Healthcare,1831,103,5273.98,5.63
+2021Q1,Madinah,Hospitality & Tourism,2324,171,5057.26,7.36
+2021Q1,Madinah,Information Technology,1322,83,5673.53,6.28
+2021Q1,Madinah,Manufacturing,1851,92,5334.33,4.97
+2021Q1,Madinah,Transport & Logistics,2522,108,5043.45,4.28
+2021Q1,Madinah,Wholesale & Retail,3079,141,5870.75,4.58
+2021Q1,Makkah,Construction,2867,149,3493.1,5.2
+2021Q1,Makkah,Finance & Insurance,1083,50,5180.5,4.62
+2021Q1,Makkah,Healthcare,1865,91,5075.54,4.88
+2021Q1,Makkah,Hospitality & Tourism,2140,146,5489.34,6.82
+2021Q1,Makkah,Information Technology,1343,138,5624.39,10.28
+2021Q1,Makkah,Manufacturing,1847,102,4775.93,5.52
+2021Q1,Makkah,Transport & Logistics,2527,123,6359.72,4.87
+2021Q1,Makkah,Wholesale & Retail,2940,125,5951.08,4.25
+2021Q1,Riyadh,Construction,7442,309,4198.29,4.15
+2021Q1,Riyadh,Finance & Insurance,2308,99,5938.22,4.29
+2021Q1,Riyadh,Healthcare,4919,330,5556.6,6.71
+2021Q1,Riyadh,Hospitality & Tourism,5568,386,5397.92,6.93
+2021Q1,Riyadh,Information Technology,3243,278,5873.01,8.57
+2021Q1,Riyadh,Manufacturing,4440,178,5545.66,4.01
+2021Q1,Riyadh,Transport & Logistics,6230,280,6158.22,4.49
+2021Q1,Riyadh,Wholesale & Retail,8123,361,4608.42,4.44
+2021Q1,Tabuk,Construction,2983,133,5560.83,4.46
+2021Q1,Tabuk,Finance & Insurance,1072,50,5690.1,4.66
+2021Q1,Tabuk,Healthcare,1907,84,4973.35,4.4
+2021Q1,Tabuk,Hospitality & Tourism,1843,134,4837.62,7.27
+2021Q1,Tabuk,Information Technology,1033,93,5485.0,9.0
+2021Q1,Tabuk,Manufacturing,2038,112,4568.79,5.5
+2021Q1,Tabuk,Transport & Logistics,2385,112,5121.74,4.7
+2021Q1,Tabuk,Wholesale & Retail,3254,168,5622.31,5.16
+2021Q1,Taif,Construction,2961,139,4966.98,4.69
+2021Q1,Taif,Finance & Insurance,1182,45,5995.68,3.81
+2021Q1,Taif,Healthcare,2071,119,4304.76,5.75
+2021Q1,Taif,Hospitality & Tourism,1865,125,5691.17,6.7
+2021Q1,Taif,Information Technology,1278,72,5394.89,5.63
+2021Q1,Taif,Manufacturing,1833,54,5459.79,2.95
+2021Q1,Taif,Transport & Logistics,2245,75,5483.26,3.34
+2021Q1,Taif,Wholesale & Retail,3145,150,5323.59,4.77
+2021Q2,Abha,Construction,2854,118,4753.53,4.13
+2021Q2,Abha,Finance & Insurance,901,28,5447.35,3.11
+2021Q2,Abha,Healthcare,2009,109,5309.17,5.43
+2021Q2,Abha,Hospitality & Tourism,2048,138,5432.6,6.74
+2021Q2,Abha,Information Technology,1137,94,5699.57,8.27
+2021Q2,Abha,Manufacturing,1936,108,5199.89,5.58
+2021Q2,Abha,Transport & Logistics,2671,123,4795.71,4.61
+2021Q2,Abha,Wholesale & Retail,3363,161,5654.56,4.79
+2021Q2,Al Ahsa,Construction,3131,133,4754.42,4.25
+2021Q2,Al Ahsa,Finance & Insurance,1039,38,4749.81,3.66
+2021Q2,Al Ahsa,Healthcare,1793,95,5714.27,5.3
+2021Q2,Al Ahsa,Hospitality & Tourism,2399,185,5554.78,7.71
+2021Q2,Al Ahsa,Information Technology,1104,100,5124.81,9.06
+2021Q2,Al Ahsa,Manufacturing,1795,58,4331.45,3.23
+2021Q2,Al Ahsa,Transport & Logistics,2494,140,4908.29,5.61
+2021Q2,Al Ahsa,Wholesale & Retail,3363,147,5304.42,4.37
+2021Q2,Dammam,Construction,5354,251,6231.43,4.69
+2021Q2,Dammam,Finance & Insurance,1653,64,7180.15,3.87
+2021Q2,Dammam,Healthcare,3568,209,4925.04,5.86
+2021Q2,Dammam,Hospitality & Tourism,4378,316,4780.97,7.22
+2021Q2,Dammam,Information Technology,2242,209,5642.24,9.32
+2021Q2,Dammam,Manufacturing,4007,197,4071.15,4.92
+2021Q2,Dammam,Transport & Logistics,4633,196,4935.88,4.23
+2021Q2,Dammam,Wholesale & Retail,6028,266,5209.57,4.41
+2021Q2,Jeddah,Construction,5568,223,5205.59,4.01
+2021Q2,Jeddah,Finance & Insurance,1814,92,5594.74,5.07
+2021Q2,Jeddah,Healthcare,3776,265,6597.61,7.02
+2021Q2,Jeddah,Hospitality & Tourism,4434,297,5413.39,6.7
+2021Q2,Jeddah,Information Technology,2339,199,5277.41,8.51
+2021Q2,Jeddah,Manufacturing,3712,161,5650.98,4.34
+2021Q2,Jeddah,Transport & Logistics,4800,216,5131.25,4.5
+2021Q2,Jeddah,Wholesale & Retail,6233,284,5664.39,4.56
+2021Q2,Khobar,Construction,5560,228,4598.26,4.1
+2021Q2,Khobar,Finance & Insurance,1717,78,6013.69,4.54
+2021Q2,Khobar,Healthcare,3918,233,6612.93,5.95
+2021Q2,Khobar,Hospitality & Tourism,3940,260,5801.24,6.6
+2021Q2,Khobar,Information Technology,2206,190,4571.86,8.61
+2021Q2,Khobar,Manufacturing,3602,157,5477.4,4.36
+2021Q2,Khobar,Transport & Logistics,4821,237,4659.15,4.92
+2021Q2,Khobar,Wholesale & Retail,6418,314,5601.52,4.89
+2021Q2,Madinah,Construction,2997,127,5088.72,4.24
+2021Q2,Madinah,Finance & Insurance,732,17,5880.36,2.32
+2021Q2,Madinah,Healthcare,1785,108,4854.87,6.05
+2021Q2,Madinah,Hospitality & Tourism,1905,106,6126.84,5.56
+2021Q2,Madinah,Information Technology,1363,89,5219.19,6.53
+2021Q2,Madinah,Manufacturing,1998,83,5154.46,4.15
+2021Q2,Madinah,Transport & Logistics,2339,78,5855.68,3.33
+2021Q2,Madinah,Wholesale & Retail,3104,117,5463.99,3.77
+2021Q2,Makkah,Construction,2703,133,4263.94,4.92
+2021Q2,Makkah,Finance & Insurance,748,43,5318.5,5.75
+2021Q2,Makkah,Healthcare,2057,119,5161.22,5.79
+2021Q2,Makkah,Hospitality & Tourism,1768,154,4978.49,8.71
+2021Q2,Makkah,Information Technology,1407,138,5849.88,9.81
+2021Q2,Makkah,Manufacturing,2057,83,4934.99,4.04
+2021Q2,Makkah,Transport & Logistics,2337,78,5561.96,3.34
+2021Q2,Makkah,Wholesale & Retail,3278,148,5235.68,4.51
+2021Q2,Riyadh,Construction,7410,307,5483.52,4.14
+2021Q2,Riyadh,Finance & Insurance,2314,110,5506.52,4.75
+2021Q2,Riyadh,Healthcare,4694,292,4836.32,6.22
+2021Q2,Riyadh,Hospitality & Tourism,5572,379,5266.91,6.8
+2021Q2,Riyadh,Information Technology,3289,294,4820.32,8.94
+2021Q2,Riyadh,Manufacturing,4699,200,5169.4,4.26
+2021Q2,Riyadh,Transport & Logistics,5965,259,4534.23,4.34
+2021Q2,Riyadh,Wholesale & Retail,7848,332,5411.08,4.23
+2021Q2,Tabuk,Construction,3188,131,4632.67,4.11
+2021Q2,Tabuk,Finance & Insurance,803,28,3932.86,3.49
+2021Q2,Tabuk,Healthcare,1504,85,4087.83,5.65
+2021Q2,Tabuk,Hospitality & Tourism,2623,207,5058.46,7.89
+2021Q2,Tabuk,Information Technology,1309,101,5188.46,7.72
+2021Q2,Tabuk,Manufacturing,1850,66,5131.35,3.57
+2021Q2,Tabuk,Transport & Logistics,2199,103,5163.12,4.68
+2021Q2,Tabuk,Wholesale & Retail,3204,146,4404.52,4.56
+2021Q2,Taif,Construction,3077,163,5337.51,5.3
+2021Q2,Taif,Finance & Insurance,1043,50,6263.6,4.79
+2021Q2,Taif,Healthcare,2000,126,5340.85,6.3
+2021Q2,Taif,Hospitality & Tourism,1934,122,6464.81,6.31
+2021Q2,Taif,Information Technology,1432,120,5532.31,8.38
+2021Q2,Taif,Manufacturing,2017,76,4712.77,3.77
+2021Q2,Taif,Transport & Logistics,2449,84,5551.25,3.43
+2021Q2,Taif,Wholesale & Retail,3241,155,5455.58,4.78
+2021Q3,Abha,Construction,2860,122,4962.06,4.27
+2021Q3,Abha,Finance & Insurance,992,60,5500.67,6.05
+2021Q3,Abha,Healthcare,2144,112,5945.46,5.22
+2021Q3,Abha,Hospitality & Tourism,2109,145,4541.45,6.88
+2021Q3,Abha,Information Technology,1484,139,5369.77,9.37
+2021Q3,Abha,Manufacturing,1748,96,5204.68,5.49
+2021Q3,Abha,Transport & Logistics,2503,106,5334.04,4.23
+2021Q3,Abha,Wholesale & Retail,3398,152,5502.88,4.47
+2021Q3,Al Ahsa,Construction,3036,130,4761.34,4.28
+2021Q3,Al Ahsa,Finance & Insurance,819,33,4333.04,4.03
+2021Q3,Al Ahsa,Healthcare,1838,94,5714.09,5.11
+2021Q3,Al Ahsa,Hospitality & Tourism,2280,149,5401.55,6.54
+2021Q3,Al Ahsa,Information Technology,1376,116,5827.4,8.43
+2021Q3,Al Ahsa,Manufacturing,2195,95,4674.19,4.33
+2021Q3,Al Ahsa,Transport & Logistics,2587,103,5405.6,3.98
+2021Q3,Al Ahsa,Wholesale & Retail,3205,88,5016.48,2.75
+2021Q3,Dammam,Construction,5451,261,4704.15,4.79
+2021Q3,Dammam,Finance & Insurance,1707,78,5921.8,4.57
+2021Q3,Dammam,Healthcare,3515,209,5671.57,5.95
+2021Q3,Dammam,Hospitality & Tourism,4067,309,5162.51,7.6
+2021Q3,Dammam,Information Technology,2287,181,5524.23,7.91
+2021Q3,Dammam,Manufacturing,3346,148,5216.28,4.42
+2021Q3,Dammam,Transport & Logistics,4756,209,6160.57,4.39
+2021Q3,Dammam,Wholesale & Retail,6058,271,5691.02,4.47
+2021Q3,Jeddah,Construction,5632,262,5219.03,4.65
+2021Q3,Jeddah,Finance & Insurance,1827,118,5656.3,6.46
+2021Q3,Jeddah,Healthcare,3686,218,5434.48,5.91
+2021Q3,Jeddah,Hospitality & Tourism,4148,282,5655.46,6.8
+2021Q3,Jeddah,Information Technology,2342,224,5256.07,9.56
+2021Q3,Jeddah,Manufacturing,3502,167,5869.78,4.77
+2021Q3,Jeddah,Transport & Logistics,4545,181,5740.12,3.98
+2021Q3,Jeddah,Wholesale & Retail,6169,272,4412.92,4.41
+2021Q3,Khobar,Construction,5159,230,5043.56,4.46
+2021Q3,Khobar,Finance & Insurance,1901,88,5430.29,4.63
+2021Q3,Khobar,Healthcare,3585,201,6333.2,5.61
+2021Q3,Khobar,Hospitality & Tourism,4196,261,5585.38,6.22
+2021Q3,Khobar,Information Technology,2379,202,5836.37,8.49
+2021Q3,Khobar,Manufacturing,3838,194,4743.02,5.05
+2021Q3,Khobar,Transport & Logistics,4854,207,4756.49,4.26
+2021Q3,Khobar,Wholesale & Retail,6057,306,5438.46,5.05
+2021Q3,Madinah,Construction,3061,125,4721.85,4.08
+2021Q3,Madinah,Finance & Insurance,1085,56,5917.82,5.16
+2021Q3,Madinah,Healthcare,1923,128,5790.48,6.66
+2021Q3,Madinah,Hospitality & Tourism,2468,163,5384.19,6.6
+2021Q3,Madinah,Information Technology,1243,134,5907.24,10.78
+2021Q3,Madinah,Manufacturing,1830,76,4685.99,4.15
+2021Q3,Madinah,Transport & Logistics,2684,113,5378.71,4.21
+2021Q3,Madinah,Wholesale & Retail,3375,152,5696.75,4.5
+2021Q3,Makkah,Construction,3244,155,5062.94,4.78
+2021Q3,Makkah,Finance & Insurance,799,47,5605.86,5.88
+2021Q3,Makkah,Healthcare,1817,110,5295.5,6.05
+2021Q3,Makkah,Hospitality & Tourism,1949,135,5130.31,6.93
+2021Q3,Makkah,Information Technology,1183,97,5351.46,8.2
+2021Q3,Makkah,Manufacturing,2044,104,6124.87,5.09
+2021Q3,Makkah,Transport & Logistics,2885,136,5121.62,4.71
+2021Q3,Makkah,Wholesale & Retail,3342,169,6118.36,5.06
+2021Q3,Riyadh,Construction,7352,353,4473.9,4.8
+2021Q3,Riyadh,Finance & Insurance,2209,124,5899.94,5.61
+2021Q3,Riyadh,Healthcare,5125,315,5454.64,6.15
+2021Q3,Riyadh,Hospitality & Tourism,5003,320,5194.8,6.4
+2021Q3,Riyadh,Information Technology,3176,306,4700.96,9.63
+2021Q3,Riyadh,Manufacturing,5037,202,5578.63,4.01
+2021Q3,Riyadh,Transport & Logistics,6015,258,5521.79,4.29
+2021Q3,Riyadh,Wholesale & Retail,7713,360,6745.16,4.67
+2021Q3,Tabuk,Construction,2765,125,5142.58,4.52
+2021Q3,Tabuk,Finance & Insurance,922,47,3918.59,5.1
+2021Q3,Tabuk,Healthcare,2012,136,5711.74,6.76
+2021Q3,Tabuk,Hospitality & Tourism,2084,139,5787.58,6.67
+2021Q3,Tabuk,Information Technology,1300,121,4612.68,9.31
+2021Q3,Tabuk,Manufacturing,2068,101,4039.06,4.88
+2021Q3,Tabuk,Transport & Logistics,2265,129,4197.04,5.7
+2021Q3,Tabuk,Wholesale & Retail,3108,153,4964.96,4.92
+2021Q3,Taif,Construction,2459,107,4229.79,4.35
+2021Q3,Taif,Finance & Insurance,966,60,4967.17,6.21
+2021Q3,Taif,Healthcare,1860,117,5110.41,6.29
+2021Q3,Taif,Hospitality & Tourism,1810,132,4303.93,7.29
+2021Q3,Taif,Information Technology,1064,96,4621.38,9.02
+2021Q3,Taif,Manufacturing,2372,101,4913.22,4.26
+2021Q3,Taif,Transport & Logistics,2776,117,5097.84,4.21
+2021Q3,Taif,Wholesale & Retail,3119,132,5217.82,4.23
+2021Q4,Abha,Construction,2991,98,4918.18,3.28
+2021Q4,Abha,Finance & Insurance,625,30,5242.74,4.8
+2021Q4,Abha,Healthcare,2174,117,6294.15,5.38
+2021Q4,Abha,Hospitality & Tourism,1884,119,4440.55,6.32
+2021Q4,Abha,Information Technology,1334,108,4438.45,8.1
+2021Q4,Abha,Manufacturing,1994,120,5473.75,6.02
+2021Q4,Abha,Transport & Logistics,2232,82,4455.28,3.67
+2021Q4,Abha,Wholesale & Retail,3141,156,5465.8,4.97
+2021Q4,Al Ahsa,Construction,2828,126,4619.64,4.46
+2021Q4,Al Ahsa,Finance & Insurance,1126,54,4201.02,4.8
+2021Q4,Al Ahsa,Healthcare,1831,125,5370.05,6.83
+2021Q4,Al Ahsa,Hospitality & Tourism,1953,145,5653.37,7.42
+2021Q4,Al Ahsa,Information Technology,1213,111,6163.76,9.15
+2021Q4,Al Ahsa,Manufacturing,1874,106,3920.51,5.66
+2021Q4,Al Ahsa,Transport & Logistics,2541,98,5752.25,3.86
+2021Q4,Al Ahsa,Wholesale & Retail,3524,164,6116.49,4.65
+2021Q4,Dammam,Construction,5410,245,4862.5,4.53
+2021Q4,Dammam,Finance & Insurance,1837,91,5382.06,4.95
+2021Q4,Dammam,Healthcare,3704,242,4731.74,6.53
+2021Q4,Dammam,Hospitality & Tourism,4532,296,6071.22,6.53
+2021Q4,Dammam,Information Technology,2601,228,4944.72,8.77
+2021Q4,Dammam,Manufacturing,3619,176,5224.52,4.86
+2021Q4,Dammam,Transport & Logistics,4670,199,5228.91,4.26
+2021Q4,Dammam,Wholesale & Retail,6499,310,5978.3,4.77
+2021Q4,Jeddah,Construction,5318,229,4763.07,4.31
+2021Q4,Jeddah,Finance & Insurance,1957,76,6383.23,3.88
+2021Q4,Jeddah,Healthcare,3375,204,4614.19,6.04
+2021Q4,Jeddah,Hospitality & Tourism,4193,282,5115.25,6.73
+2021Q4,Jeddah,Information Technology,2359,204,5367.38,8.65
+2021Q4,Jeddah,Manufacturing,3665,146,6306.61,3.98
+2021Q4,Jeddah,Transport & Logistics,4775,231,6077.62,4.84
+2021Q4,Jeddah,Wholesale & Retail,6084,267,5663.02,4.39
+2021Q4,Khobar,Construction,5865,239,4443.65,4.08
+2021Q4,Khobar,Finance & Insurance,1833,92,5503.73,5.02
+2021Q4,Khobar,Healthcare,3751,228,6642.14,6.08
+2021Q4,Khobar,Hospitality & Tourism,3964,273,5284.21,6.89
+2021Q4,Khobar,Information Technology,2386,200,4821.64,8.38
+2021Q4,Khobar,Manufacturing,3859,211,5619.65,5.47
+2021Q4,Khobar,Transport & Logistics,4890,218,4991.88,4.46
+2021Q4,Khobar,Wholesale & Retail,5990,257,6242.02,4.29
+2021Q4,Madinah,Construction,2902,131,5044.91,4.51
+2021Q4,Madinah,Finance & Insurance,783,41,4336.95,5.24
+2021Q4,Madinah,Healthcare,1945,120,5401.92,6.17
+2021Q4,Madinah,Hospitality & Tourism,1891,118,5976.25,6.24
+2021Q4,Madinah,Information Technology,1342,120,5649.11,8.94
+2021Q4,Madinah,Manufacturing,1814,103,4803.04,5.68
+2021Q4,Madinah,Transport & Logistics,2547,115,5545.13,4.52
+2021Q4,Madinah,Wholesale & Retail,3022,149,5535.74,4.93
+2021Q4,Makkah,Construction,2757,125,4351.14,4.53
+2021Q4,Makkah,Finance & Insurance,933,44,5867.22,4.72
+2021Q4,Makkah,Healthcare,2060,91,6109.52,4.42
+2021Q4,Makkah,Hospitality & Tourism,2116,165,4536.19,7.8
+2021Q4,Makkah,Information Technology,1118,109,4844.93,9.75
+2021Q4,Makkah,Manufacturing,2105,116,5081.16,5.51
+2021Q4,Makkah,Transport & Logistics,2234,107,5238.31,4.79
+2021Q4,Makkah,Wholesale & Retail,3215,167,4589.15,5.19
+2021Q4,Riyadh,Construction,7110,337,5069.98,4.74
+2021Q4,Riyadh,Finance & Insurance,2055,111,5484.43,5.4
+2021Q4,Riyadh,Healthcare,4945,314,5702.34,6.35
+2021Q4,Riyadh,Hospitality & Tourism,5520,385,5831.79,6.97
+2021Q4,Riyadh,Information Technology,3176,245,4396.56,7.71
+2021Q4,Riyadh,Manufacturing,4736,215,5337.33,4.54
+2021Q4,Riyadh,Transport & Logistics,6020,242,6016.66,4.02
+2021Q4,Riyadh,Wholesale & Retail,7972,358,6220.66,4.49
+2021Q4,Tabuk,Construction,2870,135,5022.54,4.7
+2021Q4,Tabuk,Finance & Insurance,830,34,6357.5,4.1
+2021Q4,Tabuk,Healthcare,2094,83,5872.62,3.96
+2021Q4,Tabuk,Hospitality & Tourism,1809,132,5357.02,7.3
+2021Q4,Tabuk,Information Technology,1322,111,4997.98,8.4
+2021Q4,Tabuk,Manufacturing,1711,88,6228.84,5.14
+2021Q4,Tabuk,Transport & Logistics,2336,119,5877.95,5.09
+2021Q4,Tabuk,Wholesale & Retail,2963,132,6211.64,4.45
+2021Q4,Taif,Construction,2993,129,5093.37,4.31
+2021Q4,Taif,Finance & Insurance,983,75,5684.91,7.63
+2021Q4,Taif,Healthcare,1939,98,5717.79,5.05
+2021Q4,Taif,Hospitality & Tourism,2407,152,4979.53,6.31
+2021Q4,Taif,Information Technology,1230,107,5766.47,8.7
+2021Q4,Taif,Manufacturing,2086,98,4965.0,4.7
+2021Q4,Taif,Transport & Logistics,2433,98,4996.07,4.03
+2021Q4,Taif,Wholesale & Retail,3015,144,5970.84,4.78
+2022Q1,Abha,Construction,3350,181,4862.74,5.4
+2022Q1,Abha,Finance & Insurance,897,62,4821.68,6.91
+2022Q1,Abha,Healthcare,1939,145,5941.0,7.48
+2022Q1,Abha,Hospitality & Tourism,2000,131,6131.36,6.55
+2022Q1,Abha,Information Technology,1139,94,5069.45,8.25
+2022Q1,Abha,Manufacturing,1959,98,5011.82,5.0
+2022Q1,Abha,Transport & Logistics,2564,125,5521.4,4.88
+2022Q1,Abha,Wholesale & Retail,3184,130,5739.73,4.08
+2022Q1,Al Ahsa,Construction,2950,107,5017.26,3.63
+2022Q1,Al Ahsa,Finance & Insurance,617,45,6304.5,7.29
+2022Q1,Al Ahsa,Healthcare,1841,104,5028.47,5.65
+2022Q1,Al Ahsa,Hospitality & Tourism,2434,168,4735.27,6.9
+2022Q1,Al Ahsa,Information Technology,1250,111,6686.13,8.88
+2022Q1,Al Ahsa,Manufacturing,2101,83,5626.37,3.95
+2022Q1,Al Ahsa,Transport & Logistics,2666,123,5621.12,4.61
+2022Q1,Al Ahsa,Wholesale & Retail,3143,155,5557.17,4.93
+2022Q1,Dammam,Construction,5777,254,4410.66,4.4
+2022Q1,Dammam,Finance & Insurance,1944,70,5007.06,3.6
+2022Q1,Dammam,Healthcare,3616,184,5464.72,5.09
+2022Q1,Dammam,Hospitality & Tourism,3979,277,4634.86,6.96
+2022Q1,Dammam,Information Technology,2289,181,5019.81,7.91
+2022Q1,Dammam,Manufacturing,4161,197,5795.57,4.73
+2022Q1,Dammam,Transport & Logistics,4742,220,5473.48,4.64
+2022Q1,Dammam,Wholesale & Retail,5981,280,5702.92,4.68
+2022Q1,Jeddah,Construction,5820,291,4852.61,5.0
+2022Q1,Jeddah,Finance & Insurance,1969,87,5334.02,4.42
+2022Q1,Jeddah,Healthcare,3590,207,5905.55,5.77
+2022Q1,Jeddah,Hospitality & Tourism,4074,294,5597.24,7.22
+2022Q1,Jeddah,Information Technology,2288,182,5504.59,7.95
+2022Q1,Jeddah,Manufacturing,3642,158,4860.2,4.34
+2022Q1,Jeddah,Transport & Logistics,4809,247,5084.51,5.14
+2022Q1,Jeddah,Wholesale & Retail,6575,289,5558.95,4.4
+2022Q1,Khobar,Construction,5708,249,5884.73,4.36
+2022Q1,Khobar,Finance & Insurance,1824,81,5488.09,4.44
+2022Q1,Khobar,Healthcare,3746,242,5240.54,6.46
+2022Q1,Khobar,Hospitality & Tourism,4106,286,5400.29,6.97
+2022Q1,Khobar,Information Technology,2299,210,5483.49,9.13
+2022Q1,Khobar,Manufacturing,3729,185,4692.22,4.96
+2022Q1,Khobar,Transport & Logistics,4786,204,4907.47,4.26
+2022Q1,Khobar,Wholesale & Retail,6144,261,6257.95,4.25
+2022Q1,Madinah,Construction,3174,128,4739.9,4.03
+2022Q1,Madinah,Finance & Insurance,1093,69,5078.79,6.31
+2022Q1,Madinah,Healthcare,1960,113,4424.99,5.77
+2022Q1,Madinah,Hospitality & Tourism,2162,121,5442.65,5.6
+2022Q1,Madinah,Information Technology,1369,122,5157.14,8.91
+2022Q1,Madinah,Manufacturing,1757,93,4525.02,5.29
+2022Q1,Madinah,Transport & Logistics,2397,71,4956.32,2.96
+2022Q1,Madinah,Wholesale & Retail,2979,144,5228.9,4.83
+2022Q1,Makkah,Construction,3279,151,4828.14,4.61
+2022Q1,Makkah,Finance & Insurance,1042,55,5556.16,5.28
+2022Q1,Makkah,Healthcare,1902,128,5421.75,6.73
+2022Q1,Makkah,Hospitality & Tourism,2100,167,4777.47,7.95
+2022Q1,Makkah,Information Technology,1142,79,4977.96,6.92
+2022Q1,Makkah,Manufacturing,1830,90,4678.53,4.92
+2022Q1,Makkah,Transport & Logistics,2754,133,6752.4,4.83
+2022Q1,Makkah,Wholesale & Retail,3065,133,6607.85,4.34
+2022Q1,Riyadh,Construction,7567,315,4161.37,4.16
+2022Q1,Riyadh,Finance & Insurance,2095,99,5000.15,4.73
+2022Q1,Riyadh,Healthcare,4825,285,6025.36,5.91
+2022Q1,Riyadh,Hospitality & Tourism,5422,378,5945.52,6.97
+2022Q1,Riyadh,Information Technology,3537,283,5355.89,8.0
+2022Q1,Riyadh,Manufacturing,4955,203,5278.2,4.1
+2022Q1,Riyadh,Transport & Logistics,6245,253,4955.17,4.05
+2022Q1,Riyadh,Wholesale & Retail,8149,361,5882.01,4.43
+2022Q1,Tabuk,Construction,3193,111,4214.74,3.48
+2022Q1,Tabuk,Finance & Insurance,871,40,5104.1,4.59
+2022Q1,Tabuk,Healthcare,1869,145,5229.7,7.76
+2022Q1,Tabuk,Hospitality & Tourism,2239,150,5100.84,6.7
+2022Q1,Tabuk,Information Technology,1059,97,5705.51,9.16
+2022Q1,Tabuk,Manufacturing,2145,95,5146.95,4.43
+2022Q1,Tabuk,Transport & Logistics,2580,113,5009.08,4.38
+2022Q1,Tabuk,Wholesale & Retail,3193,162,4352.2,5.07
+2022Q1,Taif,Construction,2696,117,4589.97,4.34
+2022Q1,Taif,Finance & Insurance,1244,72,5341.39,5.79
+2022Q1,Taif,Healthcare,1829,100,5830.93,5.47
+2022Q1,Taif,Hospitality & Tourism,2023,127,5910.81,6.28
+2022Q1,Taif,Information Technology,1304,121,6004.09,9.28
+2022Q1,Taif,Manufacturing,1957,80,5265.13,4.09
+2022Q1,Taif,Transport & Logistics,2333,88,5672.83,3.77
+2022Q1,Taif,Wholesale & Retail,3243,150,5111.49,4.63
+2022Q2,Abha,Construction,2956,119,4430.86,4.03
+2022Q2,Abha,Finance & Insurance,997,73,5070.47,7.32
+2022Q2,Abha,Healthcare,1917,124,5258.63,6.47
+2022Q2,Abha,Hospitality & Tourism,2543,190,5124.03,7.47
+2022Q2,Abha,Information Technology,1286,120,5567.4,9.33
+2022Q2,Abha,Manufacturing,2235,104,4644.02,4.65
+2022Q2,Abha,Transport & Logistics,2466,104,5361.02,4.22
+2022Q2,Abha,Wholesale & Retail,3168,146,6428.93,4.61
+2022Q2,Al Ahsa,Construction,3345,132,4608.62,3.95
+2022Q2,Al Ahsa,Finance & Insurance,854,34,6174.77,3.98
+2022Q2,Al Ahsa,Healthcare,2127,130,5795.99,6.11
+2022Q2,Al Ahsa,Hospitality & Tourism,2559,183,4976.91,7.15
+2022Q2,Al Ahsa,Information Technology,1260,107,5805.75,8.49
+2022Q2,Al Ahsa,Manufacturing,1825,72,3665.09,3.95
+2022Q2,Al Ahsa,Transport & Logistics,2618,114,3849.13,4.35
+2022Q2,Al Ahsa,Wholesale & Retail,3341,161,6485.95,4.82
+2022Q2,Dammam,Construction,5761,247,5012.27,4.29
+2022Q2,Dammam,Finance & Insurance,2164,80,4907.11,3.7
+2022Q2,Dammam,Healthcare,3923,252,5361.37,6.42
+2022Q2,Dammam,Hospitality & Tourism,4373,325,6618.89,7.43
+2022Q2,Dammam,Information Technology,2679,221,4477.3,8.25
+2022Q2,Dammam,Manufacturing,3650,144,4380.26,3.95
+2022Q2,Dammam,Transport & Logistics,4627,205,5838.87,4.43
+2022Q2,Dammam,Wholesale & Retail,6332,265,5235.18,4.19
+2022Q2,Jeddah,Construction,5465,230,5919.11,4.21
+2022Q2,Jeddah,Finance & Insurance,1803,87,5538.9,4.83
+2022Q2,Jeddah,Healthcare,3828,242,4751.22,6.32
+2022Q2,Jeddah,Hospitality & Tourism,4120,297,6361.5,7.21
+2022Q2,Jeddah,Information Technology,2520,208,5772.34,8.25
+2022Q2,Jeddah,Manufacturing,3903,188,5486.34,4.82
+2022Q2,Jeddah,Transport & Logistics,4895,215,4672.86,4.39
+2022Q2,Jeddah,Wholesale & Retail,6295,264,5030.16,4.19
+2022Q2,Khobar,Construction,5492,233,3990.15,4.24
+2022Q2,Khobar,Finance & Insurance,1954,82,5236.67,4.2
+2022Q2,Khobar,Healthcare,3971,220,4830.26,5.54
+2022Q2,Khobar,Hospitality & Tourism,4296,307,5291.28,7.15
+2022Q2,Khobar,Information Technology,2682,217,5234.35,8.09
+2022Q2,Khobar,Manufacturing,3572,195,5712.34,5.46
+2022Q2,Khobar,Transport & Logistics,4762,201,5284.73,4.22
+2022Q2,Khobar,Wholesale & Retail,6443,308,5434.42,4.78
+2022Q2,Madinah,Construction,3092,137,4707.62,4.43
+2022Q2,Madinah,Finance & Insurance,811,44,5307.8,5.43
+2022Q2,Madinah,Healthcare,1815,120,4950.04,6.61
+2022Q2,Madinah,Hospitality & Tourism,2341,176,6200.34,7.52
+2022Q2,Madinah,Information Technology,993,95,5689.24,9.57
+2022Q2,Madinah,Manufacturing,1797,77,5600.18,4.28
+2022Q2,Madinah,Transport & Logistics,2443,118,4923.93,4.83
+2022Q2,Madinah,Wholesale & Retail,3355,164,6152.89,4.89
+2022Q2,Makkah,Construction,2877,99,3738.31,3.44
+2022Q2,Makkah,Finance & Insurance,763,25,5756.26,3.28
+2022Q2,Makkah,Healthcare,2222,145,5051.24,6.53
+2022Q2,Makkah,Hospitality & Tourism,2372,146,5193.66,6.16
+2022Q2,Makkah,Information Technology,1393,110,6429.21,7.9
+2022Q2,Makkah,Manufacturing,2178,113,4442.84,5.19
+2022Q2,Makkah,Transport & Logistics,2539,115,4239.73,4.53
+2022Q2,Makkah,Wholesale & Retail,3180,142,5153.16,4.47
+2022Q2,Riyadh,Construction,7411,323,4927.86,4.36
+2022Q2,Riyadh,Finance & Insurance,2369,130,6192.6,5.49
+2022Q2,Riyadh,Healthcare,5387,317,5411.36,5.88
+2022Q2,Riyadh,Hospitality & Tourism,5431,356,4988.74,6.55
+2022Q2,Riyadh,Information Technology,3117,242,6029.17,7.76
+2022Q2,Riyadh,Manufacturing,5369,208,5116.35,3.87
+2022Q2,Riyadh,Transport & Logistics,5932,260,4863.7,4.38
+2022Q2,Riyadh,Wholesale & Retail,8432,393,5901.15,4.66
+2022Q2,Tabuk,Construction,2981,118,6157.33,3.96
+2022Q2,Tabuk,Finance & Insurance,915,27,5480.14,2.95
+2022Q2,Tabuk,Healthcare,1893,132,6157.05,6.97
+2022Q2,Tabuk,Hospitality & Tourism,2523,191,5964.21,7.57
+2022Q2,Tabuk,Information Technology,1232,91,5388.33,7.39
+2022Q2,Tabuk,Manufacturing,2139,77,5396.76,3.6
+2022Q2,Tabuk,Transport & Logistics,2534,111,5865.28,4.38
+2022Q2,Tabuk,Wholesale & Retail,3499,149,4917.61,4.26
+2022Q2,Taif,Construction,3090,145,5268.24,4.69
+2022Q2,Taif,Finance & Insurance,1010,29,5713.8,2.87
+2022Q2,Taif,Healthcare,1914,118,6539.98,6.17
+2022Q2,Taif,Hospitality & Tourism,2465,179,4932.21,7.26
+2022Q2,Taif,Information Technology,1581,160,5271.09,10.12
+2022Q2,Taif,Manufacturing,2200,106,6138.64,4.82
+2022Q2,Taif,Transport & Logistics,2245,115,5095.1,5.12
+2022Q2,Taif,Wholesale & Retail,3278,155,6321.35,4.73
+2022Q3,Abha,Construction,2920,126,5002.93,4.32
+2022Q3,Abha,Finance & Insurance,928,42,6286.96,4.53
+2022Q3,Abha,Healthcare,1918,116,5484.47,6.05
+2022Q3,Abha,Hospitality & Tourism,1989,129,6366.31,6.49
+2022Q3,Abha,Information Technology,1439,108,4748.74,7.51
+2022Q3,Abha,Manufacturing,2011,91,4185.76,4.53
+2022Q3,Abha,Transport & Logistics,2383,100,5672.02,4.2
+2022Q3,Abha,Wholesale & Retail,3133,132,4720.82,4.21
+2022Q3,Al Ahsa,Construction,2968,139,5153.22,4.68
+2022Q3,Al Ahsa,Finance & Insurance,975,36,5398.9,3.69
+2022Q3,Al Ahsa,Healthcare,1945,134,5275.01,6.89
+2022Q3,Al Ahsa,Hospitality & Tourism,2042,153,5483.61,7.49
+2022Q3,Al Ahsa,Information Technology,1233,124,5362.45,10.06
+2022Q3,Al Ahsa,Manufacturing,2030,83,5210.43,4.09
+2022Q3,Al Ahsa,Transport & Logistics,2544,88,6124.17,3.46
+2022Q3,Al Ahsa,Wholesale & Retail,3256,119,4793.54,3.65
+2022Q3,Dammam,Construction,5884,273,4566.41,4.64
+2022Q3,Dammam,Finance & Insurance,1713,78,5924.66,4.55
+2022Q3,Dammam,Healthcare,3662,204,5738.87,5.57
+2022Q3,Dammam,Hospitality & Tourism,4158,296,5562.72,7.12
+2022Q3,Dammam,Information Technology,2405,187,5211.19,7.78
+2022Q3,Dammam,Manufacturing,3908,184,4339.13,4.71
+2022Q3,Dammam,Transport & Logistics,4768,206,5376.19,4.32
+2022Q3,Dammam,Wholesale & Retail,6064,263,6290.71,4.34
+2022Q3,Jeddah,Construction,5525,272,4819.35,4.92
+2022Q3,Jeddah,Finance & Insurance,2004,115,4504.36,5.74
+2022Q3,Jeddah,Healthcare,3583,201,4679.64,5.61
+2022Q3,Jeddah,Hospitality & Tourism,4064,296,6009.21,7.28
+2022Q3,Jeddah,Information Technology,2360,198,5030.27,8.39
+2022Q3,Jeddah,Manufacturing,3795,158,4384.96,4.16
+2022Q3,Jeddah,Transport & Logistics,4616,217,5073.54,4.7
+2022Q3,Jeddah,Wholesale & Retail,6137,302,5370.01,4.92
+2022Q3,Khobar,Construction,5526,280,5161.67,5.07
+2022Q3,Khobar,Finance & Insurance,2152,93,6293.68,4.32
+2022Q3,Khobar,Healthcare,3713,247,5939.41,6.65
+2022Q3,Khobar,Hospitality & Tourism,4226,283,5866.26,6.7
+2022Q3,Khobar,Information Technology,2711,198,5785.35,7.3
+2022Q3,Khobar,Manufacturing,3893,189,4610.0,4.85
+2022Q3,Khobar,Transport & Logistics,4663,220,4819.83,4.72
+2022Q3,Khobar,Wholesale & Retail,6346,297,5983.27,4.68
+2022Q3,Madinah,Construction,3002,140,5801.01,4.66
+2022Q3,Madinah,Finance & Insurance,774,39,5405.58,5.04
+2022Q3,Madinah,Healthcare,2083,93,4867.78,4.46
+2022Q3,Madinah,Hospitality & Tourism,2395,160,5028.15,6.68
+2022Q3,Madinah,Information Technology,1229,110,5565.85,8.95
+2022Q3,Madinah,Manufacturing,2272,114,5629.35,5.02
+2022Q3,Madinah,Transport & Logistics,2639,116,5549.67,4.4
+2022Q3,Madinah,Wholesale & Retail,3503,122,5057.5,3.48
+2022Q3,Makkah,Construction,3054,158,5464.21,5.17
+2022Q3,Makkah,Finance & Insurance,1276,72,6555.19,5.64
+2022Q3,Makkah,Healthcare,1854,126,5643.92,6.8
+2022Q3,Makkah,Hospitality & Tourism,2230,155,4410.78,6.95
+2022Q3,Makkah,Information Technology,1276,91,4870.39,7.13
+2022Q3,Makkah,Manufacturing,2221,100,4914.41,4.5
+2022Q3,Makkah,Transport & Logistics,2591,139,5775.02,5.36
+2022Q3,Makkah,Wholesale & Retail,3104,141,6295.35,4.54
+2022Q3,Riyadh,Construction,7425,348,4723.46,4.69
+2022Q3,Riyadh,Finance & Insurance,2419,129,4596.62,5.33
+2022Q3,Riyadh,Healthcare,4912,292,5126.19,5.94
+2022Q3,Riyadh,Hospitality & Tourism,5718,397,4660.12,6.94
+2022Q3,Riyadh,Information Technology,3298,305,5423.27,9.25
+2022Q3,Riyadh,Manufacturing,5281,221,4661.9,4.18
+2022Q3,Riyadh,Transport & Logistics,6247,289,5479.05,4.63
+2022Q3,Riyadh,Wholesale & Retail,8319,350,5579.91,4.21
+2022Q3,Tabuk,Construction,3055,165,5310.14,5.4
+2022Q3,Tabuk,Finance & Insurance,766,11,5299.88,1.44
+2022Q3,Tabuk,Healthcare,1761,103,6581.81,5.85
+2022Q3,Tabuk,Hospitality & Tourism,2513,180,6118.85,7.16
+2022Q3,Tabuk,Information Technology,1211,103,5903.5,8.51
+2022Q3,Tabuk,Manufacturing,2168,112,5360.08,5.17
+2022Q3,Tabuk,Transport & Logistics,2592,106,6240.89,4.09
+2022Q3,Tabuk,Wholesale & Retail,3318,197,6271.92,5.94
+2022Q3,Taif,Construction,2683,143,5424.75,5.33
+2022Q3,Taif,Finance & Insurance,1389,90,5225.81,6.48
+2022Q3,Taif,Healthcare,2263,121,5415.56,5.35
+2022Q3,Taif,Hospitality & Tourism,2160,138,6646.89,6.39
+2022Q3,Taif,Information Technology,1045,106,5601.8,10.14
+2022Q3,Taif,Manufacturing,2001,96,5318.81,4.8
+2022Q3,Taif,Transport & Logistics,2464,115,5607.06,4.67
+2022Q3,Taif,Wholesale & Retail,3036,135,6073.67,4.45
+2022Q4,Abha,Construction,3338,141,5441.55,4.22
+2022Q4,Abha,Finance & Insurance,902,56,5466.58,6.21
+2022Q4,Abha,Healthcare,2303,157,4372.07,6.82
+2022Q4,Abha,Hospitality & Tourism,2376,142,5778.88,5.98
+2022Q4,Abha,Information Technology,1468,134,4949.2,9.13
+2022Q4,Abha,Manufacturing,1842,74,4332.89,4.02
+2022Q4,Abha,Transport & Logistics,2510,117,5091.75,4.66
+2022Q4,Abha,Wholesale & Retail,3512,153,4389.07,4.36
+2022Q4,Al Ahsa,Construction,3086,141,5442.45,4.57
+2022Q4,Al Ahsa,Finance & Insurance,1312,105,5269.75,8.0
+2022Q4,Al Ahsa,Healthcare,2020,110,5728.24,5.45
+2022Q4,Al Ahsa,Hospitality & Tourism,1845,116,6454.91,6.29
+2022Q4,Al Ahsa,Information Technology,1126,117,4495.89,10.39
+2022Q4,Al Ahsa,Manufacturing,1921,120,5116.73,6.25
+2022Q4,Al Ahsa,Transport & Logistics,2331,106,5190.68,4.55
+2022Q4,Al Ahsa,Wholesale & Retail,3315,143,4945.7,4.31
+2022Q4,Dammam,Construction,5470,242,3917.32,4.42
+2022Q4,Dammam,Finance & Insurance,1607,73,4919.71,4.54
+2022Q4,Dammam,Healthcare,3716,222,5706.25,5.97
+2022Q4,Dammam,Hospitality & Tourism,4581,319,5683.06,6.96
+2022Q4,Dammam,Information Technology,2314,176,6051.67,7.61
+2022Q4,Dammam,Manufacturing,3657,144,4869.29,3.94
+2022Q4,Dammam,Transport & Logistics,4932,241,4839.23,4.89
+2022Q4,Dammam,Wholesale & Retail,6472,290,5877.84,4.48
+2022Q4,Jeddah,Construction,6012,273,5482.77,4.54
+2022Q4,Jeddah,Finance & Insurance,1734,102,5962.4,5.88
+2022Q4,Jeddah,Healthcare,3795,211,4898.1,5.56
+2022Q4,Jeddah,Hospitality & Tourism,4021,278,4997.56,6.91
+2022Q4,Jeddah,Information Technology,2452,184,4411.42,7.5
+2022Q4,Jeddah,Manufacturing,3586,156,4679.86,4.35
+2022Q4,Jeddah,Transport & Logistics,4728,248,5467.01,5.25
+2022Q4,Jeddah,Wholesale & Retail,6150,277,6101.35,4.5
+2022Q4,Khobar,Construction,5666,234,5186.78,4.13
+2022Q4,Khobar,Finance & Insurance,1947,104,4521.16,5.34
+2022Q4,Khobar,Healthcare,3355,185,6165.77,5.51
+2022Q4,Khobar,Hospitality & Tourism,4069,291,5532.55,7.15
+2022Q4,Khobar,Information Technology,2182,199,5380.2,9.12
+2022Q4,Khobar,Manufacturing,3739,143,4973.77,3.82
+2022Q4,Khobar,Transport & Logistics,4394,195,5166.71,4.44
+2022Q4,Khobar,Wholesale & Retail,6452,282,5794.52,4.37
+2022Q4,Madinah,Construction,2960,90,4958.35,3.04
+2022Q4,Madinah,Finance & Insurance,1057,51,4690.81,4.82
+2022Q4,Madinah,Healthcare,2058,143,5660.75,6.95
+2022Q4,Madinah,Hospitality & Tourism,2254,156,5251.7,6.92
+2022Q4,Madinah,Information Technology,1120,110,6268.13,9.82
+2022Q4,Madinah,Manufacturing,2168,110,5212.68,5.07
+2022Q4,Madinah,Transport & Logistics,2524,99,5958.48,3.92
+2022Q4,Madinah,Wholesale & Retail,3075,125,5302.57,4.07
+2022Q4,Makkah,Construction,2860,122,5028.82,4.27
+2022Q4,Makkah,Finance & Insurance,1169,49,6158.24,4.19
+2022Q4,Makkah,Healthcare,2122,111,5099.05,5.23
+2022Q4,Makkah,Hospitality & Tourism,1896,135,5241.75,7.12
+2022Q4,Makkah,Information Technology,1268,113,5118.7,8.91
+2022Q4,Makkah,Manufacturing,1996,93,5331.22,4.66
+2022Q4,Makkah,Transport & Logistics,2607,138,5923.04,5.29
+2022Q4,Makkah,Wholesale & Retail,3573,123,6038.31,3.44
+2022Q4,Riyadh,Construction,7266,307,5094.48,4.23
+2022Q4,Riyadh,Finance & Insurance,2150,77,5540.27,3.58
+2022Q4,Riyadh,Healthcare,4791,321,4937.27,6.7
+2022Q4,Riyadh,Hospitality & Tourism,5631,375,4555.71,6.66
+2022Q4,Riyadh,Information Technology,3085,257,5331.02,8.33
+2022Q4,Riyadh,Manufacturing,4969,201,4046.54,4.05
+2022Q4,Riyadh,Transport & Logistics,6217,294,5200.64,4.73
+2022Q4,Riyadh,Wholesale & Retail,8061,339,5099.0,4.21
+2022Q4,Tabuk,Construction,2765,130,5371.03,4.7
+2022Q4,Tabuk,Finance & Insurance,657,63,5528.64,9.59
+2022Q4,Tabuk,Healthcare,1800,106,5317.59,5.89
+2022Q4,Tabuk,Hospitality & Tourism,2135,125,4875.53,5.85
+2022Q4,Tabuk,Information Technology,1264,115,4820.07,9.1
+2022Q4,Tabuk,Manufacturing,2106,91,5031.57,4.32
+2022Q4,Tabuk,Transport & Logistics,2394,128,4943.54,5.35
+2022Q4,Tabuk,Wholesale & Retail,3517,150,4527.76,4.26
+2022Q4,Taif,Construction,2859,144,6051.02,5.04
+2022Q4,Taif,Finance & Insurance,1198,41,4411.33,3.42
+2022Q4,Taif,Healthcare,2102,105,5839.84,5.0
+2022Q4,Taif,Hospitality & Tourism,2361,155,5056.22,6.57
+2022Q4,Taif,Information Technology,1308,150,5194.47,11.47
+2022Q4,Taif,Manufacturing,2101,118,4269.44,5.62
+2022Q4,Taif,Transport & Logistics,2378,130,6361.82,5.47
+2022Q4,Taif,Wholesale & Retail,3568,158,5853.35,4.43
+2023Q1,Abha,Construction,3019,149,4294.6,4.94
+2023Q1,Abha,Finance & Insurance,1110,58,6974.37,5.23
+2023Q1,Abha,Healthcare,2180,122,5482.02,5.6
+2023Q1,Abha,Hospitality & Tourism,2422,170,4946.04,7.02
+2023Q1,Abha,Information Technology,1278,120,5627.39,9.39
+2023Q1,Abha,Manufacturing,2187,113,5034.43,5.17
+2023Q1,Abha,Transport & Logistics,2840,138,4950.14,4.86
+2023Q1,Abha,Wholesale & Retail,3635,134,4906.84,3.69
+2023Q1,Al Ahsa,Construction,3275,175,5494.91,5.34
+2023Q1,Al Ahsa,Finance & Insurance,879,28,6565.0,3.19
+2023Q1,Al Ahsa,Healthcare,1964,148,5674.84,7.54
+2023Q1,Al Ahsa,Hospitality & Tourism,2152,154,6348.52,7.16
+2023Q1,Al Ahsa,Information Technology,1433,139,5396.12,9.7
+2023Q1,Al Ahsa,Manufacturing,1949,98,5437.92,5.03
+2023Q1,Al Ahsa,Transport & Logistics,2765,150,4996.42,5.42
+2023Q1,Al Ahsa,Wholesale & Retail,3417,177,5877.55,5.18
+2023Q1,Dammam,Construction,6048,276,5167.28,4.56
+2023Q1,Dammam,Finance & Insurance,1890,87,5252.81,4.6
+2023Q1,Dammam,Healthcare,3897,227,4906.17,5.82
+2023Q1,Dammam,Hospitality & Tourism,4240,298,6422.92,7.03
+2023Q1,Dammam,Information Technology,2876,270,5373.12,9.39
+2023Q1,Dammam,Manufacturing,3808,152,5898.44,3.99
+2023Q1,Dammam,Transport & Logistics,5097,211,5878.16,4.14
+2023Q1,Dammam,Wholesale & Retail,6392,282,6523.17,4.41
+2023Q1,Jeddah,Construction,5819,262,5211.39,4.5
+2023Q1,Jeddah,Finance & Insurance,2090,98,5826.76,4.69
+2023Q1,Jeddah,Healthcare,3910,235,5013.53,6.01
+2023Q1,Jeddah,Hospitality & Tourism,4149,269,6038.61,6.48
+2023Q1,Jeddah,Information Technology,2356,231,5719.77,9.8
+2023Q1,Jeddah,Manufacturing,4162,188,4779.21,4.52
+2023Q1,Jeddah,Transport & Logistics,4835,203,5916.29,4.2
+2023Q1,Jeddah,Wholesale & Retail,6335,283,4502.2,4.47
+2023Q1,Khobar,Construction,5935,262,4895.63,4.41
+2023Q1,Khobar,Finance & Insurance,2096,114,5296.95,5.44
+2023Q1,Khobar,Healthcare,3565,206,5257.17,5.78
+2023Q1,Khobar,Hospitality & Tourism,4174,313,4949.17,7.5
+2023Q1,Khobar,Information Technology,2082,173,6126.11,8.31
+2023Q1,Khobar,Manufacturing,4082,184,5037.46,4.51
+2023Q1,Khobar,Transport & Logistics,4867,236,5443.08,4.85
+2023Q1,Khobar,Wholesale & Retail,6212,292,5477.78,4.7
+2023Q1,Madinah,Construction,3250,162,5134.02,4.98
+2023Q1,Madinah,Finance & Insurance,1477,87,5269.54,5.89
+2023Q1,Madinah,Healthcare,2074,129,5678.19,6.22
+2023Q1,Madinah,Hospitality & Tourism,2828,220,5150.52,7.78
+2023Q1,Madinah,Information Technology,1041,104,5634.88,9.99
+2023Q1,Madinah,Manufacturing,2022,86,4562.8,4.25
+2023Q1,Madinah,Transport & Logistics,2854,104,6021.57,3.64
+2023Q1,Madinah,Wholesale & Retail,3297,157,5590.22,4.76
+2023Q1,Makkah,Construction,3017,129,5232.42,4.28
+2023Q1,Makkah,Finance & Insurance,1069,74,5881.85,6.92
+2023Q1,Makkah,Healthcare,2111,112,4257.28,5.31
+2023Q1,Makkah,Hospitality & Tourism,2123,147,7066.16,6.92
+2023Q1,Makkah,Information Technology,1283,103,5460.15,8.03
+2023Q1,Makkah,Manufacturing,2207,80,5504.95,3.62
+2023Q1,Makkah,Transport & Logistics,2342,84,5837.37,3.59
+2023Q1,Makkah,Wholesale & Retail,3211,124,5713.61,3.86
+2023Q1,Riyadh,Construction,7402,358,5188.25,4.84
+2023Q1,Riyadh,Finance & Insurance,2311,112,4928.48,4.85
+2023Q1,Riyadh,Healthcare,5091,298,5836.52,5.85
+2023Q1,Riyadh,Hospitality & Tourism,6046,437,5193.16,7.23
+2023Q1,Riyadh,Information Technology,3210,278,5667.64,8.66
+2023Q1,Riyadh,Manufacturing,5287,236,5317.36,4.46
+2023Q1,Riyadh,Transport & Logistics,6280,243,4189.85,3.87
+2023Q1,Riyadh,Wholesale & Retail,8386,409,6343.33,4.88
+2023Q1,Tabuk,Construction,3247,175,4735.14,5.39
+2023Q1,Tabuk,Finance & Insurance,1289,45,4874.08,3.49
+2023Q1,Tabuk,Healthcare,1850,108,4500.25,5.84
+2023Q1,Tabuk,Hospitality & Tourism,2396,191,5816.21,7.97
+2023Q1,Tabuk,Information Technology,1481,141,5767.28,9.52
+2023Q1,Tabuk,Manufacturing,1741,93,5088.9,5.34
+2023Q1,Tabuk,Transport & Logistics,2414,136,5134.97,5.63
+2023Q1,Tabuk,Wholesale & Retail,3497,163,5319.04,4.66
+2023Q1,Taif,Construction,2951,141,4412.45,4.78
+2023Q1,Taif,Finance & Insurance,849,46,6208.27,5.42
+2023Q1,Taif,Healthcare,2147,115,5759.14,5.36
+2023Q1,Taif,Hospitality & Tourism,2253,150,5122.04,6.66
+2023Q1,Taif,Information Technology,1630,152,5216.14,9.33
+2023Q1,Taif,Manufacturing,2091,84,3984.88,4.02
+2023Q1,Taif,Transport & Logistics,2517,114,5122.21,4.53
+2023Q1,Taif,Wholesale & Retail,3518,157,6011.1,4.46
+2023Q2,Abha,Construction,2965,142,4688.26,4.79
+2023Q2,Abha,Finance & Insurance,1155,59,4554.99,5.11
+2023Q2,Abha,Healthcare,1906,132,5997.26,6.93
+2023Q2,Abha,Hospitality & Tourism,2104,140,5194.14,6.65
+2023Q2,Abha,Information Technology,1318,115,5675.97,8.73
+2023Q2,Abha,Manufacturing,1913,89,5688.78,4.65
+2023Q2,Abha,Transport & Logistics,2338,99,5215.08,4.23
+2023Q2,Abha,Wholesale & Retail,3286,136,4725.77,4.14
+2023Q2,Al Ahsa,Construction,2912,109,4188.29,3.74
+2023Q2,Al Ahsa,Finance & Insurance,779,1,4836.95,0.13
+2023Q2,Al Ahsa,Healthcare,2127,142,5298.83,6.68
+2023Q2,Al Ahsa,Hospitality & Tourism,2415,169,5589.44,7.0
+2023Q2,Al Ahsa,Information Technology,1539,142,5560.13,9.23
+2023Q2,Al Ahsa,Manufacturing,2238,88,5458.94,3.93
+2023Q2,Al Ahsa,Transport & Logistics,2478,102,5342.8,4.12
+2023Q2,Al Ahsa,Wholesale & Retail,3385,170,5914.46,5.02
+2023Q2,Dammam,Construction,5997,254,5341.27,4.24
+2023Q2,Dammam,Finance & Insurance,1800,87,5061.31,4.83
+2023Q2,Dammam,Healthcare,3627,227,5695.83,6.26
+2023Q2,Dammam,Hospitality & Tourism,4258,278,6205.54,6.53
+2023Q2,Dammam,Information Technology,2499,216,6169.17,8.64
+2023Q2,Dammam,Manufacturing,3866,149,4763.92,3.85
+2023Q2,Dammam,Transport & Logistics,4695,207,5647.08,4.41
+2023Q2,Dammam,Wholesale & Retail,6291,257,5487.3,4.09
+2023Q2,Jeddah,Construction,5797,251,5483.19,4.33
+2023Q2,Jeddah,Finance & Insurance,2109,83,4777.36,3.94
+2023Q2,Jeddah,Healthcare,4016,232,4979.69,5.78
+2023Q2,Jeddah,Hospitality & Tourism,4226,308,5028.04,7.29
+2023Q2,Jeddah,Information Technology,2731,240,6016.16,8.79
+2023Q2,Jeddah,Manufacturing,4154,166,4920.24,4.0
+2023Q2,Jeddah,Transport & Logistics,4902,185,5512.27,3.77
+2023Q2,Jeddah,Wholesale & Retail,6578,295,4796.43,4.48
+2023Q2,Khobar,Construction,5878,249,4094.05,4.24
+2023Q2,Khobar,Finance & Insurance,1859,84,4819.5,4.52
+2023Q2,Khobar,Healthcare,3704,244,5577.16,6.59
+2023Q2,Khobar,Hospitality & Tourism,4099,272,4349.37,6.64
+2023Q2,Khobar,Information Technology,2666,251,5548.68,9.41
+2023Q2,Khobar,Manufacturing,4261,207,5263.03,4.86
+2023Q2,Khobar,Transport & Logistics,4650,197,5573.29,4.24
+2023Q2,Khobar,Wholesale & Retail,6521,319,4883.73,4.89
+2023Q2,Madinah,Construction,2817,114,4259.42,4.05
+2023Q2,Madinah,Finance & Insurance,992,46,5977.37,4.64
+2023Q2,Madinah,Healthcare,1848,120,4227.77,6.49
+2023Q2,Madinah,Hospitality & Tourism,2286,162,5782.31,7.09
+2023Q2,Madinah,Information Technology,1387,102,4681.18,7.35
+2023Q2,Madinah,Manufacturing,2140,87,4536.15,4.07
+2023Q2,Madinah,Transport & Logistics,2470,97,5380.7,3.93
+2023Q2,Madinah,Wholesale & Retail,3279,138,5617.87,4.21
+2023Q2,Makkah,Construction,3369,137,5448.89,4.07
+2023Q2,Makkah,Finance & Insurance,848,44,6056.07,5.19
+2023Q2,Makkah,Healthcare,1617,77,4779.91,4.76
+2023Q2,Makkah,Hospitality & Tourism,2709,177,4984.45,6.53
+2023Q2,Makkah,Information Technology,1295,79,4900.09,6.1
+2023Q2,Makkah,Manufacturing,2172,79,5854.68,3.64
+2023Q2,Makkah,Transport & Logistics,2410,103,5126.39,4.27
+2023Q2,Makkah,Wholesale & Retail,3772,160,6375.17,4.24
+2023Q2,Riyadh,Construction,7498,360,5072.95,4.8
+2023Q2,Riyadh,Finance & Insurance,1987,92,6029.58,4.63
+2023Q2,Riyadh,Healthcare,5335,330,6254.44,6.19
+2023Q2,Riyadh,Hospitality & Tourism,5290,388,5260.87,7.33
+2023Q2,Riyadh,Information Technology,3307,267,4672.41,8.07
+2023Q2,Riyadh,Manufacturing,4848,237,5869.37,4.89
+2023Q2,Riyadh,Transport & Logistics,6517,287,5665.28,4.4
+2023Q2,Riyadh,Wholesale & Retail,8773,380,6435.2,4.33
+2023Q2,Tabuk,Construction,3463,173,3995.58,5.0
+2023Q2,Tabuk,Finance & Insurance,926,20,5809.93,2.16
+2023Q2,Tabuk,Healthcare,1797,110,5143.63,6.12
+2023Q2,Tabuk,Hospitality & Tourism,2006,153,5588.35,7.63
+2023Q2,Tabuk,Information Technology,1043,71,6477.04,6.81
+2023Q2,Tabuk,Manufacturing,2096,88,5407.58,4.2
+2023Q2,Tabuk,Transport & Logistics,2298,94,6382.45,4.09
+2023Q2,Tabuk,Wholesale & Retail,2836,129,5136.05,4.55
+2023Q2,Taif,Construction,3255,126,5986.61,3.87
+2023Q2,Taif,Finance & Insurance,925,50,5652.99,5.41
+2023Q2,Taif,Healthcare,1843,145,5847.1,7.87
+2023Q2,Taif,Hospitality & Tourism,2365,142,4600.51,6.0
+2023Q2,Taif,Information Technology,1361,118,5720.49,8.67
+2023Q2,Taif,Manufacturing,1882,89,4987.8,4.73
+2023Q2,Taif,Transport & Logistics,2495,117,6092.96,4.69
+2023Q2,Taif,Wholesale & Retail,3422,135,5783.93,3.95
+2023Q3,Abha,Construction,3230,152,5024.53,4.71
+2023Q3,Abha,Finance & Insurance,914,43,4891.1,4.7
+2023Q3,Abha,Healthcare,1814,122,5936.35,6.73
+2023Q3,Abha,Hospitality & Tourism,2176,146,5101.05,6.71
+2023Q3,Abha,Information Technology,1246,112,5875.02,8.99
+2023Q3,Abha,Manufacturing,2161,80,5235.97,3.7
+2023Q3,Abha,Transport & Logistics,2545,106,5125.78,4.17
+2023Q3,Abha,Wholesale & Retail,3391,181,5783.79,5.34
+2023Q3,Al Ahsa,Construction,2940,115,4870.35,3.91
+2023Q3,Al Ahsa,Finance & Insurance,815,46,5159.6,5.64
+2023Q3,Al Ahsa,Healthcare,1964,110,4588.36,5.6
+2023Q3,Al Ahsa,Hospitality & Tourism,2255,138,5208.17,6.12
+2023Q3,Al Ahsa,Information Technology,1101,101,5337.48,9.17
+2023Q3,Al Ahsa,Manufacturing,2051,92,5157.14,4.49
+2023Q3,Al Ahsa,Transport & Logistics,2459,98,5529.0,3.99
+2023Q3,Al Ahsa,Wholesale & Retail,3523,169,4970.29,4.8
+2023Q3,Dammam,Construction,5822,258,4580.42,4.43
+2023Q3,Dammam,Finance & Insurance,1720,89,6257.87,5.17
+2023Q3,Dammam,Healthcare,4075,264,5631.97,6.48
+2023Q3,Dammam,Hospitality & Tourism,4009,245,5327.53,6.11
+2023Q3,Dammam,Information Technology,2424,198,6043.81,8.17
+2023Q3,Dammam,Manufacturing,3889,186,5045.95,4.78
+2023Q3,Dammam,Transport & Logistics,4966,214,5093.15,4.31
+2023Q3,Dammam,Wholesale & Retail,6297,273,6125.08,4.34
+2023Q3,Jeddah,Construction,5921,283,3643.56,4.78
+2023Q3,Jeddah,Finance & Insurance,2149,106,5025.63,4.93
+2023Q3,Jeddah,Healthcare,3940,226,5045.62,5.74
+2023Q3,Jeddah,Hospitality & Tourism,4546,306,4758.97,6.73
+2023Q3,Jeddah,Information Technology,2434,208,5548.04,8.55
+2023Q3,Jeddah,Manufacturing,3827,172,5265.47,4.49
+2023Q3,Jeddah,Transport & Logistics,4595,197,5772.6,4.29
+2023Q3,Jeddah,Wholesale & Retail,6585,307,4959.53,4.66
+2023Q3,Khobar,Construction,6022,257,5203.22,4.27
+2023Q3,Khobar,Finance & Insurance,1854,77,4858.65,4.15
+2023Q3,Khobar,Healthcare,3930,242,5263.28,6.16
+2023Q3,Khobar,Hospitality & Tourism,4428,284,6018.87,6.41
+2023Q3,Khobar,Information Technology,2526,212,4596.05,8.39
+2023Q3,Khobar,Manufacturing,4119,163,4475.45,3.96
+2023Q3,Khobar,Transport & Logistics,4708,231,5262.48,4.91
+2023Q3,Khobar,Wholesale & Retail,6659,301,5300.54,4.52
+2023Q3,Madinah,Construction,2847,130,4792.93,4.57
+2023Q3,Madinah,Finance & Insurance,1182,74,4602.75,6.26
+2023Q3,Madinah,Healthcare,1968,130,5543.0,6.61
+2023Q3,Madinah,Hospitality & Tourism,2208,146,5777.24,6.61
+2023Q3,Madinah,Information Technology,1066,94,5527.97,8.82
+2023Q3,Madinah,Manufacturing,2053,119,5909.75,5.8
+2023Q3,Madinah,Transport & Logistics,2402,127,4597.48,5.29
+2023Q3,Madinah,Wholesale & Retail,3003,172,4832.13,5.73
+2023Q3,Makkah,Construction,2959,120,5149.47,4.06
+2023Q3,Makkah,Finance & Insurance,1229,89,5923.32,7.24
+2023Q3,Makkah,Healthcare,2345,134,6284.59,5.71
+2023Q3,Makkah,Hospitality & Tourism,2189,141,4807.84,6.44
+2023Q3,Makkah,Information Technology,1560,137,5199.57,8.78
+2023Q3,Makkah,Manufacturing,1825,73,4480.26,4.0
+2023Q3,Makkah,Transport & Logistics,2763,109,6852.02,3.94
+2023Q3,Makkah,Wholesale & Retail,3051,156,5919.95,5.11
+2023Q3,Riyadh,Construction,7757,362,5336.51,4.67
+2023Q3,Riyadh,Finance & Insurance,2248,88,5011.26,3.91
+2023Q3,Riyadh,Healthcare,4798,305,5537.57,6.36
+2023Q3,Riyadh,Hospitality & Tourism,5588,403,5972.47,7.21
+2023Q3,Riyadh,Information Technology,3250,274,4955.41,8.43
+2023Q3,Riyadh,Manufacturing,5019,224,5233.11,4.46
+2023Q3,Riyadh,Transport & Logistics,5841,258,5923.99,4.42
+2023Q3,Riyadh,Wholesale & Retail,8500,388,5368.3,4.56
+2023Q3,Tabuk,Construction,2968,157,5034.39,5.29
+2023Q3,Tabuk,Finance & Insurance,1003,52,4892.7,5.18
+2023Q3,Tabuk,Healthcare,2032,97,6419.31,4.77
+2023Q3,Tabuk,Hospitality & Tourism,2429,184,5320.62,7.58
+2023Q3,Tabuk,Information Technology,1127,96,6175.01,8.52
+2023Q3,Tabuk,Manufacturing,2112,118,4762.86,5.59
+2023Q3,Tabuk,Transport & Logistics,2708,126,5072.21,4.65
+2023Q3,Tabuk,Wholesale & Retail,3356,130,6611.4,3.87
+2023Q3,Taif,Construction,3060,121,4736.74,3.95
+2023Q3,Taif,Finance & Insurance,1042,71,6036.23,6.81
+2023Q3,Taif,Healthcare,1689,95,5735.5,5.62
+2023Q3,Taif,Hospitality & Tourism,2227,149,6423.79,6.69
+2023Q3,Taif,Information Technology,898,80,5425.74,8.91
+2023Q3,Taif,Manufacturing,1775,68,4828.61,3.83
+2023Q3,Taif,Transport & Logistics,2610,125,5691.37,4.79
+2023Q3,Taif,Wholesale & Retail,3382,148,5338.85,4.38
+2023Q4,Abha,Construction,3372,125,5552.06,3.71
+2023Q4,Abha,Finance & Insurance,718,46,5425.88,6.41
+2023Q4,Abha,Healthcare,1908,117,4379.83,6.13
+2023Q4,Abha,Hospitality & Tourism,2150,150,5230.35,6.98
+2023Q4,Abha,Information Technology,1651,140,5711.64,8.48
+2023Q4,Abha,Manufacturing,2090,99,4911.28,4.74
+2023Q4,Abha,Transport & Logistics,2672,122,5397.77,4.57
+2023Q4,Abha,Wholesale & Retail,3281,160,6052.05,4.88
+2023Q4,Al Ahsa,Construction,2993,121,4147.67,4.04
+2023Q4,Al Ahsa,Finance & Insurance,902,37,5065.36,4.1
+2023Q4,Al Ahsa,Healthcare,2349,154,5275.8,6.56
+2023Q4,Al Ahsa,Hospitality & Tourism,2243,167,5291.51,7.45
+2023Q4,Al Ahsa,Information Technology,985,64,4671.27,6.5
+2023Q4,Al Ahsa,Manufacturing,2169,108,4102.56,4.98
+2023Q4,Al Ahsa,Transport & Logistics,2914,139,6173.51,4.77
+2023Q4,Al Ahsa,Wholesale & Retail,3377,134,5768.48,3.97
+2023Q4,Dammam,Construction,5937,281,4728.2,4.73
+2023Q4,Dammam,Finance & Insurance,1783,92,4975.66,5.16
+2023Q4,Dammam,Healthcare,3677,203,5585.82,5.52
+2023Q4,Dammam,Hospitality & Tourism,4458,349,5177.54,7.83
+2023Q4,Dammam,Information Technology,2655,247,5159.64,9.3
+2023Q4,Dammam,Manufacturing,3782,166,4350.01,4.39
+2023Q4,Dammam,Transport & Logistics,4849,216,4888.59,4.45
+2023Q4,Dammam,Wholesale & Retail,6677,280,4748.02,4.19
+2023Q4,Jeddah,Construction,5740,262,4442.21,4.56
+2023Q4,Jeddah,Finance & Insurance,2095,122,5528.28,5.82
+2023Q4,Jeddah,Healthcare,3634,215,5231.1,5.92
+2023Q4,Jeddah,Hospitality & Tourism,4343,287,4732.85,6.61
+2023Q4,Jeddah,Information Technology,2211,196,5800.5,8.86
+2023Q4,Jeddah,Manufacturing,3957,153,5618.5,3.87
+2023Q4,Jeddah,Transport & Logistics,5297,257,5272.12,4.85
+2023Q4,Jeddah,Wholesale & Retail,6212,232,5302.51,3.73
+2023Q4,Khobar,Construction,5906,248,4976.28,4.2
+2023Q4,Khobar,Finance & Insurance,1810,85,5850.03,4.7
+2023Q4,Khobar,Healthcare,3686,229,6098.44,6.21
+2023Q4,Khobar,Hospitality & Tourism,4465,285,5566.86,6.38
+2023Q4,Khobar,Information Technology,2660,217,5354.91,8.16
+2023Q4,Khobar,Manufacturing,3822,138,5171.42,3.61
+2023Q4,Khobar,Transport & Logistics,4799,217,5108.92,4.52
+2023Q4,Khobar,Wholesale & Retail,6440,278,5623.88,4.32
+2023Q4,Madinah,Construction,3008,143,4688.18,4.75
+2023Q4,Madinah,Finance & Insurance,1014,49,5849.39,4.83
+2023Q4,Madinah,Healthcare,1773,128,4825.2,7.22
+2023Q4,Madinah,Hospitality & Tourism,2223,175,4985.79,7.87
+2023Q4,Madinah,Information Technology,1184,95,5415.86,8.02
+2023Q4,Madinah,Manufacturing,2371,76,4943.55,3.21
+2023Q4,Madinah,Transport & Logistics,2791,88,6608.0,3.15
+2023Q4,Madinah,Wholesale & Retail,3363,158,5441.06,4.7
+2023Q4,Makkah,Construction,3098,145,5602.53,4.68
+2023Q4,Makkah,Finance & Insurance,1127,33,5548.01,2.93
+2023Q4,Makkah,Healthcare,1877,102,5943.19,5.43
+2023Q4,Makkah,Hospitality & Tourism,2299,156,5359.99,6.79
+2023Q4,Makkah,Information Technology,1159,95,5936.27,8.2
+2023Q4,Makkah,Manufacturing,2132,83,4123.36,3.89
+2023Q4,Makkah,Transport & Logistics,2531,114,5224.14,4.5
+2023Q4,Makkah,Wholesale & Retail,3619,150,5978.49,4.14
+2023Q4,Riyadh,Construction,7533,303,4754.14,4.02
+2023Q4,Riyadh,Finance & Insurance,2613,117,4705.76,4.48
+2023Q4,Riyadh,Healthcare,5166,321,5955.28,6.21
+2023Q4,Riyadh,Hospitality & Tourism,5864,414,5281.62,7.06
+2023Q4,Riyadh,Information Technology,3197,264,5291.66,8.26
+2023Q4,Riyadh,Manufacturing,4907,211,5160.3,4.3
+2023Q4,Riyadh,Transport & Logistics,6121,275,4925.53,4.49
+2023Q4,Riyadh,Wholesale & Retail,8327,404,5347.58,4.85
+2023Q4,Tabuk,Construction,3157,128,5953.2,4.05
+2023Q4,Tabuk,Finance & Insurance,733,28,5243.35,3.82
+2023Q4,Tabuk,Healthcare,2054,125,5348.11,6.09
+2023Q4,Tabuk,Hospitality & Tourism,2231,130,4383.92,5.83
+2023Q4,Tabuk,Information Technology,1504,134,5460.46,8.91
+2023Q4,Tabuk,Manufacturing,2003,86,5049.07,4.29
+2023Q4,Tabuk,Transport & Logistics,2708,111,5429.81,4.1
+2023Q4,Tabuk,Wholesale & Retail,3092,133,5052.14,4.3
+2023Q4,Taif,Construction,2703,103,5493.34,3.81
+2023Q4,Taif,Finance & Insurance,1229,84,4440.89,6.83
+2023Q4,Taif,Healthcare,2157,102,5661.73,4.73
+2023Q4,Taif,Hospitality & Tourism,2257,158,6647.77,7.0
+2023Q4,Taif,Information Technology,1173,78,5487.85,6.65
+2023Q4,Taif,Manufacturing,1866,92,5800.7,4.93
+2023Q4,Taif,Transport & Logistics,2879,152,4803.71,5.28
+2023Q4,Taif,Wholesale & Retail,3319,167,5376.49,5.03
+2024Q1,Abha,Construction,3131,132,5454.95,4.22
+2024Q1,Abha,Finance & Insurance,964,49,5878.05,5.08
+2024Q1,Abha,Healthcare,1947,113,5067.16,5.8
+2024Q1,Abha,Hospitality & Tourism,2252,168,5003.05,7.46
+2024Q1,Abha,Information Technology,1539,133,4606.34,8.64
+2024Q1,Abha,Manufacturing,2365,117,6183.19,4.95
+2024Q1,Abha,Transport & Logistics,2713,83,4677.85,3.06
+2024Q1,Abha,Wholesale & Retail,3414,157,6420.63,4.6
+2024Q1,Al Ahsa,Construction,2871,148,5188.17,5.15
+2024Q1,Al Ahsa,Finance & Insurance,894,36,5488.11,4.03
+2024Q1,Al Ahsa,Healthcare,1904,120,5992.14,6.3
+2024Q1,Al Ahsa,Hospitality & Tourism,2604,180,6319.86,6.91
+2024Q1,Al Ahsa,Information Technology,1577,135,4909.15,8.56
+2024Q1,Al Ahsa,Manufacturing,1841,74,4511.61,4.02
+2024Q1,Al Ahsa,Transport & Logistics,2694,119,5636.3,4.42
+2024Q1,Al Ahsa,Wholesale & Retail,3840,157,5256.12,4.09
+2024Q1,Dammam,Construction,5823,273,4824.53,4.69
+2024Q1,Dammam,Finance & Insurance,2113,107,5836.07,5.06
+2024Q1,Dammam,Healthcare,4105,256,4861.92,6.24
+2024Q1,Dammam,Hospitality & Tourism,4439,299,5235.56,6.74
+2024Q1,Dammam,Information Technology,2259,202,4903.58,8.94
+2024Q1,Dammam,Manufacturing,3707,174,5829.62,4.69
+2024Q1,Dammam,Transport & Logistics,4902,236,6114.12,4.81
+2024Q1,Dammam,Wholesale & Retail,6504,306,5617.71,4.7
+2024Q1,Jeddah,Construction,5901,277,5625.17,4.69
+2024Q1,Jeddah,Finance & Insurance,2106,112,4169.94,5.32
+2024Q1,Jeddah,Healthcare,3546,234,6223.53,6.6
+2024Q1,Jeddah,Hospitality & Tourism,4327,322,5691.61,7.44
+2024Q1,Jeddah,Information Technology,2405,211,6226.64,8.77
+2024Q1,Jeddah,Manufacturing,4293,199,5195.99,4.64
+2024Q1,Jeddah,Transport & Logistics,5126,216,6176.43,4.21
+2024Q1,Jeddah,Wholesale & Retail,6788,316,5610.92,4.66
+2024Q1,Khobar,Construction,6145,271,5237.53,4.41
+2024Q1,Khobar,Finance & Insurance,2272,105,4926.16,4.62
+2024Q1,Khobar,Healthcare,4158,239,4328.45,5.75
+2024Q1,Khobar,Hospitality & Tourism,4321,295,5799.43,6.83
+2024Q1,Khobar,Information Technology,2762,229,4764.2,8.29
+2024Q1,Khobar,Manufacturing,3983,187,5220.69,4.69
+2024Q1,Khobar,Transport & Logistics,5150,211,5620.63,4.1
+2024Q1,Khobar,Wholesale & Retail,6468,305,5570.86,4.72
+2024Q1,Madinah,Construction,3414,137,4568.07,4.01
+2024Q1,Madinah,Finance & Insurance,990,34,3896.88,3.43
+2024Q1,Madinah,Healthcare,1958,118,5525.72,6.03
+2024Q1,Madinah,Hospitality & Tourism,2748,193,6202.19,7.02
+2024Q1,Madinah,Information Technology,1545,146,5203.88,9.45
+2024Q1,Madinah,Manufacturing,2241,117,5280.32,5.22
+2024Q1,Madinah,Transport & Logistics,2866,99,5932.94,3.45
+2024Q1,Madinah,Wholesale & Retail,3292,192,5279.24,5.83
+2024Q1,Makkah,Construction,3233,134,5376.27,4.14
+2024Q1,Makkah,Finance & Insurance,1072,34,5785.82,3.17
+2024Q1,Makkah,Healthcare,1972,110,7046.68,5.58
+2024Q1,Makkah,Hospitality & Tourism,2507,165,6395.72,6.58
+2024Q1,Makkah,Information Technology,1399,111,4510.95,7.93
+2024Q1,Makkah,Manufacturing,2157,79,4776.83,3.66
+2024Q1,Makkah,Transport & Logistics,2796,133,5150.27,4.76
+2024Q1,Makkah,Wholesale & Retail,3309,153,5811.07,4.62
+2024Q1,Riyadh,Construction,7799,394,4341.98,5.05
+2024Q1,Riyadh,Finance & Insurance,2500,134,4773.52,5.36
+2024Q1,Riyadh,Healthcare,5255,297,4624.73,5.65
+2024Q1,Riyadh,Hospitality & Tourism,5444,404,6641.81,7.42
+2024Q1,Riyadh,Information Technology,3198,267,5194.14,8.35
+2024Q1,Riyadh,Manufacturing,5208,233,4735.27,4.47
+2024Q1,Riyadh,Transport & Logistics,6487,299,6755.56,4.61
+2024Q1,Riyadh,Wholesale & Retail,8508,372,6029.46,4.37
+2024Q1,Tabuk,Construction,3213,176,5331.43,5.48
+2024Q1,Tabuk,Finance & Insurance,912,53,5137.38,5.81
+2024Q1,Tabuk,Healthcare,1988,127,5286.42,6.39
+2024Q1,Tabuk,Hospitality & Tourism,2364,153,5894.31,6.47
+2024Q1,Tabuk,Information Technology,1124,90,5529.81,8.01
+2024Q1,Tabuk,Manufacturing,2106,118,5213.97,5.6
+2024Q1,Tabuk,Transport & Logistics,2368,121,5875.19,5.11
+2024Q1,Tabuk,Wholesale & Retail,3596,142,4859.13,3.95
+2024Q1,Taif,Construction,3115,158,5364.7,5.07
+2024Q1,Taif,Finance & Insurance,1038,44,6278.96,4.24
+2024Q1,Taif,Healthcare,1888,137,5631.12,7.26
+2024Q1,Taif,Hospitality & Tourism,2142,156,5980.92,7.28
+2024Q1,Taif,Information Technology,1362,126,5257.93,9.25
+2024Q1,Taif,Manufacturing,1914,72,5839.42,3.76
+2024Q1,Taif,Transport & Logistics,2594,112,6382.61,4.32
+2024Q1,Taif,Wholesale & Retail,3497,161,4617.33,4.6
+2024Q2,Abha,Construction,2930,131,4992.51,4.47
+2024Q2,Abha,Finance & Insurance,929,41,4558.44,4.41
+2024Q2,Abha,Healthcare,1945,118,5358.41,6.07
+2024Q2,Abha,Hospitality & Tourism,2437,170,4240.89,6.98
+2024Q2,Abha,Information Technology,1335,125,5586.74,9.36
+2024Q2,Abha,Manufacturing,2312,107,5268.32,4.63
+2024Q2,Abha,Transport & Logistics,2486,117,5889.53,4.71
+2024Q2,Abha,Wholesale & Retail,3740,175,5346.16,4.68
+2024Q2,Al Ahsa,Construction,2992,169,5549.5,5.65
+2024Q2,Al Ahsa,Finance & Insurance,780,66,4478.19,8.46
+2024Q2,Al Ahsa,Healthcare,2179,109,5701.15,5.0
+2024Q2,Al Ahsa,Hospitality & Tourism,2488,165,5799.47,6.63
+2024Q2,Al Ahsa,Information Technology,1505,154,5785.7,10.23
+2024Q2,Al Ahsa,Manufacturing,2089,96,4311.5,4.6
+2024Q2,Al Ahsa,Transport & Logistics,2334,123,5488.65,5.27
+2024Q2,Al Ahsa,Wholesale & Retail,3403,179,6624.3,5.26
+2024Q2,Dammam,Construction,5976,256,5515.18,4.28
+2024Q2,Dammam,Finance & Insurance,1771,81,4438.17,4.57
+2024Q2,Dammam,Healthcare,3634,207,5638.57,5.7
+2024Q2,Dammam,Hospitality & Tourism,4330,324,6110.68,7.48
+2024Q2,Dammam,Information Technology,2421,187,5522.83,7.72
+2024Q2,Dammam,Manufacturing,4064,196,4768.75,4.82
+2024Q2,Dammam,Transport & Logistics,4922,206,5446.35,4.19
+2024Q2,Dammam,Wholesale & Retail,6778,306,4538.01,4.51
+2024Q2,Jeddah,Construction,5977,253,4840.26,4.23
+2024Q2,Jeddah,Finance & Insurance,1784,69,6012.21,3.87
+2024Q2,Jeddah,Healthcare,3983,244,5346.11,6.13
+2024Q2,Jeddah,Hospitality & Tourism,4227,305,4813.74,7.22
+2024Q2,Jeddah,Information Technology,2281,193,6159.83,8.46
+2024Q2,Jeddah,Manufacturing,3842,181,6617.21,4.71
+2024Q2,Jeddah,Transport & Logistics,5046,228,4957.4,4.52
+2024Q2,Jeddah,Wholesale & Retail,6605,276,5202.83,4.18
+2024Q2,Khobar,Construction,6038,239,5274.47,3.96
+2024Q2,Khobar,Finance & Insurance,1697,129,5475.33,7.6
+2024Q2,Khobar,Healthcare,4182,255,5446.74,6.1
+2024Q2,Khobar,Hospitality & Tourism,4269,326,6305.29,7.64
+2024Q2,Khobar,Information Technology,2598,219,6047.03,8.43
+2024Q2,Khobar,Manufacturing,3988,176,4267.72,4.41
+2024Q2,Khobar,Transport & Logistics,4800,227,5185.52,4.73
+2024Q2,Khobar,Wholesale & Retail,7068,316,5150.64,4.47
+2024Q2,Madinah,Construction,3163,137,4727.38,4.33
+2024Q2,Madinah,Finance & Insurance,1019,68,4366.69,6.67
+2024Q2,Madinah,Healthcare,2381,153,4706.13,6.43
+2024Q2,Madinah,Hospitality & Tourism,2126,154,5474.38,7.24
+2024Q2,Madinah,Information Technology,1654,140,6480.62,8.46
+2024Q2,Madinah,Manufacturing,1994,67,5180.26,3.36
+2024Q2,Madinah,Transport & Logistics,2668,148,5199.85,5.55
+2024Q2,Madinah,Wholesale & Retail,3396,138,5661.97,4.06
+2024Q2,Makkah,Construction,2999,108,5936.55,3.6
+2024Q2,Makkah,Finance & Insurance,1026,21,4141.07,2.05
+2024Q2,Makkah,Healthcare,2182,130,5487.91,5.96
+2024Q2,Makkah,Hospitality & Tourism,2370,188,5216.08,7.93
+2024Q2,Makkah,Information Technology,1248,107,6683.09,8.57
+2024Q2,Makkah,Manufacturing,2141,96,4347.14,4.48
+2024Q2,Makkah,Transport & Logistics,2633,121,5638.93,4.6
+2024Q2,Makkah,Wholesale & Retail,3646,145,5997.15,3.98
+2024Q2,Riyadh,Construction,8152,338,4286.17,4.15
+2024Q2,Riyadh,Finance & Insurance,2355,93,5167.15,3.95
+2024Q2,Riyadh,Healthcare,5063,302,5900.38,5.96
+2024Q2,Riyadh,Hospitality & Tourism,5916,398,5884.33,6.73
+2024Q2,Riyadh,Information Technology,3191,281,4987.23,8.81
+2024Q2,Riyadh,Manufacturing,4984,208,6052.22,4.17
+2024Q2,Riyadh,Transport & Logistics,6574,289,4799.35,4.4
+2024Q2,Riyadh,Wholesale & Retail,8381,380,5429.82,4.53
+2024Q2,Tabuk,Construction,3304,152,5473.53,4.6
+2024Q2,Tabuk,Finance & Insurance,1222,61,5552.31,4.99
+2024Q2,Tabuk,Healthcare,1832,113,4751.63,6.17
+2024Q2,Tabuk,Hospitality & Tourism,2369,171,5572.69,7.22
+2024Q2,Tabuk,Information Technology,1630,152,5411.5,9.33
+2024Q2,Tabuk,Manufacturing,1881,73,6593.55,3.88
+2024Q2,Tabuk,Transport & Logistics,2433,108,5329.54,4.44
+2024Q2,Tabuk,Wholesale & Retail,3597,168,5439.4,4.67
+2024Q2,Taif,Construction,3208,136,5970.82,4.24
+2024Q2,Taif,Finance & Insurance,903,58,5278.59,6.42
+2024Q2,Taif,Healthcare,1848,97,5381.41,5.25
+2024Q2,Taif,Hospitality & Tourism,2123,162,5370.22,7.63
+2024Q2,Taif,Information Technology,1331,126,5992.68,9.47
+2024Q2,Taif,Manufacturing,2123,106,5720.22,4.99
+2024Q2,Taif,Transport & Logistics,2781,128,5360.18,4.6
+2024Q2,Taif,Wholesale & Retail,3667,171,5369.88,4.66
+2024Q3,Abha,Construction,3047,112,4889.87,3.68
+2024Q3,Abha,Finance & Insurance,992,39,6421.71,3.93
+2024Q3,Abha,Healthcare,2149,130,5560.41,6.05
+2024Q3,Abha,Hospitality & Tourism,2344,173,5973.2,7.38
+2024Q3,Abha,Information Technology,1586,172,5203.32,10.84
+2024Q3,Abha,Manufacturing,2372,117,6170.54,4.93
+2024Q3,Abha,Transport & Logistics,3053,151,4961.47,4.95
+2024Q3,Abha,Wholesale & Retail,3309,137,4341.97,4.14
+2024Q3,Al Ahsa,Construction,3290,117,4557.12,3.56
+2024Q3,Al Ahsa,Finance & Insurance,1398,94,4783.45,6.72
+2024Q3,Al Ahsa,Healthcare,1790,106,5838.56,5.92
+2024Q3,Al Ahsa,Hospitality & Tourism,2376,129,5423.01,5.43
+2024Q3,Al Ahsa,Information Technology,1372,135,5666.66,9.84
+2024Q3,Al Ahsa,Manufacturing,2261,106,5414.3,4.69
+2024Q3,Al Ahsa,Transport & Logistics,2688,124,5555.16,4.61
+2024Q3,Al Ahsa,Wholesale & Retail,3599,161,5490.63,4.47
+2024Q3,Dammam,Construction,5858,259,4383.83,4.42
+2024Q3,Dammam,Finance & Insurance,1962,113,5478.79,5.76
+2024Q3,Dammam,Healthcare,3903,233,5162.52,5.97
+2024Q3,Dammam,Hospitality & Tourism,4343,316,5644.2,7.28
+2024Q3,Dammam,Information Technology,2423,203,5423.06,8.38
+2024Q3,Dammam,Manufacturing,4123,169,5142.94,4.1
+2024Q3,Dammam,Transport & Logistics,5011,225,5561.35,4.49
+2024Q3,Dammam,Wholesale & Retail,6354,295,5249.09,4.64
+2024Q3,Jeddah,Construction,5765,268,5172.3,4.65
+2024Q3,Jeddah,Finance & Insurance,1750,76,4836.14,4.34
+2024Q3,Jeddah,Healthcare,3614,222,5307.45,6.14
+2024Q3,Jeddah,Hospitality & Tourism,4333,310,5079.21,7.15
+2024Q3,Jeddah,Information Technology,2828,217,5148.74,7.67
+2024Q3,Jeddah,Manufacturing,3945,187,4960.54,4.74
+2024Q3,Jeddah,Transport & Logistics,5026,204,4354.36,4.06
+2024Q3,Jeddah,Wholesale & Retail,6679,300,5359.03,4.49
+2024Q3,Khobar,Construction,5811,246,5815.81,4.23
+2024Q3,Khobar,Finance & Insurance,1932,91,4656.86,4.71
+2024Q3,Khobar,Healthcare,3903,233,5341.38,5.97
+2024Q3,Khobar,Hospitality & Tourism,4495,293,5526.07,6.52
+2024Q3,Khobar,Information Technology,2529,211,5336.54,8.34
+2024Q3,Khobar,Manufacturing,3798,163,6229.74,4.29
+2024Q3,Khobar,Transport & Logistics,5151,209,6880.91,4.06
+2024Q3,Khobar,Wholesale & Retail,6529,289,5162.68,4.43
+2024Q3,Madinah,Construction,3524,168,5672.24,4.77
+2024Q3,Madinah,Finance & Insurance,1040,45,6402.94,4.33
+2024Q3,Madinah,Healthcare,2089,137,5192.85,6.56
+2024Q3,Madinah,Hospitality & Tourism,2302,151,5754.26,6.56
+2024Q3,Madinah,Information Technology,1349,136,5408.25,10.08
+2024Q3,Madinah,Manufacturing,2044,81,4610.1,3.96
+2024Q3,Madinah,Transport & Logistics,2647,110,4739.06,4.16
+2024Q3,Madinah,Wholesale & Retail,3418,151,5298.21,4.42
+2024Q3,Makkah,Construction,3069,140,4840.36,4.56
+2024Q3,Makkah,Finance & Insurance,1417,67,6015.06,4.73
+2024Q3,Makkah,Healthcare,1978,136,5722.06,6.88
+2024Q3,Makkah,Hospitality & Tourism,1842,138,6886.57,7.49
+2024Q3,Makkah,Information Technology,1261,103,6224.51,8.17
+2024Q3,Makkah,Manufacturing,1807,68,6218.62,3.76
+2024Q3,Makkah,Transport & Logistics,2254,131,4980.44,5.81
+2024Q3,Makkah,Wholesale & Retail,3168,148,5086.65,4.67
+2024Q3,Riyadh,Construction,7817,349,5604.09,4.46
+2024Q3,Riyadh,Finance & Insurance,2353,106,4766.02,4.5
+2024Q3,Riyadh,Healthcare,5030,300,4547.05,5.96
+2024Q3,Riyadh,Hospitality & Tourism,5648,413,5142.1,7.31
+2024Q3,Riyadh,Information Technology,3596,299,5821.95,8.31
+2024Q3,Riyadh,Manufacturing,4956,212,4253.65,4.28
+2024Q3,Riyadh,Transport & Logistics,6420,304,5527.15,4.74
+2024Q3,Riyadh,Wholesale & Retail,8513,382,5799.06,4.49
+2024Q3,Tabuk,Construction,2931,139,5266.47,4.74
+2024Q3,Tabuk,Finance & Insurance,924,72,5225.54,7.79
+2024Q3,Tabuk,Healthcare,2197,120,4213.66,5.46
+2024Q3,Tabuk,Hospitality & Tourism,2251,155,5649.74,6.89
+2024Q3,Tabuk,Information Technology,1348,116,5598.98,8.61
+2024Q3,Tabuk,Manufacturing,1992,91,5173.98,4.57
+2024Q3,Tabuk,Transport & Logistics,2704,121,5707.61,4.47
+2024Q3,Tabuk,Wholesale & Retail,3570,159,4552.86,4.45
+2024Q3,Taif,Construction,3119,152,6079.06,4.87
+2024Q3,Taif,Finance & Insurance,903,39,5190.59,4.32
+2024Q3,Taif,Healthcare,2182,118,5959.84,5.41
+2024Q3,Taif,Hospitality & Tourism,2142,175,5897.06,8.17
+2024Q3,Taif,Information Technology,1424,100,5745.95,7.02
+2024Q3,Taif,Manufacturing,1619,93,6185.82,5.74
+2024Q3,Taif,Transport & Logistics,2596,130,5076.31,5.01
+2024Q3,Taif,Wholesale & Retail,3353,144,6013.03,4.29
+2024Q4,Abha,Construction,3268,143,4746.26,4.38
+2024Q4,Abha,Finance & Insurance,762,5,5961.93,0.66
+2024Q4,Abha,Healthcare,1978,84,5944.78,4.25
+2024Q4,Abha,Hospitality & Tourism,2064,157,5433.28,7.61
+2024Q4,Abha,Information Technology,1252,101,6491.85,8.07
+2024Q4,Abha,Manufacturing,1738,99,4935.34,5.7
+2024Q4,Abha,Transport & Logistics,2625,111,6454.17,4.23
+2024Q4,Abha,Wholesale & Retail,3765,195,4549.51,5.18
+2024Q4,Al Ahsa,Construction,2913,100,5463.62,3.43
+2024Q4,Al Ahsa,Finance & Insurance,913,47,5273.24,5.15
+2024Q4,Al Ahsa,Healthcare,1968,118,6127.96,6.0
+2024Q4,Al Ahsa,Hospitality & Tourism,2210,134,5919.86,6.06
+2024Q4,Al Ahsa,Information Technology,1192,104,4499.74,8.72
+2024Q4,Al Ahsa,Manufacturing,2412,103,5200.91,4.27
+2024Q4,Al Ahsa,Transport & Logistics,3017,102,5723.54,3.38
+2024Q4,Al Ahsa,Wholesale & Retail,3401,160,6373.14,4.7
+2024Q4,Dammam,Construction,5949,240,5613.87,4.03
+2024Q4,Dammam,Finance & Insurance,1846,85,5248.53,4.6
+2024Q4,Dammam,Healthcare,3837,231,5416.78,6.02
+2024Q4,Dammam,Hospitality & Tourism,4596,295,5368.79,6.42
+2024Q4,Dammam,Information Technology,2555,247,6055.89,9.67
+2024Q4,Dammam,Manufacturing,3821,173,5483.31,4.53
+2024Q4,Dammam,Transport & Logistics,5091,228,5421.92,4.48
+2024Q4,Dammam,Wholesale & Retail,6463,283,5162.51,4.38
+2024Q4,Jeddah,Construction,5748,260,3682.32,4.52
+2024Q4,Jeddah,Finance & Insurance,2022,76,5255.51,3.76
+2024Q4,Jeddah,Healthcare,3917,222,5699.48,5.67
+2024Q4,Jeddah,Hospitality & Tourism,4490,320,4446.09,7.13
+2024Q4,Jeddah,Information Technology,2485,207,5867.36,8.33
+2024Q4,Jeddah,Manufacturing,4282,212,4568.75,4.95
+2024Q4,Jeddah,Transport & Logistics,5206,231,5989.71,4.44
+2024Q4,Jeddah,Wholesale & Retail,6656,296,5212.58,4.45
+2024Q4,Khobar,Construction,6101,274,5268.42,4.49
+2024Q4,Khobar,Finance & Insurance,1885,83,4615.7,4.4
+2024Q4,Khobar,Healthcare,3880,244,5593.16,6.29
+2024Q4,Khobar,Hospitality & Tourism,4291,319,4889.64,7.43
+2024Q4,Khobar,Information Technology,2432,199,5369.53,8.18
+2024Q4,Khobar,Manufacturing,3836,182,5240.59,4.74
+2024Q4,Khobar,Transport & Logistics,4982,230,6205.28,4.62
+2024Q4,Khobar,Wholesale & Retail,6709,297,4601.83,4.43
+2024Q4,Madinah,Construction,2997,154,5850.39,5.14
+2024Q4,Madinah,Finance & Insurance,860,50,5681.29,5.81
+2024Q4,Madinah,Healthcare,2157,158,5246.82,7.32
+2024Q4,Madinah,Hospitality & Tourism,2133,179,6163.83,8.39
+2024Q4,Madinah,Information Technology,1560,141,5899.36,9.04
+2024Q4,Madinah,Manufacturing,2268,104,5047.27,4.59
+2024Q4,Madinah,Transport & Logistics,2534,104,5229.87,4.1
+2024Q4,Madinah,Wholesale & Retail,3757,149,4948.71,3.97
+2024Q4,Makkah,Construction,3337,148,5938.44,4.44
+2024Q4,Makkah,Finance & Insurance,919,49,4778.69,5.33
+2024Q4,Makkah,Healthcare,2256,149,6032.06,6.6
+2024Q4,Makkah,Hospitality & Tourism,2377,169,4977.47,7.11
+2024Q4,Makkah,Information Technology,1404,110,4736.18,7.83
+2024Q4,Makkah,Manufacturing,2188,88,5425.88,4.02
+2024Q4,Makkah,Transport & Logistics,2586,120,6474.03,4.64
+2024Q4,Makkah,Wholesale & Retail,3337,162,5840.88,4.85
+2024Q4,Riyadh,Construction,7743,354,5689.83,4.57
+2024Q4,Riyadh,Finance & Insurance,2510,90,4955.93,3.59
+2024Q4,Riyadh,Healthcare,4757,276,4920.82,5.8
+2024Q4,Riyadh,Hospitality & Tourism,5603,398,7130.17,7.1
+2024Q4,Riyadh,Information Technology,2893,241,6506.93,8.33
+2024Q4,Riyadh,Manufacturing,5303,216,4961.65,4.07
+2024Q4,Riyadh,Transport & Logistics,6580,299,4602.5,4.54
+2024Q4,Riyadh,Wholesale & Retail,8492,396,5169.95,4.66
+2024Q4,Tabuk,Construction,3113,161,5988.15,5.17
+2024Q4,Tabuk,Finance & Insurance,789,55,5346.21,6.97
+2024Q4,Tabuk,Healthcare,2360,143,4877.18,6.06
+2024Q4,Tabuk,Hospitality & Tourism,2236,152,5842.19,6.8
+2024Q4,Tabuk,Information Technology,1320,117,6724.81,8.86
+2024Q4,Tabuk,Manufacturing,2131,116,3862.91,5.44
+2024Q4,Tabuk,Transport & Logistics,2506,94,4746.8,3.75
+2024Q4,Tabuk,Wholesale & Retail,3610,155,5697.03,4.29
+2024Q4,Taif,Construction,3448,137,4713.9,3.97
+2024Q4,Taif,Finance & Insurance,1004,27,4653.53,2.69
+2024Q4,Taif,Healthcare,1863,107,5318.52,5.74
+2024Q4,Taif,Hospitality & Tourism,1829,144,5332.94,7.87
+2024Q4,Taif,Information Technology,1259,107,5635.77,8.5
+2024Q4,Taif,Manufacturing,2314,122,5295.16,5.27
+2024Q4,Taif,Transport & Logistics,2929,137,4514.0,4.68
+2024Q4,Taif,Wholesale & Retail,3637,178,6594.93,4.89
+2025Q1,Abha,Construction,3298,149,5051.15,4.52
+2025Q1,Abha,Finance & Insurance,1075,27,4423.84,2.51
+2025Q1,Abha,Healthcare,2008,114,6137.62,5.68
+2025Q1,Abha,Hospitality & Tourism,2134,170,5407.89,7.97
+2025Q1,Abha,Information Technology,1169,94,5495.83,8.04
+2025Q1,Abha,Manufacturing,2416,104,5121.07,4.3
+2025Q1,Abha,Transport & Logistics,2771,105,5473.79,3.79
+2025Q1,Abha,Wholesale & Retail,3817,190,5651.98,4.98
+2025Q1,Al Ahsa,Construction,3278,149,4526.37,4.55
+2025Q1,Al Ahsa,Finance & Insurance,1351,68,5729.43,5.03
+2025Q1,Al Ahsa,Healthcare,1835,116,4683.77,6.32
+2025Q1,Al Ahsa,Hospitality & Tourism,2211,181,4833.85,8.19
+2025Q1,Al Ahsa,Information Technology,1577,128,4875.62,8.12
+2025Q1,Al Ahsa,Manufacturing,1825,74,6174.01,4.05
+2025Q1,Al Ahsa,Transport & Logistics,2482,91,5119.71,3.67
+2025Q1,Al Ahsa,Wholesale & Retail,3712,167,4855.26,4.5
+2025Q1,Dammam,Construction,6228,299,5315.94,4.8
+2025Q1,Dammam,Finance & Insurance,2098,110,4748.65,5.24
+2025Q1,Dammam,Healthcare,3941,206,4646.84,5.23
+2025Q1,Dammam,Hospitality & Tourism,4434,247,5627.84,5.57
+2025Q1,Dammam,Information Technology,2849,252,4867.94,8.85
+2025Q1,Dammam,Manufacturing,4222,194,4265.91,4.59
+2025Q1,Dammam,Transport & Logistics,5127,242,5968.23,4.72
+2025Q1,Dammam,Wholesale & Retail,6671,305,5456.98,4.57
+2025Q1,Jeddah,Construction,6290,285,5281.76,4.53
+2025Q1,Jeddah,Finance & Insurance,1899,109,5116.17,5.74
+2025Q1,Jeddah,Healthcare,4188,262,5012.21,6.26
+2025Q1,Jeddah,Hospitality & Tourism,4569,302,5203.47,6.61
+2025Q1,Jeddah,Information Technology,2434,189,5572.65,7.76
+2025Q1,Jeddah,Manufacturing,4009,205,5855.07,5.11
+2025Q1,Jeddah,Transport & Logistics,5184,247,5822.9,4.76
+2025Q1,Jeddah,Wholesale & Retail,6850,292,4853.3,4.26
+2025Q1,Khobar,Construction,6236,286,6190.09,4.59
+2025Q1,Khobar,Finance & Insurance,2245,112,4546.39,4.99
+2025Q1,Khobar,Healthcare,3860,226,5835.17,5.85
+2025Q1,Khobar,Hospitality & Tourism,4941,342,5189.34,6.92
+2025Q1,Khobar,Information Technology,2575,223,5983.54,8.66
+2025Q1,Khobar,Manufacturing,3939,185,4483.14,4.7
+2025Q1,Khobar,Transport & Logistics,4846,188,6090.92,3.88
+2025Q1,Khobar,Wholesale & Retail,6593,290,6229.38,4.4
+2025Q1,Madinah,Construction,3005,139,5688.02,4.63
+2025Q1,Madinah,Finance & Insurance,1266,39,5856.84,3.08
+2025Q1,Madinah,Healthcare,2108,95,4862.97,4.51
+2025Q1,Madinah,Hospitality & Tourism,2178,160,5759.13,7.35
+2025Q1,Madinah,Information Technology,1211,102,5802.6,8.42
+2025Q1,Madinah,Manufacturing,2427,139,4555.77,5.73
+2025Q1,Madinah,Transport & Logistics,2902,110,4731.24,3.79
+2025Q1,Madinah,Wholesale & Retail,3530,158,5463.18,4.48
+2025Q1,Makkah,Construction,3441,157,4888.01,4.56
+2025Q1,Makkah,Finance & Insurance,1190,45,5203.65,3.78
+2025Q1,Makkah,Healthcare,2193,121,6037.42,5.52
+2025Q1,Makkah,Hospitality & Tourism,2580,157,5758.24,6.09
+2025Q1,Makkah,Information Technology,1649,169,4922.63,10.25
+2025Q1,Makkah,Manufacturing,1947,80,4011.41,4.11
+2025Q1,Makkah,Transport & Logistics,2417,92,5958.49,3.81
+2025Q1,Makkah,Wholesale & Retail,3174,145,5377.51,4.57
+2025Q1,Riyadh,Construction,7834,345,5124.38,4.4
+2025Q1,Riyadh,Finance & Insurance,2778,134,5758.56,4.82
+2025Q1,Riyadh,Healthcare,5394,340,6527.47,6.3
+2025Q1,Riyadh,Hospitality & Tourism,6324,436,5103.45,6.89
+2025Q1,Riyadh,Information Technology,3401,311,4637.78,9.14
+2025Q1,Riyadh,Manufacturing,5556,272,4369.25,4.9
+2025Q1,Riyadh,Transport & Logistics,7057,290,5229.94,4.11
+2025Q1,Riyadh,Wholesale & Retail,8708,372,3788.0,4.27
+2025Q1,Tabuk,Construction,3139,121,4025.5,3.85
+2025Q1,Tabuk,Finance & Insurance,1168,53,5787.23,4.54
+2025Q1,Tabuk,Healthcare,1991,144,5184.13,7.23
+2025Q1,Tabuk,Hospitality & Tourism,2234,168,5875.42,7.52
+2025Q1,Tabuk,Information Technology,1314,135,4972.5,10.27
+2025Q1,Tabuk,Manufacturing,2099,83,4623.59,3.95
+2025Q1,Tabuk,Transport & Logistics,2505,119,5785.7,4.75
+2025Q1,Tabuk,Wholesale & Retail,3738,157,6005.26,4.2
+2025Q1,Taif,Construction,2960,142,4495.12,4.8
+2025Q1,Taif,Finance & Insurance,1081,73,5261.82,6.75
+2025Q1,Taif,Healthcare,2214,128,5170.93,5.78
+2025Q1,Taif,Hospitality & Tourism,2242,144,5540.83,6.42
+2025Q1,Taif,Information Technology,1372,126,4894.49,9.18
+2025Q1,Taif,Manufacturing,2123,110,5136.94,5.18
+2025Q1,Taif,Transport & Logistics,2767,99,5726.73,3.58
+2025Q1,Taif,Wholesale & Retail,3505,168,5968.15,4.79
+2025Q2,Abha,Construction,3333,133,4574.69,3.99
+2025Q2,Abha,Finance & Insurance,1125,28,6019.13,2.49
+2025Q2,Abha,Healthcare,2143,136,6217.45,6.35
+2025Q2,Abha,Hospitality & Tourism,2383,180,4549.36,7.55
+2025Q2,Abha,Information Technology,1435,137,5192.49,9.55
+2025Q2,Abha,Manufacturing,1777,89,5201.57,5.01
+2025Q2,Abha,Transport & Logistics,2565,145,7245.31,5.65
+2025Q2,Abha,Wholesale & Retail,3783,143,5774.82,3.78
+2025Q2,Al Ahsa,Construction,2897,122,5291.17,4.21
+2025Q2,Al Ahsa,Finance & Insurance,956,39,4496.69,4.08
+2025Q2,Al Ahsa,Healthcare,2004,133,5575.92,6.64
+2025Q2,Al Ahsa,Hospitality & Tourism,2571,200,5100.3,7.78
+2025Q2,Al Ahsa,Information Technology,1458,141,5147.85,9.67
+2025Q2,Al Ahsa,Manufacturing,2127,102,5709.03,4.8
+2025Q2,Al Ahsa,Transport & Logistics,2695,112,5006.04,4.16
+2025Q2,Al Ahsa,Wholesale & Retail,3496,139,5150.56,3.98
+2025Q2,Dammam,Construction,6045,270,5237.41,4.47
+2025Q2,Dammam,Finance & Insurance,1981,84,5322.06,4.24
+2025Q2,Dammam,Healthcare,3504,180,6259.03,5.14
+2025Q2,Dammam,Hospitality & Tourism,4379,299,5447.33,6.83
+2025Q2,Dammam,Information Technology,2796,239,5531.78,8.55
+2025Q2,Dammam,Manufacturing,3867,188,4437.91,4.86
+2025Q2,Dammam,Transport & Logistics,5078,221,5114.94,4.35
+2025Q2,Dammam,Wholesale & Retail,6717,297,5225.97,4.42
+2025Q2,Jeddah,Construction,6426,301,5702.6,4.68
+2025Q2,Jeddah,Finance & Insurance,1715,84,6176.1,4.9
+2025Q2,Jeddah,Healthcare,3942,227,5177.39,5.76
+2025Q2,Jeddah,Hospitality & Tourism,4459,329,4727.54,7.38
+2025Q2,Jeddah,Information Technology,2481,182,5571.38,7.34
+2025Q2,Jeddah,Manufacturing,3988,193,4367.06,4.84
+2025Q2,Jeddah,Transport & Logistics,5019,260,5116.51,5.18
+2025Q2,Jeddah,Wholesale & Retail,6854,297,5182.79,4.33
+2025Q2,Khobar,Construction,6104,277,4285.94,4.54
+2025Q2,Khobar,Finance & Insurance,1968,75,5136.03,3.81
+2025Q2,Khobar,Healthcare,3658,207,4909.63,5.66
+2025Q2,Khobar,Hospitality & Tourism,4355,309,6127.07,7.1
+2025Q2,Khobar,Information Technology,2398,230,6324.84,9.59
+2025Q2,Khobar,Manufacturing,3878,153,4713.11,3.95
+2025Q2,Khobar,Transport & Logistics,4986,225,4494.67,4.51
+2025Q2,Khobar,Wholesale & Retail,6587,261,5137.44,3.96
+2025Q2,Madinah,Construction,2869,95,5442.58,3.31
+2025Q2,Madinah,Finance & Insurance,907,38,5761.73,4.19
+2025Q2,Madinah,Healthcare,1938,92,5340.56,4.75
+2025Q2,Madinah,Hospitality & Tourism,2250,153,5715.85,6.8
+2025Q2,Madinah,Information Technology,1396,118,4886.98,8.45
+2025Q2,Madinah,Manufacturing,2192,85,4348.94,3.88
+2025Q2,Madinah,Transport & Logistics,2753,125,5676.32,4.54
+2025Q2,Madinah,Wholesale & Retail,3742,181,5837.17,4.84
+2025Q2,Makkah,Construction,3411,126,5209.26,3.69
+2025Q2,Makkah,Finance & Insurance,1122,63,5282.49,5.61
+2025Q2,Makkah,Healthcare,1950,123,5184.72,6.31
+2025Q2,Makkah,Hospitality & Tourism,2491,159,5032.08,6.38
+2025Q2,Makkah,Information Technology,1600,115,6080.59,7.19
+2025Q2,Makkah,Manufacturing,2002,73,4763.44,3.65
+2025Q2,Makkah,Transport & Logistics,3005,169,5445.47,5.62
+2025Q2,Makkah,Wholesale & Retail,3538,163,4885.69,4.61
+2025Q2,Riyadh,Construction,8098,351,5319.68,4.33
+2025Q2,Riyadh,Finance & Insurance,2548,123,4752.67,4.83
+2025Q2,Riyadh,Healthcare,5084,274,5233.61,5.39
+2025Q2,Riyadh,Hospitality & Tourism,5591,374,6535.59,6.69
+2025Q2,Riyadh,Information Technology,3435,316,4885.41,9.2
+2025Q2,Riyadh,Manufacturing,5123,232,4636.5,4.53
+2025Q2,Riyadh,Transport & Logistics,6906,312,4606.77,4.52
+2025Q2,Riyadh,Wholesale & Retail,8755,385,4864.21,4.4
+2025Q2,Tabuk,Construction,3181,141,3893.78,4.43
+2025Q2,Tabuk,Finance & Insurance,1182,44,4835.16,3.72
+2025Q2,Tabuk,Healthcare,1920,128,5446.02,6.67
+2025Q2,Tabuk,Hospitality & Tourism,2224,166,5930.68,7.46
+2025Q2,Tabuk,Information Technology,1216,99,6058.54,8.14
+2025Q2,Tabuk,Manufacturing,2099,85,5103.31,4.05
+2025Q2,Tabuk,Transport & Logistics,2444,98,4728.4,4.01
+2025Q2,Tabuk,Wholesale & Retail,3413,143,6301.93,4.19
+2025Q2,Taif,Construction,3517,154,4720.15,4.38
+2025Q2,Taif,Finance & Insurance,994,64,5496.85,6.44
+2025Q2,Taif,Healthcare,1975,119,5554.29,6.03
+2025Q2,Taif,Hospitality & Tourism,2655,179,5875.74,6.74
+2025Q2,Taif,Information Technology,1014,88,5444.0,8.68
+2025Q2,Taif,Manufacturing,2047,84,5255.54,4.1
+2025Q2,Taif,Transport & Logistics,2650,96,5358.67,3.62
+2025Q2,Taif,Wholesale & Retail,3408,159,6075.48,4.67
+2025Q3,Abha,Construction,3214,167,4638.21,5.2
+2025Q3,Abha,Finance & Insurance,1325,47,5577.92,3.55
+2025Q3,Abha,Healthcare,2242,119,5279.15,5.31
+2025Q3,Abha,Hospitality & Tourism,2403,152,4930.94,6.33
+2025Q3,Abha,Information Technology,1408,95,5963.8,6.75
+2025Q3,Abha,Manufacturing,2148,108,5035.04,5.03
+2025Q3,Abha,Transport & Logistics,2914,109,5960.72,3.74
+2025Q3,Abha,Wholesale & Retail,3404,155,4514.08,4.55
+2025Q3,Al Ahsa,Construction,3522,152,5511.26,4.32
+2025Q3,Al Ahsa,Finance & Insurance,848,35,5727.64,4.13
+2025Q3,Al Ahsa,Healthcare,1984,128,6129.28,6.45
+2025Q3,Al Ahsa,Hospitality & Tourism,2673,179,4747.06,6.7
+2025Q3,Al Ahsa,Information Technology,1256,96,5930.03,7.64
+2025Q3,Al Ahsa,Manufacturing,2066,132,5770.43,6.39
+2025Q3,Al Ahsa,Transport & Logistics,2794,135,4665.94,4.83
+2025Q3,Al Ahsa,Wholesale & Retail,3498,146,5393.33,4.17
+2025Q3,Dammam,Construction,5886,244,5126.88,4.15
+2025Q3,Dammam,Finance & Insurance,1966,89,4617.79,4.53
+2025Q3,Dammam,Healthcare,3672,223,6344.07,6.07
+2025Q3,Dammam,Hospitality & Tourism,4487,324,5108.35,7.22
+2025Q3,Dammam,Information Technology,2595,241,5565.31,9.29
+2025Q3,Dammam,Manufacturing,3656,181,5973.5,4.95
+2025Q3,Dammam,Transport & Logistics,5045,236,4854.78,4.68
+2025Q3,Dammam,Wholesale & Retail,6717,303,5143.75,4.51
+2025Q3,Jeddah,Construction,6282,261,3598.63,4.15
+2025Q3,Jeddah,Finance & Insurance,1972,81,4808.42,4.11
+2025Q3,Jeddah,Healthcare,4055,258,5481.35,6.36
+2025Q3,Jeddah,Hospitality & Tourism,4641,325,5612.94,7.0
+2025Q3,Jeddah,Information Technology,2656,222,5377.14,8.36
+2025Q3,Jeddah,Manufacturing,4258,166,4871.07,3.9
+2025Q3,Jeddah,Transport & Logistics,5057,230,5761.23,4.55
+2025Q3,Jeddah,Wholesale & Retail,6734,299,6254.98,4.44
+2025Q3,Khobar,Construction,6446,270,4466.98,4.19
+2025Q3,Khobar,Finance & Insurance,2082,93,5790.75,4.47
+2025Q3,Khobar,Healthcare,4122,238,5684.24,5.77
+2025Q3,Khobar,Hospitality & Tourism,4493,283,5518.36,6.3
+2025Q3,Khobar,Information Technology,2405,187,6000.95,7.78
+2025Q3,Khobar,Manufacturing,4059,173,5210.98,4.26
+2025Q3,Khobar,Transport & Logistics,5264,239,5470.84,4.54
+2025Q3,Khobar,Wholesale & Retail,6961,278,5590.47,3.99
+2025Q3,Madinah,Construction,2937,123,4055.59,4.19
+2025Q3,Madinah,Finance & Insurance,1012,27,6356.04,2.67
+2025Q3,Madinah,Healthcare,2001,123,5346.91,6.15
+2025Q3,Madinah,Hospitality & Tourism,2284,170,5281.79,7.44
+2025Q3,Madinah,Information Technology,1612,118,5409.39,7.32
+2025Q3,Madinah,Manufacturing,2401,72,5368.29,3.0
+2025Q3,Madinah,Transport & Logistics,2855,92,4180.63,3.22
+2025Q3,Madinah,Wholesale & Retail,3491,164,5550.7,4.7
+2025Q3,Makkah,Construction,3452,158,6564.26,4.58
+2025Q3,Makkah,Finance & Insurance,1046,30,4582.24,2.87
+2025Q3,Makkah,Healthcare,1942,115,5473.42,5.92
+2025Q3,Makkah,Hospitality & Tourism,2467,185,4115.64,7.5
+2025Q3,Makkah,Information Technology,1426,130,5843.42,9.12
+2025Q3,Makkah,Manufacturing,2108,92,4913.84,4.36
+2025Q3,Makkah,Transport & Logistics,2629,130,5811.06,4.94
+2025Q3,Makkah,Wholesale & Retail,3601,178,5800.42,4.94
+2025Q3,Riyadh,Construction,8094,387,5471.25,4.78
+2025Q3,Riyadh,Finance & Insurance,2585,111,4688.16,4.29
+2025Q3,Riyadh,Healthcare,5137,304,5547.08,5.92
+2025Q3,Riyadh,Hospitality & Tourism,5786,399,5237.28,6.9
+2025Q3,Riyadh,Information Technology,3371,260,4578.86,7.71
+2025Q3,Riyadh,Manufacturing,5232,244,3801.23,4.66
+2025Q3,Riyadh,Transport & Logistics,6591,294,5320.11,4.46
+2025Q3,Riyadh,Wholesale & Retail,8418,352,5263.24,4.18
+2025Q3,Tabuk,Construction,2908,127,5503.27,4.37
+2025Q3,Tabuk,Finance & Insurance,1056,64,5258.14,6.06
+2025Q3,Tabuk,Healthcare,1677,107,5486.18,6.38
+2025Q3,Tabuk,Hospitality & Tourism,2188,145,5424.03,6.63
+2025Q3,Tabuk,Information Technology,1591,122,5439.16,7.67
+2025Q3,Tabuk,Manufacturing,2226,68,4710.05,3.05
+2025Q3,Tabuk,Transport & Logistics,2566,99,4971.53,3.86
+2025Q3,Tabuk,Wholesale & Retail,3783,175,4551.82,4.63
+2025Q3,Taif,Construction,3259,149,5413.17,4.57
+2025Q3,Taif,Finance & Insurance,1444,64,5687.02,4.43
+2025Q3,Taif,Healthcare,2177,140,5308.64,6.43
+2025Q3,Taif,Hospitality & Tourism,2373,166,5973.55,7.0
+2025Q3,Taif,Information Technology,1315,101,6202.26,7.68
+2025Q3,Taif,Manufacturing,2362,90,5677.2,3.81
+2025Q3,Taif,Transport & Logistics,2352,113,4872.13,4.8
+2025Q3,Taif,Wholesale & Retail,3577,134,5020.13,3.75
+2025Q4,Abha,Construction,3345,126,4618.7,3.77
+2025Q4,Abha,Finance & Insurance,771,63,5829.31,8.17
+2025Q4,Abha,Healthcare,2243,152,5904.97,6.78
+2025Q4,Abha,Hospitality & Tourism,2405,193,6389.56,8.02
+2025Q4,Abha,Information Technology,1133,98,5540.2,8.65
+2025Q4,Abha,Manufacturing,2325,96,4786.97,4.13
+2025Q4,Abha,Transport & Logistics,2729,106,6382.42,3.88
+2025Q4,Abha,Wholesale & Retail,3648,180,5841.97,4.93
+2025Q4,Al Ahsa,Construction,3039,137,4443.29,4.51
+2025Q4,Al Ahsa,Finance & Insurance,923,42,6347.03,4.55
+2025Q4,Al Ahsa,Healthcare,1962,96,5965.19,4.89
+2025Q4,Al Ahsa,Hospitality & Tourism,2450,177,6132.64,7.22
+2025Q4,Al Ahsa,Information Technology,1404,145,4893.6,10.33
+2025Q4,Al Ahsa,Manufacturing,2240,90,4563.77,4.02
+2025Q4,Al Ahsa,Transport & Logistics,2510,130,6259.32,5.18
+2025Q4,Al Ahsa,Wholesale & Retail,3438,150,5106.09,4.36
+2025Q4,Dammam,Construction,6065,275,4364.17,4.53
+2025Q4,Dammam,Finance & Insurance,1669,55,6467.05,3.3
+2025Q4,Dammam,Healthcare,3859,249,5877.34,6.45
+2025Q4,Dammam,Hospitality & Tourism,4240,279,5651.15,6.58
+2025Q4,Dammam,Information Technology,2596,236,5507.03,9.09
+2025Q4,Dammam,Manufacturing,3712,135,4447.53,3.64
+2025Q4,Dammam,Transport & Logistics,4763,227,5423.21,4.77
+2025Q4,Dammam,Wholesale & Retail,6787,292,5132.03,4.3
+2025Q4,Jeddah,Construction,5960,243,4294.31,4.08
+2025Q4,Jeddah,Finance & Insurance,1681,47,5241.8,2.8
+2025Q4,Jeddah,Healthcare,3851,241,6463.64,6.26
+2025Q4,Jeddah,Hospitality & Tourism,4836,295,5540.33,6.1
+2025Q4,Jeddah,Information Technology,2588,211,4727.38,8.15
+2025Q4,Jeddah,Manufacturing,4191,167,4737.63,3.98
+2025Q4,Jeddah,Transport & Logistics,5241,210,5535.65,4.01
+2025Q4,Jeddah,Wholesale & Retail,6628,321,4972.78,4.84
+2025Q4,Khobar,Construction,5953,313,4129.22,5.26
+2025Q4,Khobar,Finance & Insurance,2207,101,6030.14,4.58
+2025Q4,Khobar,Healthcare,3904,231,5168.98,5.92
+2025Q4,Khobar,Hospitality & Tourism,4597,302,4885.46,6.57
+2025Q4,Khobar,Information Technology,2450,211,5657.04,8.61
+2025Q4,Khobar,Manufacturing,4226,183,4587.85,4.33
+2025Q4,Khobar,Transport & Logistics,5398,210,5734.62,3.89
+2025Q4,Khobar,Wholesale & Retail,6785,341,5640.47,5.03
+2025Q4,Madinah,Construction,3403,141,5185.36,4.14
+2025Q4,Madinah,Finance & Insurance,1154,35,5947.36,3.03
+2025Q4,Madinah,Healthcare,2213,157,6430.11,7.09
+2025Q4,Madinah,Hospitality & Tourism,2085,154,5277.65,7.39
+2025Q4,Madinah,Information Technology,1219,104,5997.95,8.53
+2025Q4,Madinah,Manufacturing,1952,100,4898.08,5.12
+2025Q4,Madinah,Transport & Logistics,2798,149,5245.52,5.33
+2025Q4,Madinah,Wholesale & Retail,3235,172,4892.99,5.32
+2025Q4,Makkah,Construction,3599,165,5419.38,4.58
+2025Q4,Makkah,Finance & Insurance,1255,50,4315.49,3.98
+2025Q4,Makkah,Healthcare,2117,129,5908.82,6.09
+2025Q4,Makkah,Hospitality & Tourism,2172,147,5965.21,6.77
+2025Q4,Makkah,Information Technology,1308,112,4500.02,8.56
+2025Q4,Makkah,Manufacturing,2059,102,4561.22,4.95
+2025Q4,Makkah,Transport & Logistics,2511,136,5441.21,5.42
+2025Q4,Makkah,Wholesale & Retail,3840,176,5862.58,4.58
+2025Q4,Riyadh,Construction,8021,364,6159.62,4.54
+2025Q4,Riyadh,Finance & Insurance,2686,130,5269.91,4.84
+2025Q4,Riyadh,Healthcare,5002,302,4778.38,6.04
+2025Q4,Riyadh,Hospitality & Tourism,6262,426,6801.65,6.8
+2025Q4,Riyadh,Information Technology,3466,266,4347.92,7.67
+2025Q4,Riyadh,Manufacturing,5497,253,4934.2,4.6
+2025Q4,Riyadh,Transport & Logistics,6618,332,5170.84,5.02
+2025Q4,Riyadh,Wholesale & Retail,8917,385,5003.98,4.32
+2025Q4,Tabuk,Construction,3409,177,5265.04,5.19
+2025Q4,Tabuk,Finance & Insurance,1167,70,5761.11,6.0
+2025Q4,Tabuk,Healthcare,2384,144,4856.22,6.04
+2025Q4,Tabuk,Hospitality & Tourism,2300,147,5777.16,6.39
+2025Q4,Tabuk,Information Technology,1162,103,5523.0,8.86
+2025Q4,Tabuk,Manufacturing,2365,86,4821.1,3.64
+2025Q4,Tabuk,Transport & Logistics,2314,116,5474.8,5.01
+2025Q4,Tabuk,Wholesale & Retail,3408,144,6442.2,4.23
+2025Q4,Taif,Construction,2941,133,5574.73,4.52
+2025Q4,Taif,Finance & Insurance,1028,67,5181.56,6.52
+2025Q4,Taif,Healthcare,1642,139,5030.54,8.47
+2025Q4,Taif,Hospitality & Tourism,2499,184,5532.07,7.36
+2025Q4,Taif,Information Technology,1246,88,5273.18,7.06
+2025Q4,Taif,Manufacturing,2214,98,4241.09,4.43
+2025Q4,Taif,Transport & Logistics,2724,131,5129.64,4.81
+2025Q4,Taif,Wholesale & Retail,3778,156,4960.31,4.13

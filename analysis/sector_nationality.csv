@@ -1,0 +1,449 @@
+quarter,economic_sector,nationality_group,employed,vacancies,weighted_salary_sar,vacancy_ratio_pct
+2019Q1,Construction,Non-Saudi,25069,1074,4344.74,4.28
+2019Q1,Construction,Saudi,14276,654,6444.73,4.58
+2019Q1,Finance & Insurance,Non-Saudi,5848,333,4129.69,5.69
+2019Q1,Finance & Insurance,Saudi,6814,334,6422.97,4.9
+2019Q1,Healthcare,Non-Saudi,12511,743,3796.21,5.94
+2019Q1,Healthcare,Saudi,14036,801,6241.59,5.71
+2019Q1,Hospitality & Tourism,Non-Saudi,13841,973,4210.64,7.03
+2019Q1,Hospitality & Tourism,Saudi,15049,1047,6181.76,6.96
+2019Q1,Information Technology,Non-Saudi,7978,701,4398.53,8.79
+2019Q1,Information Technology,Saudi,8913,739,6765.84,8.29
+2019Q1,Manufacturing,Non-Saudi,17038,727,3822.37,4.27
+2019Q1,Manufacturing,Saudi,9712,416,6606.79,4.28
+2019Q1,Transport & Logistics,Non-Saudi,15078,678,4639.64,4.5
+2019Q1,Transport & Logistics,Saudi,17663,797,6796.29,4.51
+2019Q1,Wholesale & Retail,Non-Saudi,19666,904,3797.42,4.6
+2019Q1,Wholesale & Retail,Saudi,22958,979,6522.54,4.26
+2019Q2,Construction,Non-Saudi,25660,1151,4137.36,4.49
+2019Q2,Construction,Saudi,13126,614,6039.81,4.68
+2019Q2,Finance & Insurance,Non-Saudi,5900,263,4314.6,4.46
+2019Q2,Finance & Insurance,Saudi,6421,322,7059.38,5.01
+2019Q2,Healthcare,Non-Saudi,11974,676,4167.77,5.65
+2019Q2,Healthcare,Saudi,12943,830,6522.74,6.41
+2019Q2,Hospitality & Tourism,Non-Saudi,13731,973,4559.17,7.09
+2019Q2,Hospitality & Tourism,Saudi,15609,1117,6579.95,7.16
+2019Q2,Information Technology,Non-Saudi,8147,735,3858.84,9.02
+2019Q2,Information Technology,Saudi,8874,723,6282.4,8.15
+2019Q2,Manufacturing,Non-Saudi,17517,787,3940.34,4.49
+2019Q2,Manufacturing,Saudi,8832,404,6220.41,4.57
+2019Q2,Transport & Logistics,Non-Saudi,14425,650,3915.58,4.51
+2019Q2,Transport & Logistics,Saudi,16490,771,6647.01,4.68
+2019Q2,Wholesale & Retail,Non-Saudi,20312,919,4165.01,4.52
+2019Q2,Wholesale & Retail,Saudi,23190,989,6101.0,4.26
+2019Q3,Construction,Non-Saudi,26020,1147,4149.63,4.41
+2019Q3,Construction,Saudi,14229,614,6821.4,4.32
+2019Q3,Finance & Insurance,Non-Saudi,5848,325,3778.95,5.56
+2019Q3,Finance & Insurance,Saudi,7322,365,6653.18,4.98
+2019Q3,Healthcare,Non-Saudi,12794,804,4754.31,6.28
+2019Q3,Healthcare,Saudi,13997,758,7052.43,5.42
+2019Q3,Hospitality & Tourism,Non-Saudi,13443,933,4761.84,6.94
+2019Q3,Hospitality & Tourism,Saudi,15141,1042,6703.47,6.88
+2019Q3,Information Technology,Non-Saudi,7453,633,4011.54,8.49
+2019Q3,Information Technology,Saudi,9182,744,6198.16,8.1
+2019Q3,Manufacturing,Non-Saudi,16972,787,3680.87,4.64
+2019Q3,Manufacturing,Saudi,9254,390,6512.17,4.21
+2019Q3,Transport & Logistics,Non-Saudi,15430,696,4274.44,4.51
+2019Q3,Transport & Logistics,Saudi,18256,792,6515.45,4.34
+2019Q3,Wholesale & Retail,Non-Saudi,20685,967,4089.18,4.67
+2019Q3,Wholesale & Retail,Saudi,23698,1130,6974.05,4.77
+2019Q4,Construction,Non-Saudi,24924,1078,4221.17,4.33
+2019Q4,Construction,Saudi,13603,588,6476.32,4.32
+2019Q4,Finance & Insurance,Non-Saudi,5845,241,3887.02,4.12
+2019Q4,Finance & Insurance,Saudi,6642,320,6273.75,4.82
+2019Q4,Healthcare,Non-Saudi,10700,671,3574.57,6.27
+2019Q4,Healthcare,Saudi,13757,811,6143.99,5.9
+2019Q4,Hospitality & Tourism,Non-Saudi,13095,919,4282.22,7.02
+2019Q4,Hospitality & Tourism,Saudi,15704,1120,6653.71,7.13
+2019Q4,Information Technology,Non-Saudi,7464,607,4226.21,8.13
+2019Q4,Information Technology,Saudi,9056,709,6570.36,7.83
+2019Q4,Manufacturing,Non-Saudi,16719,794,4342.0,4.75
+2019Q4,Manufacturing,Saudi,9842,472,6692.57,4.8
+2019Q4,Transport & Logistics,Non-Saudi,15531,734,3848.47,4.73
+2019Q4,Transport & Logistics,Saudi,17300,783,6750.92,4.53
+2019Q4,Wholesale & Retail,Non-Saudi,21512,1035,4552.04,4.81
+2019Q4,Wholesale & Retail,Saudi,23325,1082,6080.57,4.64
+2020Q1,Construction,Non-Saudi,26268,1212,3970.14,4.61
+2020Q1,Construction,Saudi,14193,645,6350.04,4.54
+2020Q1,Finance & Insurance,Non-Saudi,6441,324,4151.76,5.03
+2020Q1,Finance & Insurance,Saudi,6341,319,6633.09,5.03
+2020Q1,Healthcare,Non-Saudi,12783,698,4172.29,5.46
+2020Q1,Healthcare,Saudi,13831,868,6734.6,6.28
+2020Q1,Hospitality & Tourism,Non-Saudi,13684,976,3767.7,7.13
+2020Q1,Hospitality & Tourism,Saudi,16191,1135,6106.3,7.01
+2020Q1,Information Technology,Non-Saudi,7976,678,4386.59,8.5
+2020Q1,Information Technology,Saudi,9835,805,6759.29,8.19
+2020Q1,Manufacturing,Non-Saudi,17673,754,4688.46,4.27
+2020Q1,Manufacturing,Saudi,9087,431,5708.35,4.74
+2020Q1,Transport & Logistics,Non-Saudi,15893,673,4456.36,4.23
+2020Q1,Transport & Logistics,Saudi,17589,765,5845.38,4.35
+2020Q1,Wholesale & Retail,Non-Saudi,20952,904,4243.4,4.31
+2020Q1,Wholesale & Retail,Saudi,24221,1070,6660.1,4.42
+2020Q2,Construction,Non-Saudi,26003,1122,4100.82,4.31
+2020Q2,Construction,Saudi,14142,611,6598.8,4.32
+2020Q2,Finance & Insurance,Non-Saudi,6193,253,3871.0,4.09
+2020Q2,Finance & Insurance,Saudi,6511,314,6442.75,4.82
+2020Q2,Healthcare,Non-Saudi,12269,703,4242.67,5.73
+2020Q2,Healthcare,Saudi,13643,810,6305.2,5.94
+2020Q2,Hospitality & Tourism,Non-Saudi,13494,905,4359.76,6.71
+2020Q2,Hospitality & Tourism,Saudi,15964,1152,6644.7,7.22
+2020Q2,Information Technology,Non-Saudi,8230,725,3861.16,8.81
+2020Q2,Information Technology,Saudi,9102,816,6754.26,8.97
+2020Q2,Manufacturing,Non-Saudi,17467,812,3485.36,4.65
+2020Q2,Manufacturing,Saudi,8954,404,6789.94,4.51
+2020Q2,Transport & Logistics,Non-Saudi,15372,706,3921.29,4.59
+2020Q2,Transport & Logistics,Saudi,17405,776,6528.29,4.46
+2020Q2,Wholesale & Retail,Non-Saudi,21266,935,4388.9,4.4
+2020Q2,Wholesale & Retail,Saudi,23314,1061,6525.77,4.55
+2020Q3,Construction,Non-Saudi,26085,1106,3879.44,4.24
+2020Q3,Construction,Saudi,14433,631,6112.17,4.37
+2020Q3,Finance & Insurance,Non-Saudi,6150,291,4185.97,4.73
+2020Q3,Finance & Insurance,Saudi,7427,365,6570.78,4.91
+2020Q3,Healthcare,Non-Saudi,12218,784,3964.8,6.42
+2020Q3,Healthcare,Saudi,14226,858,6691.36,6.03
+2020Q3,Hospitality & Tourism,Non-Saudi,14175,971,4612.69,6.85
+2020Q3,Hospitality & Tourism,Saudi,15658,1109,6416.31,7.08
+2020Q3,Information Technology,Non-Saudi,7788,610,3794.34,7.83
+2020Q3,Information Technology,Saudi,9481,798,6399.43,8.42
+2020Q3,Manufacturing,Non-Saudi,17600,775,4452.42,4.4
+2020Q3,Manufacturing,Saudi,9634,396,6508.71,4.11
+2020Q3,Transport & Logistics,Non-Saudi,15944,740,3735.47,4.64
+2020Q3,Transport & Logistics,Saudi,18152,742,6290.56,4.09
+2020Q3,Wholesale & Retail,Non-Saudi,20437,869,4055.51,4.25
+2020Q3,Wholesale & Retail,Saudi,24611,1151,6227.7,4.68
+2020Q4,Construction,Non-Saudi,27264,1187,4563.83,4.35
+2020Q4,Construction,Saudi,14290,625,6712.42,4.37
+2020Q4,Finance & Insurance,Non-Saudi,6289,268,4038.92,4.26
+2020Q4,Finance & Insurance,Saudi,7194,287,6414.04,3.99
+2020Q4,Healthcare,Non-Saudi,11772,738,3994.44,6.27
+2020Q4,Healthcare,Saudi,13635,799,6324.02,5.86
+2020Q4,Hospitality & Tourism,Non-Saudi,14543,997,4070.46,6.86
+2020Q4,Hospitality & Tourism,Saudi,16274,1097,6428.64,6.74
+2020Q4,Information Technology,Non-Saudi,7506,607,4070.31,8.09
+2020Q4,Information Technology,Saudi,9632,803,6626.89,8.34
+2020Q4,Manufacturing,Non-Saudi,17089,714,4582.68,4.18
+2020Q4,Manufacturing,Saudi,9584,493,6693.2,5.14
+2020Q4,Transport & Logistics,Non-Saudi,15944,653,4209.34,4.1
+2020Q4,Transport & Logistics,Saudi,17673,841,6558.6,4.76
+2020Q4,Wholesale & Retail,Non-Saudi,21030,928,3667.21,4.41
+2020Q4,Wholesale & Retail,Saudi,23524,1052,6837.45,4.47
+2021Q1,Construction,Non-Saudi,27459,1229,4526.82,4.48
+2021Q1,Construction,Saudi,14556,651,6002.06,4.47
+2021Q1,Finance & Insurance,Non-Saudi,6892,293,4162.78,4.25
+2021Q1,Finance & Insurance,Saudi,7224,306,6284.93,4.24
+2021Q1,Healthcare,Non-Saudi,12166,733,3847.88,6.02
+2021Q1,Healthcare,Saudi,14751,831,6899.62,5.63
+2021Q1,Hospitality & Tourism,Non-Saudi,13934,977,4049.73,7.01
+2021Q1,Hospitality & Tourism,Saudi,16777,1141,6764.57,6.8
+2021Q1,Information Technology,Non-Saudi,7898,659,4115.72,8.34
+2021Q1,Information Technology,Saudi,9750,792,6663.29,8.12
+2021Q1,Manufacturing,Non-Saudi,17710,761,4792.82,4.3
+2021Q1,Manufacturing,Saudi,9404,432,6338.22,4.59
+2021Q1,Transport & Logistics,Non-Saudi,16169,732,4365.33,4.53
+2021Q1,Transport & Logistics,Saudi,18576,838,6837.89,4.51
+2021Q1,Wholesale & Retail,Non-Saudi,20671,921,4012.13,4.46
+2021Q1,Wholesale & Retail,Saudi,23984,1122,6479.17,4.68
+2021Q2,Construction,Non-Saudi,27143,1239,4445.15,4.56
+2021Q2,Construction,Saudi,14699,575,6416.34,3.91
+2021Q2,Finance & Insurance,Non-Saudi,5831,276,4681.78,4.73
+2021Q2,Finance & Insurance,Saudi,6933,272,6577.61,3.92
+2021Q2,Healthcare,Non-Saudi,12541,761,4382.84,6.07
+2021Q2,Healthcare,Saudi,14563,880,6396.71,6.04
+2021Q2,Hospitality & Tourism,Non-Saudi,14141,962,4092.21,6.8
+2021Q2,Hospitality & Tourism,Saudi,16860,1202,6522.36,7.13
+2021Q2,Information Technology,Non-Saudi,8274,703,4074.42,8.5
+2021Q2,Information Technology,Saudi,9554,831,6219.2,8.7
+2021Q2,Manufacturing,Non-Saudi,17760,785,4024.74,4.42
+2021Q2,Manufacturing,Saudi,9913,404,6771.04,4.08
+2021Q2,Transport & Logistics,Non-Saudi,16303,722,3855.56,4.43
+2021Q2,Transport & Logistics,Saudi,18405,792,6022.45,4.3
+2021Q2,Wholesale & Retail,Non-Saudi,21488,965,4466.54,4.49
+2021Q2,Wholesale & Retail,Saudi,24592,1105,6177.65,4.49
+2021Q3,Construction,Non-Saudi,26405,1132,4006.48,4.29
+2021Q3,Construction,Saudi,14614,738,6315.97,5.05
+2021Q3,Finance & Insurance,Non-Saudi,6549,343,4407.12,5.24
+2021Q3,Finance & Insurance,Saudi,6678,368,6476.92,5.51
+2021Q3,Healthcare,Non-Saudi,13307,856,4278.55,6.43
+2021Q3,Healthcare,Saudi,14198,784,6951.4,5.52
+2021Q3,Hospitality & Tourism,Non-Saudi,14225,924,4043.8,6.5
+2021Q3,Hospitality & Tourism,Saudi,15889,1111,6381.12,6.99
+2021Q3,Information Technology,Non-Saudi,8348,748,4225.33,8.96
+2021Q3,Information Technology,Saudi,9486,868,6226.01,9.15
+2021Q3,Manufacturing,Non-Saudi,17553,773,4338.68,4.4
+2021Q3,Manufacturing,Saudi,10427,511,6580.53,4.9
+2021Q3,Transport & Logistics,Non-Saudi,17006,684,3949.31,4.02
+2021Q3,Transport & Logistics,Saudi,18864,875,6612.26,4.64
+2021Q3,Wholesale & Retail,Non-Saudi,20981,910,4203.05,4.34
+2021Q3,Wholesale & Retail,Saudi,24563,1145,6702.67,4.66
+2021Q4,Construction,Non-Saudi,26281,1162,4005.82,4.42
+2021Q4,Construction,Saudi,14763,632,6268.3,4.28
+2021Q4,Finance & Insurance,Non-Saudi,6121,330,4100.46,5.39
+2021Q4,Finance & Insurance,Saudi,6841,318,6779.82,4.65
+2021Q4,Healthcare,Non-Saudi,13254,766,4515.12,5.78
+2021Q4,Healthcare,Saudi,14564,856,6616.38,5.88
+2021Q4,Hospitality & Tourism,Non-Saudi,14390,1007,3926.25,7.0
+2021Q4,Hospitality & Tourism,Saudi,15879,1060,6775.35,6.68
+2021Q4,Information Technology,Non-Saudi,8077,684,3799.75,8.47
+2021Q4,Information Technology,Saudi,10004,859,6037.14,8.59
+2021Q4,Manufacturing,Non-Saudi,17414,902,4440.24,5.18
+2021Q4,Manufacturing,Saudi,10049,477,7000.45,4.75
+2021Q4,Transport & Logistics,Non-Saudi,15995,728,4814.98,4.55
+2021Q4,Transport & Logistics,Saudi,18683,781,6065.81,4.18
+2021Q4,Wholesale & Retail,Non-Saudi,21124,969,4935.29,4.59
+2021Q4,Wholesale & Retail,Saudi,24301,1135,6693.04,4.67
+2022Q1,Construction,Non-Saudi,28084,1207,4108.95,4.3
+2022Q1,Construction,Saudi,15430,697,5910.9,4.52
+2022Q1,Finance & Insurance,Non-Saudi,6683,348,4376.69,5.21
+2022Q1,Finance & Insurance,Saudi,6913,332,6092.65,4.8
+2022Q1,Healthcare,Non-Saudi,12535,762,4444.97,6.08
+2022Q1,Healthcare,Saudi,14582,891,6456.47,6.11
+2022Q1,Hospitality & Tourism,Non-Saudi,14418,1005,4349.89,6.97
+2022Q1,Hospitality & Tourism,Saudi,16121,1094,6321.26,6.79
+2022Q1,Information Technology,Non-Saudi,7336,610,4070.0,8.32
+2022Q1,Information Technology,Saudi,10340,870,6433.83,8.41
+2022Q1,Manufacturing,Non-Saudi,18240,835,4319.39,4.58
+2022Q1,Manufacturing,Saudi,9996,447,6620.33,4.47
+2022Q1,Transport & Logistics,Non-Saudi,17071,732,3961.27,4.29
+2022Q1,Transport & Logistics,Saudi,18805,845,6540.46,4.49
+2022Q1,Wholesale & Retail,Non-Saudi,21318,966,4338.01,4.53
+2022Q1,Wholesale & Retail,Saudi,24338,1099,6845.58,4.52
+2022Q2,Construction,Non-Saudi,27662,1141,3821.65,4.12
+2022Q2,Construction,Saudi,14808,642,6915.3,4.34
+2022Q2,Finance & Insurance,Non-Saudi,6284,287,4837.52,4.57
+2022Q2,Finance & Insurance,Saudi,7356,324,6106.55,4.4
+2022Q2,Healthcare,Non-Saudi,13933,862,4267.53,6.19
+2022Q2,Healthcare,Saudi,15064,938,6298.63,6.23
+2022Q2,Hospitality & Tourism,Non-Saudi,15462,1116,4407.85,7.22
+2022Q2,Hospitality & Tourism,Saudi,17561,1234,6641.48,7.03
+2022Q2,Information Technology,Non-Saudi,8572,745,4145.2,8.69
+2022Q2,Information Technology,Saudi,10171,826,6675.06,8.12
+2022Q2,Manufacturing,Non-Saudi,18379,801,4039.54,4.36
+2022Q2,Manufacturing,Saudi,10489,483,6949.13,4.6
+2022Q2,Transport & Logistics,Non-Saudi,16029,683,4385.36,4.26
+2022Q2,Transport & Logistics,Saudi,19032,875,5569.92,4.6
+2022Q2,Wholesale & Retail,Non-Saudi,22326,1041,4272.6,4.66
+2022Q2,Wholesale & Retail,Saudi,24997,1106,6848.46,4.42
+2022Q3,Construction,Non-Saudi,27488,1340,4093.87,4.87
+2022Q3,Construction,Saudi,14554,704,6825.7,4.84
+2022Q3,Finance & Insurance,Non-Saudi,7009,344,4318.26,4.91
+2022Q3,Finance & Insurance,Saudi,7387,361,6570.62,4.89
+2022Q3,Healthcare,Non-Saudi,12697,749,3900.73,5.9
+2022Q3,Healthcare,Saudi,14997,888,6715.79,5.92
+2022Q3,Hospitality & Tourism,Non-Saudi,14404,1017,4301.88,7.06
+2022Q3,Hospitality & Tourism,Saudi,17091,1170,6582.23,6.85
+2022Q3,Information Technology,Non-Saudi,8545,709,4339.42,8.3
+2022Q3,Information Technology,Saudi,9662,821,6251.03,8.5
+2022Q3,Manufacturing,Non-Saudi,18728,847,3938.04,4.52
+2022Q3,Manufacturing,Saudi,10852,501,6208.62,4.62
+2022Q3,Transport & Logistics,Non-Saudi,16598,763,4180.36,4.6
+2022Q3,Transport & Logistics,Saudi,18909,833,6614.16,4.41
+2022Q3,Wholesale & Retail,Non-Saudi,21209,909,4355.99,4.29
+2022Q3,Wholesale & Retail,Saudi,25007,1149,6798.53,4.59
+2022Q4,Construction,Non-Saudi,27228,1182,4368.63,4.34
+2022Q4,Construction,Saudi,15054,642,6510.9,4.26
+2022Q4,Finance & Insurance,Non-Saudi,6909,372,3985.89,5.38
+2022Q4,Finance & Insurance,Saudi,6824,349,6497.59,5.11
+2022Q4,Healthcare,Non-Saudi,13378,821,3971.48,6.14
+2022Q4,Healthcare,Saudi,14684,850,6603.09,5.79
+2022Q4,Hospitality & Tourism,Non-Saudi,14661,970,4150.0,6.62
+2022Q4,Hospitality & Tourism,Saudi,16508,1122,6252.36,6.8
+2022Q4,Information Technology,Non-Saudi,8114,720,3719.74,8.87
+2022Q4,Information Technology,Saudi,9473,835,6497.39,8.81
+2022Q4,Manufacturing,Non-Saudi,18135,820,3944.63,4.52
+2022Q4,Manufacturing,Saudi,9950,430,6138.34,4.32
+2022Q4,Transport & Logistics,Non-Saudi,15848,756,4461.34,4.77
+2022Q4,Transport & Logistics,Saudi,19167,940,6071.39,4.9
+2022Q4,Wholesale & Retail,Non-Saudi,21874,933,3932.35,4.27
+2022Q4,Wholesale & Retail,Saudi,25821,1107,6759.47,4.29
+2023Q1,Construction,Non-Saudi,28346,1336,4388.88,4.71
+2023Q1,Construction,Saudi,15617,753,6176.44,4.82
+2023Q1,Finance & Insurance,Non-Saudi,7330,330,4182.81,4.5
+2023Q1,Finance & Insurance,Saudi,7730,419,6866.03,5.42
+2023Q1,Healthcare,Non-Saudi,12965,764,3975.68,5.89
+2023Q1,Healthcare,Saudi,15824,936,6331.1,5.92
+2023Q1,Hospitality & Tourism,Non-Saudi,15051,1041,4766.33,6.92
+2023Q1,Hospitality & Tourism,Saudi,17732,1308,6388.96,7.38
+2023Q1,Information Technology,Non-Saudi,8698,837,4296.82,9.62
+2023Q1,Information Technology,Saudi,9972,874,6753.13,8.76
+2023Q1,Manufacturing,Non-Saudi,18814,793,4112.64,4.21
+2023Q1,Manufacturing,Saudi,10722,521,6885.77,4.86
+2023Q1,Transport & Logistics,Non-Saudi,16853,745,4165.1,4.42
+2023Q1,Transport & Logistics,Saudi,19958,874,6272.87,4.38
+2023Q1,Wholesale & Retail,Non-Saudi,22507,1052,4494.5,4.67
+2023Q1,Wholesale & Retail,Saudi,25393,1126,6723.43,4.43
+2023Q2,Construction,Non-Saudi,28127,1227,3896.98,4.36
+2023Q2,Construction,Saudi,15824,688,6704.08,4.35
+2023Q2,Finance & Insurance,Non-Saudi,6109,289,4145.88,4.73
+2023Q2,Finance & Insurance,Saudi,7271,277,6258.01,3.81
+2023Q2,Healthcare,Non-Saudi,13501,865,4346.14,6.41
+2023Q2,Healthcare,Saudi,14319,894,6583.42,6.24
+2023Q2,Hospitality & Tourism,Non-Saudi,14688,1033,3413.91,7.03
+2023Q2,Hospitality & Tourism,Saudi,17070,1156,6820.44,6.77
+2023Q2,Information Technology,Non-Saudi,8657,733,4019.65,8.47
+2023Q2,Information Technology,Saudi,10489,868,6741.42,8.28
+2023Q2,Manufacturing,Non-Saudi,18639,805,4240.26,4.32
+2023Q2,Manufacturing,Saudi,10931,474,7039.35,4.34
+2023Q2,Transport & Logistics,Non-Saudi,17061,699,4077.34,4.1
+2023Q2,Transport & Logistics,Saudi,18192,789,7022.49,4.34
+2023Q2,Wholesale & Retail,Non-Saudi,22564,1009,4643.46,4.47
+2023Q2,Wholesale & Retail,Saudi,25579,1110,6332.36,4.34
+2023Q3,Construction,Non-Saudi,27942,1278,4110.65,4.57
+2023Q3,Construction,Saudi,15584,677,6094.54,4.34
+2023Q3,Finance & Insurance,Non-Saudi,6835,364,4276.93,5.33
+2023Q3,Finance & Insurance,Saudi,7321,371,6173.6,5.07
+2023Q3,Healthcare,Non-Saudi,13612,820,4465.76,6.02
+2023Q3,Healthcare,Saudi,14943,905,6521.67,6.06
+2023Q3,Hospitality & Tourism,Non-Saudi,15128,1036,4199.11,6.85
+2023Q3,Hospitality & Tourism,Saudi,16927,1106,6666.76,6.53
+2023Q3,Information Technology,Non-Saudi,8562,718,4141.08,8.39
+2023Q3,Information Technology,Saudi,9070,794,6554.07,8.75
+2023Q3,Manufacturing,Non-Saudi,18620,819,4531.17,4.4
+2023Q3,Manufacturing,Saudi,10211,476,5967.58,4.66
+2023Q3,Transport & Logistics,Non-Saudi,16454,735,4134.31,4.47
+2023Q3,Transport & Logistics,Saudi,19143,856,6706.14,4.47
+2023Q3,Wholesale & Retail,Non-Saudi,22513,1095,4366.34,4.86
+2023Q3,Wholesale & Retail,Saudi,25234,1130,6491.05,4.48
+2023Q4,Construction,Non-Saudi,27921,1208,4005.3,4.33
+2023Q4,Construction,Saudi,15526,651,6645.47,4.19
+2023Q4,Finance & Insurance,Non-Saudi,6834,343,3934.24,5.02
+2023Q4,Finance & Insurance,Saudi,7190,350,6453.59,4.87
+2023Q4,Healthcare,Non-Saudi,13398,811,4492.58,6.05
+2023Q4,Healthcare,Saudi,14883,885,6467.68,5.95
+2023Q4,Hospitality & Tourism,Non-Saudi,14617,1000,4304.44,6.84
+2023Q4,Hospitality & Tourism,Saudi,17916,1271,6019.78,7.09
+2023Q4,Information Technology,Non-Saudi,8269,687,4132.68,8.31
+2023Q4,Information Technology,Saudi,10110,843,6477.3,8.34
+2023Q4,Manufacturing,Non-Saudi,18993,839,4213.85,4.42
+2023Q4,Manufacturing,Saudi,10106,373,6367.49,3.69
+2023Q4,Transport & Logistics,Non-Saudi,17399,790,4276.08,4.54
+2023Q4,Transport & Logistics,Saudi,20162,901,6175.48,4.47
+2023Q4,Wholesale & Retail,Non-Saudi,22562,935,4336.99,4.14
+2023Q4,Wholesale & Retail,Saudi,25145,1161,6374.02,4.62
+2024Q1,Construction,Non-Saudi,29237,1311,4296.76,4.48
+2024Q1,Construction,Saudi,15408,789,6522.8,5.12
+2024Q1,Finance & Insurance,Non-Saudi,7284,356,3924.01,4.89
+2024Q1,Finance & Insurance,Saudi,7577,352,6268.05,4.65
+2024Q1,Healthcare,Non-Saudi,13485,808,4146.07,5.99
+2024Q1,Healthcare,Saudi,15236,943,6271.26,6.19
+2024Q1,Hospitality & Tourism,Non-Saudi,15363,1081,4563.35,7.04
+2024Q1,Hospitality & Tourism,Saudi,17785,1254,7114.18,7.05
+2024Q1,Information Technology,Non-Saudi,9346,822,3970.36,8.8
+2024Q1,Information Technology,Saudi,9824,828,6237.11,8.43
+2024Q1,Manufacturing,Non-Saudi,18714,828,4481.24,4.42
+2024Q1,Manufacturing,Saudi,11101,542,6551.96,4.88
+2024Q1,Transport & Logistics,Non-Saudi,17258,740,4786.56,4.29
+2024Q1,Transport & Logistics,Saudi,20438,889,6925.48,4.35
+2024Q1,Wholesale & Retail,Non-Saudi,22910,1081,4038.33,4.72
+2024Q1,Wholesale & Retail,Saudi,26306,1180,6909.8,4.49
+2024Q2,Construction,Non-Saudi,28565,1249,4308.86,4.37
+2024Q2,Construction,Saudi,16174,670,6604.54,4.14
+2024Q2,Finance & Insurance,Non-Saudi,6412,325,4258.05,5.07
+2024Q2,Finance & Insurance,Saudi,7074,362,5756.45,5.12
+2024Q2,Healthcare,Non-Saudi,13928,812,4520.48,5.83
+2024Q2,Healthcare,Saudi,15301,916,6283.86,5.99
+2024Q2,Hospitality & Tourism,Non-Saudi,15311,1081,4186.67,7.06
+2024Q2,Hospitality & Tourism,Saudi,17344,1282,6792.04,7.39
+2024Q2,Information Technology,Non-Saudi,8700,701,4304.77,8.06
+2024Q2,Information Technology,Saudi,10494,983,7015.11,9.37
+2024Q2,Manufacturing,Non-Saudi,18988,847,4473.15,4.46
+2024Q2,Manufacturing,Saudi,10430,459,6943.57,4.4
+2024Q2,Transport & Logistics,Non-Saudi,17278,786,4152.43,4.55
+2024Q2,Transport & Logistics,Saudi,19399,909,6214.94,4.69
+2024Q2,Wholesale & Retail,Non-Saudi,23579,1045,4238.48,4.43
+2024Q2,Wholesale & Retail,Saudi,26702,1209,6365.96,4.53
+2024Q3,Construction,Non-Saudi,28138,1235,4285.17,4.39
+2024Q3,Construction,Saudi,16093,715,6938.34,4.44
+2024Q3,Finance & Insurance,Non-Saudi,6699,366,4161.03,5.46
+2024Q3,Finance & Insurance,Saudi,7972,376,6184.75,4.72
+2024Q3,Healthcare,Non-Saudi,13157,803,4145.99,6.1
+2024Q3,Healthcare,Saudi,15678,932,6080.43,5.94
+2024Q3,Hospitality & Tourism,Non-Saudi,15129,1062,3969.89,7.02
+2024Q3,Hospitality & Tourism,Saudi,16947,1191,6992.95,7.03
+2024Q3,Information Technology,Non-Saudi,9100,735,4055.26,8.08
+2024Q3,Information Technology,Saudi,10616,957,6794.58,9.01
+2024Q3,Manufacturing,Non-Saudi,18931,853,4685.68,4.51
+2024Q3,Manufacturing,Saudi,9986,434,6476.11,4.35
+2024Q3,Transport & Logistics,Non-Saudi,17460,823,4153.74,4.71
+2024Q3,Transport & Logistics,Saudi,20090,886,6501.63,4.41
+2024Q3,Wholesale & Retail,Non-Saudi,22499,1012,3927.8,4.5
+2024Q3,Wholesale & Retail,Saudi,25993,1154,6486.98,4.44
+2024Q4,Construction,Non-Saudi,28855,1303,4371.58,4.52
+2024Q4,Construction,Saudi,15762,668,6870.39,4.24
+2024Q4,Finance & Insurance,Non-Saudi,6362,247,3527.57,3.88
+2024Q4,Finance & Insurance,Saudi,7148,320,6510.67,4.48
+2024Q4,Healthcare,Non-Saudi,14193,912,3969.45,6.43
+2024Q4,Healthcare,Saudi,14780,820,6904.15,5.55
+2024Q4,Hospitality & Tourism,Non-Saudi,14568,1064,4098.54,7.3
+2024Q4,Hospitality & Tourism,Saudi,17261,1203,6833.63,6.97
+2024Q4,Information Technology,Non-Saudi,8063,669,4416.56,8.3
+2024Q4,Information Technology,Saudi,10289,905,6962.97,8.8
+2024Q4,Manufacturing,Non-Saudi,19515,932,4299.88,4.78
+2024Q4,Manufacturing,Saudi,10778,483,6303.92,4.48
+2024Q4,Transport & Logistics,Non-Saudi,17699,794,4164.85,4.49
+2024Q4,Transport & Logistics,Saudi,20357,862,6660.72,4.23
+2024Q4,Wholesale & Retail,Non-Saudi,23399,1028,4355.69,4.39
+2024Q4,Wholesale & Retail,Saudi,26428,1243,6143.39,4.7
+2025Q1,Construction,Non-Saudi,29746,1352,4313.92,4.55
+2025Q1,Construction,Saudi,15963,720,6772.15,4.51
+2025Q1,Finance & Insurance,Non-Saudi,7697,354,4188.71,4.6
+2025Q1,Finance & Insurance,Saudi,8454,416,6173.69,4.92
+2025Q1,Healthcare,Non-Saudi,14128,795,4398.11,5.63
+2025Q1,Healthcare,Saudi,15604,957,6477.9,6.13
+2025Q1,Hospitality & Tourism,Non-Saudi,15522,1036,3937.21,6.67
+2025Q1,Hospitality & Tourism,Saudi,18325,1271,6586.94,6.94
+2025Q1,Information Technology,Non-Saudi,9381,856,4381.44,9.12
+2025Q1,Information Technology,Saudi,10170,873,5901.47,8.58
+2025Q1,Manufacturing,Non-Saudi,19883,878,3866.05,4.42
+2025Q1,Manufacturing,Saudi,10680,568,6523.16,5.32
+2025Q1,Transport & Logistics,Non-Saudi,18021,704,4649.53,3.91
+2025Q1,Transport & Logistics,Saudi,20037,879,6476.32,4.39
+2025Q1,Wholesale & Retail,Non-Saudi,23667,1050,3682.01,4.44
+2025Q1,Wholesale & Retail,Saudi,26631,1194,6604.27,4.48
+2025Q2,Construction,Non-Saudi,29523,1266,4223.07,4.29
+2025Q2,Construction,Saudi,16358,704,6468.64,4.3
+2025Q2,Finance & Insurance,Non-Saudi,6526,299,4375.21,4.58
+2025Q2,Finance & Insurance,Saudi,7972,343,6046.43,4.3
+2025Q2,Healthcare,Non-Saudi,12961,774,4194.16,5.97
+2025Q2,Healthcare,Saudi,15157,845,6527.15,5.57
+2025Q2,Hospitality & Tourism,Non-Saudi,15151,1075,4298.91,7.1
+2025Q2,Hospitality & Tourism,Saudi,18207,1273,6654.83,6.99
+2025Q2,Information Technology,Non-Saudi,8487,696,4373.13,8.2
+2025Q2,Information Technology,Saudi,10742,969,6378.56,9.02
+2025Q2,Manufacturing,Non-Saudi,18882,833,4009.79,4.41
+2025Q2,Manufacturing,Saudi,10218,451,6147.99,4.41
+2025Q2,Transport & Logistics,Non-Saudi,18403,868,3837.01,4.72
+2025Q2,Transport & Logistics,Saudi,19698,895,6350.31,4.54
+2025Q2,Wholesale & Retail,Non-Saudi,23355,1013,4052.71,4.34
+2025Q2,Wholesale & Retail,Saudi,26938,1155,6444.27,4.29
+2025Q3,Construction,Non-Saudi,29722,1352,4062.19,4.55
+2025Q3,Construction,Saudi,16278,686,6613.8,4.21
+2025Q3,Finance & Insurance,Non-Saudi,7480,344,4049.42,4.6
+2025Q3,Finance & Insurance,Saudi,7856,297,6324.36,3.78
+2025Q3,Healthcare,Non-Saudi,13327,808,4802.5,6.06
+2025Q3,Healthcare,Saudi,15682,947,6346.59,6.04
+2025Q3,Hospitality & Tourism,Non-Saudi,15370,1057,4251.65,6.88
+2025Q3,Hospitality & Tourism,Saudi,18425,1271,6052.52,6.9
+2025Q3,Information Technology,Non-Saudi,9067,662,4094.33,7.3
+2025Q3,Information Technology,Saudi,10568,910,6735.0,8.61
+2025Q3,Manufacturing,Non-Saudi,19703,853,4475.75,4.33
+2025Q3,Manufacturing,Saudi,10813,473,6040.2,4.37
+2025Q3,Transport & Logistics,Non-Saudi,17998,791,3992.86,4.39
+2025Q3,Transport & Logistics,Saudi,20069,886,6351.19,4.41
+2025Q3,Wholesale & Retail,Non-Saudi,22935,990,4121.59,4.32
+2025Q3,Wholesale & Retail,Saudi,27249,1194,6423.62,4.38
+2025Q4,Construction,Non-Saudi,29775,1357,4219.94,4.56
+2025Q4,Construction,Saudi,15960,717,6318.81,4.49
+2025Q4,Finance & Insurance,Non-Saudi,6614,297,4137.95,4.49
+2025Q4,Finance & Insurance,Saudi,7927,363,6860.33,4.58
+2025Q4,Healthcare,Non-Saudi,13203,879,4332.25,6.66
+2025Q4,Healthcare,Saudi,15974,961,6634.49,6.02
+2025Q4,Hospitality & Tourism,Non-Saudi,16240,1077,4604.19,6.63
+2025Q4,Hospitality & Tourism,Saudi,17606,1227,6957.66,6.97
+2025Q4,Information Technology,Non-Saudi,9169,793,3931.54,8.65
+2025Q4,Information Technology,Saudi,9403,781,6247.52,8.31
+2025Q4,Manufacturing,Non-Saudi,20319,846,3724.42,4.16
+2025Q4,Manufacturing,Saudi,10462,464,6528.05,4.44
+2025Q4,Transport & Logistics,Non-Saudi,17286,820,4373.36,4.74
+2025Q4,Transport & Logistics,Saudi,20320,927,6522.22,4.56
+2025Q4,Wholesale & Retail,Non-Saudi,23879,1095,4192.3,4.59
+2025Q4,Wholesale & Retail,Saudi,26585,1222,6337.27,4.6
