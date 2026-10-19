@@ -1,56 +1,103 @@
-# Saudi Labor Market Pulse | Power BI Analytics
+# Saudi Labor Market Analytics
 
-I built this project to explore how modeled employment, job vacancies and monthly salaries vary across Saudi cities, industries and worker groups. I wanted to look beyond headline totals and compare how demand, pay and workforce composition change over time.
+**Power BI | Python | SQL | Saudi Arabia | Employment, vacancies and salaries**
 
-**Important:** This is a portfolio exercise using **synthetic data**, not official Saudi government labor-market statistics. The vacancies are simulated, not verified job openings, and salaries are not observed market benchmarks.
+I wanted to understand a simple question: **where does hiring demand look strongest when I compare vacancies with the size of the existing workforce?**
 
-## Power BI report
+Looking only at the number of vacancies can be misleading. A large sector naturally tends to have more openings, so I built this project to compare vacancy counts, vacancy rates, employment, salaries and workforce composition in one place.
 
-| Page | What I explored |
+I worked with a **synthetic Saudi labor-market dataset** covering 10 cities, 8 sectors and 28 quarters (2019 Q1–2025 Q4). I used Python and SQL to explore the data and Power BI to put the results into an interactive four-page report.
+
+> **About the data:** These are simulated estimates I used to practice market analysis. They are **not** official Saudi labor statistics, verified job vacancies, or actual salary benchmarks. The findings below describe patterns **inside this dataset**, not confirmed conditions in Saudi Arabia.
+
+## What stood out to me
+
+I focused on **2025 Q4** for the comparisons below so I wasn't accidentally adding together the same workforce across different quarters.
+
+| Metric | Modeled result |
+| --- | ---: |
+| Estimated employment | 260,722 |
+| Estimated vacancies | 13,826 |
+| Vacancies as a share of employment | 5.30% |
+| Employment-weighted monthly salary | SAR 5,309 |
+
+### 1. The sector with the most vacancies isn't the sector with the highest vacancy rate
+
+In the latest simulated quarter, **Wholesale & Retail** has the most vacancies (**2,317**), narrowly ahead of **Hospitality & Tourism** (**2,304**). But when I divide vacancies by employment, **Information Technology** comes out highest at **8.48%**, even though it has fewer vacancies (**1,574**).
+
+That difference is the main reason I included both measures in the dashboard. **Vacancy count tells me where the volume is; vacancy rate helps me compare demand relative to sector size.** Neither measure proves that a sector is experiencing a real-world skills shortage.
+
+### 2. Healthcare and hospitality stand out on relative demand
+
+The modeled vacancy ratios are **6.81% for Hospitality & Tourism** and **6.31% for Healthcare**, both above the overall **5.30%**. **Manufacturing** sits lower at **4.26%**.
+
+I would investigate whether this pattern holds in actual job-posting or official labor data before using it to make a career or recruitment decision.
+
+### 3. Riyadh leads in volume, but city rankings change when I use a ratio
+
+**Riyadh** has the largest modeled vacancy count (**2,458**), followed by **Khobar** (**1,892**) and **Dammam** (**1,748**). But **Madinah** has the highest vacancy-to-employment ratio among the ten modeled cities (**5.60%**), compared with **5.29% in Riyadh**.
+
+My takeaway: **a bigger job market and a higher relative vacancy rate are not the same thing**.
+
+### 4. Employment increased over the modeled period, but the latest quarter softened
+
+Estimated employment goes from **226,450 in 2019 Q1** to **260,722 in 2025 Q4**, an increase of about **15.1%**. In the most recent quarter, though, employment fell about **0.7%** from 2025 Q3, while vacancies rose about **2.3%**.
+
+I wouldn't call that a confirmed market turning point based on a synthetic series. It is a useful example of why I prefer showing both the longer-term trend and quarter-on-quarter movement.
+
+### 5. Workforce composition needs a consistent time filter
+
+In 2025 Q4, the dataset shows **47.7% Saudi employment** and **19.6% female employment**. One limitation in the current Power BI report is that the nationality and gender donut visuals aggregate observations across all quarters, while the headline employment KPI shows the latest quarter. **Those historical totals are not unique people or current headcounts.** I have kept this limitation visible rather than presenting the figures as directly comparable.
+
+## The dashboard
+
+| Page | What I wanted to see |
 | --- | --- |
-| Employment Trends | Quarterly employment and vacancies, quarter-on-quarter changes and vacancy-to-employment ratio |
-| Sector Demand | Vacancy counts versus vacancy ratios across economic sectors |
-| Salary Analysis | Employment-weighted monthly salary trends and sector comparisons |
-| Workforce Demographics | Separate nationality and gender distributions |
+| **Employment Trends** | Whether employment and vacancies are moving together over time |
+| **Sector Demand** | Which sectors lead by vacancy volume versus relative demand |
+| **Salary Analysis** | How modeled employment-weighted salaries differ by sector and quarter |
+| **Workforce Demographics** | How nationality and gender are represented in the modeled workforce |
 
-### Dashboard screenshots
+### Screenshots
 
-The four final Power BI screenshots are available in `assets/screenshots/`:
+[![Employment Trends dashboard](assets/screenshots/01_Employment_Trends.png)](assets/screenshots/01_Employment_Trends.png)
 
-- [Employment Trends](assets/screenshots/01_Employment_Trends.png)
-- [Sector Demand](assets/screenshots/02_Sector_Demand.png)
-- [Salary Analysis](assets/screenshots/03_Salary_Analysis.png)
-- [Workforce Demographics](assets/screenshots/04_Workforce_Demographics.png)
+[![Sector Demand dashboard](assets/screenshots/02_Sector_Demand.png)](assets/screenshots/02_Sector_Demand.png)
 
-## Dataset and approach
+[![Salary Analysis dashboard](assets/screenshots/03_Salary_Analysis.png)](assets/screenshots/03_Salary_Analysis.png)
 
-The simulated dataset covers **28 quarters (2019 Q1–2025 Q4)**, with **8,960 records** across Saudi cities and economic sectors. I used Power BI, Power Query and DAX to build four report pages. The repository also includes prepared analysis CSVs, a SQLite database, summary JSON, a [Python analysis script](python/analyze_labor.py) and [SQLite queries](sql/labor_market_analysis.sql).
+[![Workforce Demographics dashboard](assets/screenshots/04_Workforce_Demographics.png)](assets/screenshots/04_Workforce_Demographics.png)
 
-For **2025 Q4**, the synthetic data gives approximately **260,722 employed people**, **13,826 vacancies**, a **5.30% vacancy-to-employment ratio** and an **employment-weighted monthly salary of SAR 5,309**.
+## How I approached the analysis
 
-Employment and vacancy counts are **quarterly snapshots**. Adding them across quarters does **not** give a unique workforce or vacancy count. The latest-quarter KPI cards are intended to avoid that mistake.
+I organized the data by quarter, city, sector, nationality and gender. For the comparisons, I used:
 
-The historical nationality and gender donut charts in the current report show aggregated quarterly observations (about 7M), whereas the employment KPI shows the latest-quarter snapshot (about 261K). **Those donuts should not be interpreted as latest-quarter headcounts.** They need a matching quarter filter or a clearer historical-aggregate label before being used as a current workforce comparison.
+- **Vacancy-to-employment ratio** = vacancies ÷ employed people × 100
+- **Employment-weighted salary** = sum of (salary × employed people) ÷ total employed people
+- **Quarter-on-quarter change** = (current quarter − previous quarter) ÷ previous quarter × 100
 
-## Open the Power BI project
+I used employment-weighted averages because a simple average of sector or group salaries would give small and large workforce groups the same influence.
 
-To open the report:
+The repository includes the [Python analysis script](python/analyze_labor.py), [SQL queries](sql/labor_market_analysis.sql), [source dataset](data/02_labor_market_quarterly_synthetic.csv), [analysis outputs](analysis/) and editable Power BI report files.
 
-1. Open [`Saudi_Labor_Market.pbix`](Saudi_Labor_Market.pbix) in Power BI Desktop, or open [`Saudi_Labor_Market.pbip`](Saudi_Labor_Market.pbip) for the editable Power BI project.
-2. In **Transform data → Edit parameters**, set `CSVFilePath` to your local copy of `data/02_labor_market_quarterly_synthetic.csv`.
-3. Select **Close & Apply**, refresh and review the four pages.
-4. Save a `.pbix` copy if you want a single-file report.
+## Open or reproduce the project
 
-The Power BI project is an editable **PBIP** folder structure with a separate report and semantic model. A **PBIX** copy is also included. The screenshots show the report rendered in Power BI Desktop, but interactions and every filter combination have not been independently tested.
+**Quickest option:** Open [`Saudi_Labor_Market.pbix`](Saudi_Labor_Market.pbix) in Power BI Desktop.
 
-## Reproduce the analysis
+**Editable project:** Open [`Saudi_Labor_Market.pbip`](Saudi_Labor_Market.pbip), which uses the `Saudi_Labor_Market.Report/` and `Saudi_Labor_Market.SemanticModel/` folders. If Power BI asks for the data source, point it to your local copy of [the CSV](data/02_labor_market_quarterly_synthetic.csv) and refresh.
 
-From the repository root, run `python python/analyze_labor.py` (Python standard library only). It reads the source CSV and writes analysis summaries and the SQLite database to `analysis/`. Open the database with a SQLite client to run the queries in `sql/labor_market_analysis.sql`.
+To reproduce the Python summaries and SQLite database from the repository root:
 
-## What I would improve next
+```bash
+python python/analyze_labor.py
+```
 
-I would make the workforce donuts follow the selected quarter, then add a compact summary of which sectors have the highest vacancy ratios rather than only the most vacancies. If I were using this for real workforce planning, I'd validate the trends against official labor-market publications before drawing policy or hiring conclusions.
+The script uses the Python standard library. The SQL file can be run against `analysis/labor_market.sqlite` using a SQLite client.
 
-## Repository status
+## What I'd do next
 
-**Published:** The PBIP project, PBIX report, source CSV, analysis outputs and four Power BI screenshots are in this repository. The Python and SQL analysis scripts are included in their respective folders.
+The first improvement I'd make is to have the demographic donut charts follow the same selected quarter as the KPI cards. After that, I'd compare these simulated patterns with real data from official Saudi sources and job-posting datasets. That would let me test which insights survive outside a portfolio exercise.
+
+---
+
+*Independent portfolio project. All figures and insights are based on synthetic modeled data; no affiliation with a Saudi government agency or employer is implied.*
